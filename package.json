@@ -1,0 +1,11 @@
+{
+  "name": "crypto-db",
+  "version": "1.0.0-BETA1",
+  "description": "Hold on, we're working on this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
