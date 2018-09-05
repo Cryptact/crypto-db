@@ -3,7 +3,7 @@
 drop function if exists FN_CIDGEN;
 delimiter //
 
-create function FN_CIDGEN() RETURNS CHAR(12) NOT DETERMINISTIC
+create function FN_CIDGEN() RETURNS CHAR(12) NOT DETERMINISTIC
 BEGIN
 
 SET @VALID_CHARS = 'TNLDPHGFYWKVXZJQ';
