@@ -34,7 +34,7 @@ Please make PRs.
 ### About CID
 CID (Cryptocurrency ID) is to uniquely identify a cryptocurrency, and represents one blockchain or a token on a blockchain such as ERC20 Token on Ethereum.
 
-CID consists of 9 alphabets starting with "C", followed by 8 alphabets each of which is randomly picked from "TNLDPHGFYWKVXZJQ" without repetition. The letters were chosen to try as much to make CID langauge-safe while enabling simaltaneous, multiple PRs without conflicting each other. They are alphabets excluding the 5 frequently-used letters as well as vowles in English,  and 3 common letters used in cryptocurrency symbols.
+CID consists of 12 alphabets starting with "C", followed by 11 alphabets each of which is randomly picked from "TNLDPHGFYWKVXZJQ" without repetition. The letters were chosen to try as much to make CID langauge-safe while enabling simaltaneous, multiple PRs without conflicting each other. They are alphabets excluding the 5 frequently-used letters as well as vowles in English,  and 3 common letters used in cryptocurrency symbols.
 
 ### About map_for_accuracy and map_for_coverage
 Both files define a map from cryptocurrency identifiers in a certain project or excahnge ('target body') to CIDs.

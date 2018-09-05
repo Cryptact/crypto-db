@@ -5,7 +5,7 @@
 //                 0123456789ABCDEF
 const VALID_CHARS = "TNLDPHGFYWKVXZJQ";
 
-const CID_LENGTH_WITHOUT_PREFIX = 8
+const CID_LENGTH_WITHOUT_PREFIX = 11
 
 function generateCid() {
   let cid = "C";

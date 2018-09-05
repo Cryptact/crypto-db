@@ -1,7 +1,7 @@
 import random
 
 VALID_CHARS = "TNLDPHGFYWKVXZJQ"
-CID_LENGTH_WITHOUT_PREFIX = 8
+CID_LENGTH_WITHOUT_PREFIX = 11
 
 def cidgen():
     cid = "C"
