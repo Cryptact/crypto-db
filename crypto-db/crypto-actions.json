@@ -1,0 +1,17 @@
+{
+  "CDLPFYJTZNXW":{
+    "1":{
+        "id": "CDLPFYJTZNXW",
+        "sequence": 1,
+        "action": "AntShares(ANS) changed its brand to NEO."
+    }
+  },  
+  "CTFLDWZYQKXG": {
+    "1": {
+      "id": "CTFLDWZYQKXG",
+      "sequence": 1,
+      "action": "EOS to launch its own blockchain. Existing EOS tokens holders were offered coins on the mainnet if htey requested in prior to this event. New CryptoID is CPXQGHKTDLYJ.",
+      "executed": "20180602T22:00Z"
+    }
+  }
+}

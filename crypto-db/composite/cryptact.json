@@ -1,0 +1,5 @@
+{
+  "namespace": "cryptact",
+  "description": "composite for price continuity in cryptact. ns_id is cryptact's ticker symbol.",
+  "map": [{ "ns_id": "EOS", "ids": ["CPXQGHKTDLYJ", "CTFLDWZYQKXG"] }]
+}
