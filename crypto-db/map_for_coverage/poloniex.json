@@ -1,0 +1,5 @@
+{
+  "namespace": "poloniex",
+  "description": "ns_id is ticker symbol in poloniex.",
+  "map": [{ "ns_id": "STR", "id": "CDYZWFQLHTPX" }]
+}

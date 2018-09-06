@@ -6,6 +6,13 @@
     "type": "Symbol Change",
     "description": "AntShares(symbol: ANS) changed its brand to NEO."
   },
+  "CAQXHKYNGFDL": {
+    "action_id": "CAQXHKYNGFDL",
+    "ids": ["CDNJLZXVKFTY"],
+    "namespace": "crypto-db",
+    "type": "Symbol Change",
+    "description": "XRB was renamed to be NANO."
+  },
   "CAHZLFNTVWKY": {
     "action_id": "CAHZLFNTVWKY",
     "ids": ["CGVLJZYFQNTH"],

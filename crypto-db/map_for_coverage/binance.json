@@ -1,0 +1,16 @@
+{
+  "namespace": "binance",
+  "description": "Mapping for binance trade history.",
+  "map": [
+    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
+    { "ns_id": "BCC", "id": "CWKHNDXQGFTP" },
+    { "ns_id": "BLZ", "id": "CWJFNXVGPDTQ" },
+    { "ns_id": "BQX", "id": "CYKGHXLQTPWD" },
+    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "20180602T22:00Z" },
+    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "20180602T22:00Z" },
+    { "ns_id": "TRX", "id": "CKQTLYPVHZND", "to": "20180625T00:00+08:00" },
+    { "ns_id": "TRX", "id": "CDVYLJGFXHZK", "from": "20180625T00:00+08:00" },
+    { "ns_id": "XRB", "id": "CAQXHKYNGFDL" },
+    { "ns_id": "YOYO", "id": "CDKVHXFLTGYQ" }
+  ]
+}
