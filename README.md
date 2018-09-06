@@ -15,14 +15,14 @@ Please make PRs, and join the group of Crypto [Numismatists](https://en.wikipedi
     - `name` - name of the cryptocurrency. Can be changed later.
 
 - `crypto-actions.json` - records cryptocurrency events related to its brand, blockchain or token. Crypto Action is analogous to [Corporate Action](https://en.wikipedia.org/wiki/Corporate_action) in traditional assets.
-   - `id` - CryptoID in issue.
-   - `sequence` - Sequence Number of this Crypto Action of this symbol, starting from 1. A pair of (`id`, `sequence`) can uniquely identify a Crypto Action.
-   - `action` - description of the change
-   - `reported` - UTC in ISO8601 when this action was first announced or reported.
-   - `executed` -  UTC in ISO8601 when this action is executed or planned to execute.
+   - `action_id` - unique identifier of this Crypto Action, starting with "CA" followed by 10 random characters as in CrpytoID.
+   - `ids` - related CryptoIDs.
+   - `type` - currently "Symbol Change" and "Mainnet Launch" are identified.
+   - `description` - description of this Crypto Action.
+   - `reported` - (optional) UTC in ISO8601 when this action was first announced or reported.
+   - `executed` - (optional) UTC in ISO8601 when this action is executed or planned to execute.
 
 - `map-for-<accuracy|coverage>/<namespace>.json` - defines a map between a symbol in a namespace to id. See 'About map-for-accuracy and map-for-coverage' below for detail.
-- 
    - `ns_id` - identifier in the namespace.
    - `id` - corresponding CryptoID.
    - `from` - (optional) UTC in ISO8601 specifying when this mapping is enabled. Inclusive.
@@ -30,6 +30,9 @@ Please make PRs, and join the group of Crypto [Numismatists](https://en.wikipedi
    - `ns_[key]` - (varies) additional, arbitrary information about `ns_id`, such as the name of the cryptocurrency in the namespace.
 
 - `composite/<namespace>.json` - define a mapping from one `ns_id` to multiple CryptoIDs when the namespace consider multiple CryptoIDs as one cryptocurency. This is often used to chart prices continuously before and after crypto-actions.
+  - `composite_id` - unique identifier for this composite, starting with "CC" followed by 10 random characters as in CryptoID.
+  - `ns_id` - id in the namespace.
+  - `ids` - CryptoIDs which compose this composite.
 
 ### About CryptoID
 CryptoID is used to uniquely identify a cryptocurrency and represents one blockchain or a token on a blockchain such as ERC20 Token on Ethereum.

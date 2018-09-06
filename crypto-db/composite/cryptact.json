@@ -1,5 +1,11 @@
 {
   "namespace": "cryptact",
-  "description": "composite for price continuity in cryptact. ns_id is cryptact's ticker symbol.",
-  "map": [{ "ns_id": "EOS", "ids": ["CPXQGHKTDLYJ", "CTFLDWZYQKXG"] }]
+  "description": "composite for price continuity in Cryptact. ns_id is Cryptact's ticker symbol.",
+  "map": {
+    "CCQZNXFTDWPV": {
+      "composite_id": "CCQZNXFTDWPV",
+      "ns_id": "EOS",
+      "ids": ["CPXQGHKTDLYJ", "CTFLDWZYQKXG"]
+    }
+  }
 }
