@@ -6,13 +6,33 @@
     "type": "Symbol Change",
     "description": "AntShares(symbol: ANS) changed its brand to NEO."
   },
+  "CAHZLFNTVWKY": {
+    "action_id": "CAHZLFNTVWKY",
+    "ids": ["CGVLJZYFQNTH"],
+    "namespace": "crypto-db",
+    "type": "Symbol Change",
+    "description": "BLAS rebranded as ERA.",
+    "source": "https://bitcointalk.org/index.php?topic=3120633.0",
+    "reported": "20180314",
+    "executed": "20180411"
+  },
 
-  "CYXQWKGDVTNZ": {
+  "CAXQWKGDVTNZ": {
     "action_id": "CAXQWKGDVTNZ",
     "ids": ["CTFLDWZYQKXG", "CPXQGHKTDLYJ"],
     "namespace": "crypto-db",
     "type": "Mainnet Launch",
-    "description": "EOS to launch its own chain. Existing EOS tokens holders were offered coins on the mainnet if htey requested in prior to this event.",
+    "description": "EOS to launch its own chain. Existing EOS tokens holders were offered coins on the mainnet if the swap was requested prior to this event.",
     "executed": "20180602T22:00Z"
+  },
+
+  "CAXZHGVPFYWJ": {
+    "action_id": "CKQTLYPVHZND",
+    "ids": ["CKQTLYPVHZND", "CDVYLJGFXHZK"],
+    "namespace": "crypto-db",
+    "type": "Mainnet Launch",
+    "description": "TRON(TRX) launched its own chain",
+    "source": "https://github.com/tronprotocol/Documentation/blob/add_api/TRX/TRX_Migration_Notice_EN.md",
+    "executed": "20180625T00:00+08:00"
   }
 }

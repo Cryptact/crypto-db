@@ -6,6 +6,11 @@
       "composite_id": "CCQZNXFTDWPV",
       "ns_id": "EOS",
       "ids": ["CPXQGHKTDLYJ", "CTFLDWZYQKXG"]
+    },
+    "CCQFWZJPGHXV": {
+      "composite_id": "CCQFWZJPGHXV",
+      "ns_id": "TRX",
+      "ids": ["CKQTLYPVHZND", "CDVYLJGFXHZK"]
     }
   }
 }
