@@ -24,6 +24,14 @@
     "executed": "20180411"
   },
 
+  "CALGZWXDYVTQ":{
+    "action_id": "CALGZWXDYVTQ",
+    "ids": ["CJKQGYWVDFPT", "CPZDQTHJGYLX"],
+    "namespace": "crypto-db",
+    "type": "Token Swap",
+    "description": "Paccoin became $PAC, with token swap offered with varying ratio."
+  },
+
   "CAXQWKGDVTNZ": {
     "action_id": "CAXQWKGDVTNZ",
     "ids": ["CTFLDWZYQKXG", "CPXQGHKTDLYJ"],

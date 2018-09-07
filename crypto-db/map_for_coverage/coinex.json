@@ -1,0 +1,8 @@
+{
+    "namespace": "coinex",
+    "description": "Mapping for coinex trade history.",
+    "map": [
+      { "ns_id": "CET", "id": "CKNFQYVZDWJT" }
+    ]
+  }
+  
