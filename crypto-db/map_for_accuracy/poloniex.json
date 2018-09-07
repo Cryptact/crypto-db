@@ -1,0 +1,16 @@
+{
+  "namespace": "poloniex",
+  "description": "ns_id is ticker symbol in poloniex.",
+  "map": [
+    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
+    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
+    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
+    { "ns_id": "LSK", "id": "CXJQLTYVFGZK" },
+    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
+    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
+    { "ns_id": "DOGE", "id": "CLDGTPZFQNVH" },
+    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
+    { "ns_id": "XMR", "id": "CLTJPFYZNVWG" },
+    { "ns_id": "STR", "id": "CDYZWFQLHTPX" }
+  ]
+}
