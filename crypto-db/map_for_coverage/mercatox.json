@@ -3,6 +3,7 @@
   "description": "Mapping for mercatox trade history.",
   "map": [
     { "ns_id": "XRB", "id": "CAQXHKYNGFDL" },
-    { "ns_id": "WITH", "id": "CNGWXQYTPKLZ" }
+    { "ns_id": "WITH", "id": "CNGWXQYTPKLZ" },
+    { "ns_id": "FNL", "id": "CJHQVNLFXKGD" }
   ]
 }
