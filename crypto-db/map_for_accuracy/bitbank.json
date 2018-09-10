@@ -1,5 +1,5 @@
 {
-  "namespace": "zaif",
+  "namespace": "bitbank",
   "description": "ns_id is ticker symbol in zaif's trade history.",
   "map": [
     { "ns_id": "BCC", "id": "CWKHNDXQGFTP" },

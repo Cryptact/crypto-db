@@ -82,11 +82,13 @@ def test_map_for_accuracy(all_data: {}):
 
     for namespace in all_data['map_for_accuracy'].keys():
         print(f"map_for_accuracy: checking..{namespace}")
+        assert namespace == all_data['map_for_accuracy'][namespace]['namespace']
         map = all_data['map_for_accuracy'][namespace]['map']
         for entry in map:
             db_entry = all_data['crypto-db'][entry['id']]
             if db_entry['symbol'] != entry['ns_id'] and namespace != 'coinmarketcap':
-                print(f"warn: ns_id {entry['ns_id']} != {db_entry['symbol']} ({db_entry['name']})")
+                print(
+                    f"warn: ns_id {entry['ns_id']} != {db_entry['symbol']} ({db_entry['name']})")
 
 
 def test_map_for_coverage(all_data: {}):
@@ -95,12 +97,14 @@ def test_map_for_coverage(all_data: {}):
     # check each entry exists in map_for_accuracy of the same namespace.
     for namespace in all_data['map_for_coverage'].keys():
         print(f"map_for_coverage: checking..{namespace}")
+        assert namespace == all_data['map_for_coverage'][namespace]['namespace']
         map = all_data['map_for_coverage'][namespace]['map']
         map_fora = all_data['map_for_accuracy'][namespace]['map']
         for entry in map:
             db_entry = all_data['crypto-db'][entry['id']]
             if db_entry['symbol'] != entry['ns_id'] and namespace != 'coinmarketcap':
-                print(f"warn: ns_id {entry['ns_id']} != {db_entry['symbol']}  ({db_entry['name']})")
+                print(
+                    f"warn: ns_id {entry['ns_id']} != {db_entry['symbol']}  ({db_entry['name']})")
 
             exists_in_map_for_accuracy = False
             for each_map_fora in map_fora:
@@ -113,6 +117,7 @@ def test_map_for_coverage(all_data: {}):
 def test_composite(all_data: {}):
     for namespace in all_data['composite'].keys():
         print(f"composite: checking..{namespace}")
+        assert namespace == all_data['composite'][namespace]['namespace']
         map = all_data['composite'][namespace]['map']
         for composite_id in map.keys():
             cidgen.check_composite(composite_id)
