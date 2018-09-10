@@ -15,21 +15,26 @@ def cidgen():
 
     return cid
 
-def check(cid):
+def check(cid, prefix='C'):
     assert len(cid) == CID_LENGTH_WITHOUT_PREFIX +1
-    assert cid[0] == 'C'
+    assert cid.startswith(prefix)
 
     s = dict()
-    for c in cid[1:] :
+    for c in cid[(len(prefix)):] :
         assert s.get(c,0) == 0
         s[c] = 1
         assert VALID_CHARS.find(c) != -1
+
+def check_composite(cid):
+    check(cid, 'CC')
+
+def check_cryptoaction(cid):
+    check(cid, 'CA')
+
 
 if __name__ == "__main__":
     cid = cidgen()
     print(cid)
     check(cid)
-    # check("CABCDEFG")
-    # check("CABDEFGH")
-    # check("CWQTJZLL")
+
     
