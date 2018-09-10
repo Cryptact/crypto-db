@@ -19,12 +19,12 @@
     "namespace": "crypto-db",
     "type": "Symbol Change",
     "description": "BLAS rebranded as ERA.",
-    "source": "https://bitcointalk.org/index.php?topic=3120633.0",
+    "sources": ["https://bitcointalk.org/index.php?topic=3120633.0"],
     "reported": "20180314",
     "executed": "20180411"
   },
 
-  "CALGZWXDYVTQ":{
+  "CALGZWXDYVTQ": {
     "action_id": "CALGZWXDYVTQ",
     "ids": ["CJKQGYWVDFPT", "CPZDQTHJGYLX"],
     "namespace": "crypto-db",
@@ -47,7 +47,9 @@
     "namespace": "crypto-db",
     "type": "Mainnet Launch",
     "description": "TRON(TRX) launched its own chain",
-    "source": "https://github.com/tronprotocol/Documentation/blob/add_api/TRX/TRX_Migration_Notice_EN.md",
+    "sources": [
+      "https://github.com/tronprotocol/Documentation/blob/add_api/TRX/TRX_Migration_Notice_EN.md"
+    ],
     "executed": "20180625T00:00+08:00"
   }
 }
