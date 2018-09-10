@@ -1,5 +1,5 @@
 
-# Created by https://www.gitignore.io/api/node,python
+# Created by https://www.gitignore.io/api/node,python,visualstudiocode
 
 ### Node ###
 # Logs
@@ -200,5 +200,12 @@ dmypy.json
 pyvenv.cfg
 pip-selfcheck.json
 
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
-# End of https://www.gitignore.io/api/node,python
+
+# End of https://www.gitignore.io/api/node,python,visualstudiocode
