@@ -51,5 +51,15 @@
       "https://github.com/tronprotocol/Documentation/blob/add_api/TRX/TRX_Migration_Notice_EN.md"
     ],
     "executed": "20180625T00:00+08:00"
+  },
+
+  "CAQZHLTWVPKN": {
+    "action_id": "CAQZHLTWVPKN",
+    "ids": ["CQLJDHKWNZXP", "CWKDPXJQHZGF", "CLTJPFYZNVWG", "CFLYXPHZKTNV"],
+    "namespace": "coincheck",
+    "type": "Delist",
+    "description": "Coincheck delisted XMR,REP,DASH and ZEC as one of the counter measures for the administrative action paused by Japanese FSA on March 8th, 2018.",
+    "sources": ["https://corporate.coincheck.com/2018/05/18/56.html"],
+    "executed": "20180618"
   }
 }
