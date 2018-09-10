@@ -1,0 +1,5 @@
+{
+  "namespace": "bitpoint",
+  "description": "ns_id is ticker symbol in bitpoint.",
+  "map": [{ "ns_id": "BCC", "id": "CWKHNDXQGFTP" }]
+}

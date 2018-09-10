@@ -1,0 +1,14 @@
+{
+  "namespace": "hitbtc",
+  "description": "Mapping for hitbtc trade history.",
+  "map": [
+    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
+    { "ns_id": "BCC", "id": "CWKHNDXQGFTP" },
+    { "ns_id": "BQX", "id": "CYKGHXLQTPWD" },
+    { "ns_id": "CAT", "id": "CVLJTHYFZKDW" },
+    { "ns_id": "DOV", "id": "CYPXQKHJGFNW" },
+    { "ns_id": "EBTCNEW", "id": "CXZJTHKYNDLW" },
+    { "ns_id": "EMGO", "id": "CGVPFDHWLQJT" },
+    { "ns_id": "PRS", "id": "CQGLVNFXYTJH" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "namespace": "cryptopia",
+  "description": "Mapping for cryptopia trade history.",
+  "map": [
+    { "ns_id": "ATMOS", "id": "CZTXNVKHWGLD" },
+    { "ns_id": "BAT", "id": "CFQWNZXVGPDY" },
+    { "ns_id": "CHAN", "id": "CYGKXVFZQHNL" },
+    { "ns_id": "FUEL", "id": "CVTNPQJXFZKL" },
+    { "ns_id": "MARKS", "id": "CWXTNZDPFGKV" },
+    { "ns_id": "MTLMC", "id": "CNLFWHJXQYTK" },
+    { "ns_id": "PEPE", "id": "CXZVFHYGQTWN" },
+    { "ns_id": "XRB", "id": "CAQXHKYNGFDL" }
+  ]
+}
