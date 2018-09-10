@@ -86,7 +86,7 @@ def test_map_for_accuracy(all_data: {}):
         for entry in map:
             db_entry = all_data['crypto-db'][entry['id']]
             if db_entry['symbol'] != entry['ns_id'] and namespace != 'coinmarketcap':
-                print(f"warn: ns_id {entry['ns_id']} != {db_entry['symbol']}")
+                print(f"warn: ns_id {entry['ns_id']} != {db_entry['symbol']} ({db_entry['name']})")
 
 
 def test_map_for_coverage(all_data: {}):
@@ -100,7 +100,7 @@ def test_map_for_coverage(all_data: {}):
         for entry in map:
             db_entry = all_data['crypto-db'][entry['id']]
             if db_entry['symbol'] != entry['ns_id'] and namespace != 'coinmarketcap':
-                print(f"warn: ns_id {entry['ns_id']} != {db_entry['symbol']}")
+                print(f"warn: ns_id {entry['ns_id']} != {db_entry['symbol']}  ({db_entry['name']})")
 
             exists_in_map_for_accuracy = False
             for each_map_fora in map_fora:
