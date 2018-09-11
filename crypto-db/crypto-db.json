@@ -7643,6 +7643,11 @@
   },
   "CXTZNWQLGYDH": { "id": "CXTZNWQLGYDH", "symbol": "XVC", "name": "Vcash" },
   "CQLNJGXFKTHP": { "id": "CQLNJGXFKTHP", "symbol": "VEN", "name": "VeChain" },
+  "CHKPNJXQVDFW": {
+    "id": "CHKPNJXQVDFW",
+    "symbol": "VEN(HCC)",
+    "name": "VEN by Hub Culture Center"
+  },
   "CPVKLJQTFDGW": {
     "id": "CPVKLJQTFDGW",
     "symbol": "VEC2",

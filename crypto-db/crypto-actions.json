@@ -11,7 +11,9 @@
     "ids": ["CDNJLZXVKFTY"],
     "namespace": "crypto-db",
     "type": "Symbol Change",
-    "description": "XRB was renamed to be NANO."
+    "description": "XRB was renamed to be NANO.",
+    "sources": ["https://hackernoon.com/nano-rebrand-announcement-9101528a7b76"],
+    "reported": "20180131"
   },
   "CAHZLFNTVWKY": {
     "action_id": "CAHZLFNTVWKY",

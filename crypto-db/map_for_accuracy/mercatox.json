@@ -1,10 +1,10 @@
 {
-    "namespace": "mercatox",
-    "description": "Mapping for mercatox trade history.",
-    "map": [
-      { "ns_id": "WITH", "id": "CNGWXQYTPKLZ" },
-      { "ns_id": "FNL", "id": "CJHQVNLFXKGD" },
-      { "ns_id": "XRB", "id": "CDNJLZXVKFTY" }
-    ]
-  }
-  
+  "namespace": "mercatox",
+  "description": "Mapping for mercatox trade history.",
+  "map": [
+    { "ns_id": "WITH", "id": "CNGWXQYTPKLZ" },
+    { "ns_id": "FNL", "id": "CJHQVNLFXKGD" },
+    { "ns_id": "XRB", "id": "CDNJLZXVKFTY" },
+    { "ns_id": "NANO", "id": "CDNJLZXVKFTY" }
+  ]
+}
