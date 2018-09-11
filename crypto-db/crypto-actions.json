@@ -11,7 +11,7 @@
     "ids": ["CDNJLZXVKFTY"],
     "namespace": "crypto-db",
     "type": "Symbol Change",
-    "description": "XRB was renamed to be NANO.",
+    "description": "XRB(RaiBlocks) was renamed to be NANO.",
     "sources": ["https://hackernoon.com/nano-rebrand-announcement-9101528a7b76"],
     "reported": "20180131"
   },
@@ -20,7 +20,7 @@
     "ids": ["CGVLJZYFQNTH"],
     "namespace": "crypto-db",
     "type": "Symbol Change",
-    "description": "BLAS rebranded as ERA.",
+    "description": "BLAS(BlakeStar) rebranded as ERA.",
     "sources": ["https://bitcointalk.org/index.php?topic=3120633.0"],
     "reported": "20180314",
     "executed": "20180411"

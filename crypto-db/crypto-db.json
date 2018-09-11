@@ -244,11 +244,7 @@
     "symbol": "ANTX",
     "name": "Antimatter"
   },
-  "CGYPNVXFHZTK": {
-    "id": "CGYPNVXFHZTK",
-    "symbol": "ANS",
-    "name": "AntShares"
-  },
+
   "CDWLPGJVYKTN": { "id": "CDWLPGJVYKTN", "symbol": "CPX", "name": "Apex" },
   "CLYNJTWFXKPZ": {
     "id": "CLYNJTWFXKPZ",
@@ -995,11 +991,7 @@
     "symbol": "BLC",
     "name": "Blakecoin"
   },
-  "CQDGTPNWLHKY": {
-    "id": "CQDGTPNWLHKY",
-    "symbol": "BLAS",
-    "name": "BlakeStar"
-  },
+
   "CDGLXHTYJNPZ": {
     "id": "CDGLXHTYJNPZ",
     "symbol": "BLZ",
@@ -6016,11 +6008,7 @@
     "name": "RabbitCoin"
   },
   "CJDFKZHYLXGV": { "id": "CJDFKZHYLXGV", "symbol": "RADS", "name": "Radium" },
-  "CHKJWVPQYGDN": {
-    "id": "CHKJWVPQYGDN",
-    "symbol": "XRB",
-    "name": "RaiBlocks"
-  },
+
   "CDKHJFXLQZNV": {
     "id": "CDKHJFXLQZNV",
     "symbol": "RDN",
