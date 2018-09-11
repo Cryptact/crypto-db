@@ -541,6 +541,11 @@
     "symbol": "BCA",
     "name": "Bitcoin Atom [Futures]"
   },
+  "CWKJHGPNXQVD": {
+    "id": "CWKJHGPNXQVD",
+    "symbol": "CDY",
+    "name": "Bitcoin Candy"
+  },
   "CWKHNDXQGFTP": {
     "id": "CWKHNDXQGFTP",
     "symbol": "BCH",
@@ -1411,6 +1416,7 @@
   "CYVZLDKJTWGF": { "id": "CYVZLDKJTWGF", "symbol": "CNO", "name": "Coin(O)" },
   "CTWJFNVDQZLY": { "id": "CTWJFNVDQZLY", "symbol": "C2", "name": "Coin2.1" },
   "CYQDHZGWPFJT": { "id": "CYQDHZGWPFJT", "symbol": "CDT", "name": "CoinDash" },
+  "CJQHXFDYGVNK": { "id": "CJQHXFDYGVNK", "symbol": "CODY", "name": "Coindy" },
   "CKNFQYVZDWJT": {
     "id": "CKNFQYVZDWJT",
     "symbol": "CET",

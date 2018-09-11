@@ -1,8 +1,29 @@
 {
-    "namespace": "coinex",
-    "description": "Mapping for coinex trade history.",
-    "map": [
-      { "ns_id": "CET", "id": "CKNFQYVZDWJT" }
-    ]
-  }
-  
+  "namespace": "coinex",
+  "description": "Mapping for coinex trade history.",
+  "map": [
+    { "ns_id": "CET", "id": "CKNFQYVZDWJT" },
+    { "ns_id": "KAN", "id": "CYFJTWHKVLQP" },
+    { "ns_id": "LFT", "id": "CQTNHPFLGVYZ" },
+    { "ns_id": "SOP", "id": "CZDWGHKJYLVN" },
+    { "ns_id": "BTM", "id": "CYGWFJXNKHZP" },
+    { "ns_id": "HSR", "id": "CXGZVWNYFDKP" },
+    { "ns_id": "OLT", "id": "CTKLWFZPNYJD" },
+    { "ns_id": "CARD", "id": "CXLYNZJQDTKW" },
+
+    { "ns_id": "CDY", "id": "CWKJHGPNXQVD" },
+    { "ns_id": "CODY", "id": "CJQHXFDYGVNK" },
+
+    { "ns_id": "DASH", "id": "CQLJDHKWNZXP" },
+    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "20180602T22:00Z" },
+    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "20180602T22:00Z" },
+    { "ns_id": "USDT", "id": "CZYHDQPFNXWJ" },
+    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
+
+    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
+    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
+    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
+    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
+    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" }
+  ]
+}

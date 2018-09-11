@@ -1,0 +1,14 @@
+{
+  "namespace": "bigone",
+  "description": "Mapping for bigone.",
+  "map": [
+    { "ns_id": "CANDY", "id": "CVHWTPYXZFGN" },
+    { "ns_id": "BTM", "id": "CYGWFJXNKHZP" },
+    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
+    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
+    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
+    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
+    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "20180602T22:00Z" },
+    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "20180602T22:00Z" }
+  ]
+}
