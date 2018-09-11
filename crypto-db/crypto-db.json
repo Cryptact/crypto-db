@@ -26,11 +26,7 @@
   "CVJGKTNDXQHP": { "id": "CVJGKTNDXQHP", "symbol": "808", "name": "808Coin" },
   "CJZXKPDHQYFL": { "id": "CJZXKPDHQYFL", "symbol": "8BIT", "name": "8Bit" },
   "CJLPXHNVDZWQ": { "id": "CJLPXHNVDZWQ", "symbol": "9COIN", "name": "9COIN" },
-  "CGFZXKTDQPLW": {
-    "id": "CGFZXKTDQPLW",
-    "symbol": "AAA",
-    "name": "AAA Coin"
-  },
+  "CGFZXKTDQPLW": { "id": "CGFZXKTDQPLW", "symbol": "AAA", "name": "AAA Coin" },
   "CTYGWDKQLJHN": {
     "id": "CTYGWDKQLJHN",
     "symbol": "RTB",
@@ -57,11 +53,7 @@
     "name": "Acute Angle Cloud"
   },
   "CKJGYHVZLQFP": { "id": "CKJGYHVZLQFP", "symbol": "ADB", "name": "adbank" },
-  "CVTLHPDFXWGJ": {
-    "id": "CVTLHPDFXWGJ",
-    "symbol": "ADL",
-    "name": "Adelphoi"
-  },
+  "CVTLHPDFXWGJ": { "id": "CVTLHPDFXWGJ", "symbol": "ADL", "name": "Adelphoi" },
   "CLKWNJZVPTGX": { "id": "CLKWNJZVPTGX", "symbol": "DNZ", "name": "Adenz" },
   "CQHJKYTGNLZW": { "id": "CQHJKYTGNLZW", "symbol": "ADX", "name": "AdEx" },
   "CZYHNWPQJFDX": { "id": "CZYHNWPQJFDX", "symbol": "ADH", "name": "AdHIve" },
@@ -93,11 +85,7 @@
   "CPFGYTLWDHKV": { "id": "CPFGYTLWDHKV", "symbol": "AEON", "name": "Aeon" },
   "CXDVNPWFKYQL": { "id": "CXDVNPWFKYQL", "symbol": "AERM", "name": "Aerium" },
   "CGDTFZXVLWPK": { "id": "CGDTFZXVLWPK", "symbol": "ARN", "name": "Aeron" },
-  "CLDPYZWHVGTN": {
-    "id": "CLDPYZWHVGTN",
-    "symbol": "AE",
-    "name": "Aeternity"
-  },
+  "CLDPYZWHVGTN": { "id": "CLDPYZWHVGTN", "symbol": "AE", "name": "Aeternity" },
   "CTLHDJZKXPFY": {
     "id": "CTLHDJZKXPFY",
     "symbol": "AGRS",
@@ -125,11 +113,7 @@
   "CPYXNGFQVKDW": { "id": "CPYXNGFQVKDW", "symbol": "AION", "name": "Aion" },
   "CWFVQXZNLPJK": { "id": "CWFVQXZNLPJK", "symbol": "ABL", "name": "Airbloc" },
   "CTLGWKHQXYVZ": { "id": "CTLGWKHQXYVZ", "symbol": "AST", "name": "AirSwap" },
-  "CWZPQNKJYXLT": {
-    "id": "CWZPQNKJYXLT",
-    "symbol": "AIR",
-    "name": "AirToken"
-  },
+  "CWZPQNKJYXLT": { "id": "CWZPQNKJYXLT", "symbol": "AIR", "name": "AirToken" },
   "CNTJGPZXWFYD": { "id": "CNTJGPZXWFYD", "symbol": "AKA", "name": "Akroma" },
   "CKHNFVZLGXTY": {
     "id": "CKHNFVZLGXTY",
@@ -159,16 +143,8 @@
     "symbol": "ASAFE2",
     "name": "AllSafe"
   },
-  "CKJPQVNDXYFZ": {
-    "id": "CKJPQVNDXYFZ",
-    "symbol": "APC",
-    "name": "AlpaCoin"
-  },
-  "CTDQHFPXGZWL": {
-    "id": "CTDQHFPXGZWL",
-    "symbol": "ABC",
-    "name": "Alphabit"
-  },
+  "CKJPQVNDXYFZ": { "id": "CKJPQVNDXYFZ", "symbol": "APC", "name": "AlpaCoin" },
+  "CTDQHFPXGZWL": { "id": "CTDQHFPXGZWL", "symbol": "ABC", "name": "Alphabit" },
   "CGHYWJTFDNPL": {
     "id": "CGHYWJTFDNPL",
     "symbol": "ACAT",
@@ -187,11 +163,7 @@
     "symbol": "AMBER",
     "name": "AmberCoin"
   },
-  "CVDNXGWZLHPT": {
-    "id": "CVDNXGWZLHPT",
-    "symbol": "AMB",
-    "name": "Ambrosus"
-  },
+  "CVDNXGWZLHPT": { "id": "CVDNXGWZLHPT", "symbol": "AMB", "name": "Ambrosus" },
   "CJNZLTWDKXGP": {
     "id": "CJNZLTWDKXGP",
     "symbol": "AMLT",
@@ -223,11 +195,7 @@
     "symbol": "ANI",
     "name": "Animecoin"
   },
-  "CFWHLJQTDZXK": {
-    "id": "CFWHLJQTDZXK",
-    "symbol": "ANC",
-    "name": "Anoncoin"
-  },
+  "CFWHLJQTDZXK": { "id": "CFWHLJQTDZXK", "symbol": "ANC", "name": "Anoncoin" },
   "CPJVNGWKYTHF": { "id": "CPJVNGWKYTHF", "symbol": "RYZ", "name": "ANRYZE" },
   "CLWPXVGNHTKZ": {
     "id": "CLWPXVGNHTKZ",
@@ -244,13 +212,8 @@
     "symbol": "ANTX",
     "name": "Antimatter"
   },
-
   "CDWLPGJVYKTN": { "id": "CDWLPGJVYKTN", "symbol": "CPX", "name": "Apex" },
-  "CLYNJTWFXKPZ": {
-    "id": "CLYNJTWFXKPZ",
-    "symbol": "APH",
-    "name": "Aphelion"
-  },
+  "CLYNJTWFXKPZ": { "id": "CLYNJTWFXKPZ", "symbol": "APH", "name": "Aphelion" },
   "CZLPXNDFWHYG": { "id": "CZLPXNDFWHYG", "symbol": "APIS", "name": "APIS" },
   "CFHWYJXNKPDG": {
     "id": "CFHWYJXNKPDG",
@@ -268,11 +231,7 @@
     "symbol": "APW",
     "name": "AppleCoin"
   },
-  "CPHZDKYWLQXT": {
-    "id": "CPHZDKYWLQXT",
-    "symbol": "APR",
-    "name": "APR Coin"
-  },
+  "CPHZDKYWLQXT": { "id": "CPHZDKYWLQXT", "symbol": "APR", "name": "APR Coin" },
   "CZLDGNXWFHKV": { "id": "CZLDGNXWFHKV", "symbol": "APX", "name": "APX" },
   "CYVQKZNLHDTW": {
     "id": "CYVQKZNLHDTW",
@@ -292,11 +251,7 @@
     "symbol": "ARCT",
     "name": "ArbitrageCT"
   },
-  "CXQFYHDGPWTN": {
-    "id": "CXQFYHDGPWTN",
-    "symbol": "ABT",
-    "name": "Arcblock"
-  },
+  "CXQFYHDGPWTN": { "id": "CXQFYHDGPWTN", "symbol": "ABT", "name": "Arcblock" },
   "CGKQTNHFXZJV": {
     "id": "CGKQTNHFXZJV",
     "symbol": "ARC",
@@ -308,11 +263,7 @@
     "symbol": "AREPA",
     "name": "Arepacoin"
   },
-  "CZJXKHFWQDGY": {
-    "id": "CZJXKHFWQDGY",
-    "symbol": "ARG",
-    "name": "Argentum"
-  },
+  "CZJXKHFWQDGY": { "id": "CZJXKHFWQDGY", "symbol": "ARG", "name": "Argentum" },
   "CVGQYTWKFZDP": { "id": "CVGQYTWKFZDP", "symbol": "ARGUS", "name": "Argus" },
   "CZQHJFTGDNWP": { "id": "CZQHJFTGDNWP", "symbol": "ARI", "name": "Aricoin" },
   "CNFQYGXVDPWZ": { "id": "CNFQYGXVDPWZ", "symbol": "ARION", "name": "Arion" },
@@ -359,16 +310,8 @@
     "symbol": "ABDT",
     "name": "Atlantis Blue Digital Token"
   },
-  "CTHYFXGQWKPJ": {
-    "id": "CTHYFXGQWKPJ",
-    "symbol": "ATM",
-    "name": "ATMChain"
-  },
-  "CLQGZHDXVFJP": {
-    "id": "CLQGZHDXVFJP",
-    "symbol": "ATMC",
-    "name": "ATMCoin"
-  },
+  "CTHYFXGQWKPJ": { "id": "CTHYFXGQWKPJ", "symbol": "ATM", "name": "ATMChain" },
+  "CLQGZHDXVFJP": { "id": "CLQGZHDXVFJP", "symbol": "ATMC", "name": "ATMCoin" },
   "CZTXNVKHWGLD": { "id": "CZTXNVKHWGLD", "symbol": "ATMS", "name": "Atmos" },
   "CJGFTVPKLXDH": { "id": "CJGFTVPKLXDH", "symbol": "ATN", "name": "ATN" },
   "CDWPGTHQLNXY": {
@@ -376,11 +319,7 @@
     "symbol": "ATOM",
     "name": "Atomic Coin"
   },
-  "CGTLWDPYFKZH": {
-    "id": "CGTLWDPYFKZH",
-    "symbol": "ATMI",
-    "name": "Atonomi"
-  },
+  "CGTLWDPYFKZH": { "id": "CGTLWDPYFKZH", "symbol": "ATMI", "name": "Atonomi" },
   "CFYNTQXZDLKP": { "id": "CFYNTQXZDLKP", "symbol": "AUC", "name": "Auctus" },
   "CDLPFGWYHKJZ": {
     "id": "CDLPFGWYHKJZ",
@@ -399,11 +338,7 @@
     "symbol": "AUR",
     "name": "Auroracoins"
   },
-  "CDQLZNVYHXTG": {
-    "id": "CDQLZNVYHXTG",
-    "symbol": "AU",
-    "name": "AurumCoin"
-  },
+  "CDQLZNVYHXTG": { "id": "CDQLZNVYHXTG", "symbol": "AU", "name": "AurumCoin" },
   "CKWLQGHXDNPF": {
     "id": "CKWLQGHXDNPF",
     "symbol": "ATS",
@@ -421,11 +356,7 @@
     "symbol": "AVINOC",
     "name": "AVINOC"
   },
-  "CXDKZJQPWVLY": {
-    "id": "CXDKZJQPWVLY",
-    "symbol": "ACN",
-    "name": "Avoncoin"
-  },
+  "CXDKZJQPWVLY": { "id": "CXDKZJQPWVLY", "symbol": "ACN", "name": "Avoncoin" },
   "CYTHXKNGZWVD": { "id": "CYTHXKNGZWVD", "symbol": "AWR", "name": "AWARE" },
   "CGDQNXYHJZTL": { "id": "CGDQNXYHJZTL", "symbol": "AXIOM", "name": "Axiom" },
   "CNGVPFJLHQZT": { "id": "CNGVPFJLHQZT", "symbol": "AXP", "name": "aXpire" },
@@ -454,17 +385,9 @@
     "symbol": "BAT",
     "name": "Basic Attention Token"
   },
-  "CTDZKWPFYNJV": {
-    "id": "CTDZKWPFYNJV",
-    "symbol": "BSN",
-    "name": "Bastonet"
-  },
+  "CTDZKWPFYNJV": { "id": "CTDZKWPFYNJV", "symbol": "BSN", "name": "Bastonet" },
   "CXTQYZKPHVFN": { "id": "CXTQYZKPHVFN", "symbol": "BTA", "name": "Bata" },
-  "CFQWNZXVGPDY": {
-    "id": "CFQWNZXVGPDY",
-    "symbol": "BATC",
-    "name": "BatCoin"
-  },
+  "CFQWNZXVGPDY": { "id": "CFQWNZXVGPDY", "symbol": "BATC", "name": "BatCoin" },
   "CTGKNPLWFJVQ": { "id": "CTGKNPLWFJVQ", "symbol": "BBS", "name": "BBSCoin" },
   "CXFTVKLZPDQN": { "id": "CXFTVKLZPDQN", "symbol": "BCAP", "name": "BCAP" },
   "CGJPZWHTDQXV": {
@@ -511,16 +434,8 @@
   },
   "CYPXQHLJZNVK": { "id": "CYPXQHLJZNVK", "symbol": "BZNT", "name": "Bezant" },
   "CVQXNPZHDYKL": { "id": "CVQXNPZHDYKL", "symbol": "BEZ", "name": "Bezop" },
-  "CZYDKWQTLJVG": {
-    "id": "CZYDKWQTLJVG",
-    "symbol": "BHPC",
-    "name": "BHPCash"
-  },
-  "CNQWDTKZYGFP": {
-    "id": "CNQWDTKZYGFP",
-    "symbol": "BBP",
-    "name": "BiblePay"
-  },
+  "CZYDKWQTLJVG": { "id": "CZYDKWQTLJVG", "symbol": "BHPC", "name": "BHPCash" },
+  "CNQWDTKZYGFP": { "id": "CNQWDTKZYGFP", "symbol": "BBP", "name": "BiblePay" },
   "CKHTDVZJNYQW": {
     "id": "CKHTDVZJNYQW",
     "symbol": "BIX",
@@ -561,11 +476,7 @@
     "symbol": "BIOS",
     "name": "BiosCrypto"
   },
-  "CPTFQYKWJNHV": {
-    "id": "CPTFQYKWJNHV",
-    "symbol": "BTRN",
-    "name": "Biotron"
-  },
+  "CPTFQYKWJNHV": { "id": "CPTFQYKWJNHV", "symbol": "BTRN", "name": "Biotron" },
   "CZHFDQVLJTYX": { "id": "CZHFDQVLJTYX", "symbol": "BIP", "name": "BipCoin" },
   "CWTGQKDLPHYN": { "id": "CWTGQKDLPHYN", "symbol": "BIRDS", "name": "Birds" },
   "CVLKTDGYPFNJ": { "id": "CVLKTDGYPFNJ", "symbol": "BIS", "name": "Bismuth" },
@@ -581,28 +492,12 @@
     "symbol": "BAC",
     "name": "BitAlphaCoin"
   },
-  "CGXVYPNZTFKL": {
-    "id": "CGXVYPNZTFKL",
-    "symbol": "BAS",
-    "name": "BitAsean"
-  },
+  "CGXVYPNZTFKL": { "id": "CGXVYPNZTFKL", "symbol": "BAS", "name": "BitAsean" },
   "CGJNTVYHFZXK": { "id": "CGJNTVYHFZXK", "symbol": "BTB", "name": "BitBar" },
-  "CJWDFXPNTZVY": {
-    "id": "CJWDFXPNTZVY",
-    "symbol": "BTBc",
-    "name": "Bitbase"
-  },
+  "CJWDFXPNTZVY": { "id": "CJWDFXPNTZVY", "symbol": "BTBc", "name": "Bitbase" },
   "CVWQTPGJKFYX": { "id": "CVWQTPGJKFYX", "symbol": "BAY", "name": "BitBay" },
-  "CTKLXHDJZWNP": {
-    "id": "CTKLXHDJZWNP",
-    "symbol": "BITB",
-    "name": "BitBean"
-  },
-  "CJWHTDKVGLFZ": {
-    "id": "CJWHTDKVGLFZ",
-    "symbol": "BBT",
-    "name": "BitBoost"
-  },
+  "CTKLXHDJZWNP": { "id": "CTKLXHDJZWNP", "symbol": "BITB", "name": "BitBean" },
+  "CJWHTDKVGLFZ": { "id": "CJWHTDKVGLFZ", "symbol": "BBT", "name": "BitBoost" },
   "CDNZVHGJQFTY": {
     "id": "CDNZVHGJQFTY",
     "symbol": "BITBTC",
@@ -634,11 +529,7 @@
     "symbol": "BITCNY",
     "name": "bitCNY"
   },
-  "CLQHVWNYFXJG": {
-    "id": "CLQHVWNYFXJG",
-    "symbol": "COAL",
-    "name": "BitCoal"
-  },
+  "CLQHVWNYFXJG": { "id": "CLQHVWNYFXJG", "symbol": "COAL", "name": "BitCoal" },
   "CJTFPXDVQHNG": { "id": "CJTFPXDVQHNG", "symbol": "BTC", "name": "Bitcoin" },
   "CNKTDYLXHGPQ": {
     "id": "CNKTDYLXHGPQ",
@@ -827,11 +718,7 @@
     "symbol": "BDG",
     "name": "BitDegree"
   },
-  "CTKLWZQYHJPN": {
-    "id": "CTKLWZQYHJPN",
-    "symbol": "CSNO",
-    "name": "BitDice"
-  },
+  "CTKLWZQYHJPN": { "id": "CTKLWZQYHJPN", "symbol": "CSNO", "name": "BitDice" },
   "CFNTZJLGQWPH": {
     "id": "CFNTZJLGQWPH",
     "symbol": "BITEUR",
@@ -883,22 +770,10 @@
     "symbol": "BPOK",
     "name": "BitPokemonGo"
   },
-  "CDNQFPXYKTHJ": {
-    "id": "CDNQFPXYKTHJ",
-    "symbol": "BTQ",
-    "name": "BitQuark"
-  },
+  "CDNQFPXYKTHJ": { "id": "CDNQFPXYKTHJ", "symbol": "BTQ", "name": "BitQuark" },
   "CVQYLDGFZXWK": { "id": "CVQYLDGFZXWK", "symbol": "BQ", "name": "bitqy" },
-  "CYKFJXLZWVTN": {
-    "id": "CYKFJXLZWVTN",
-    "symbol": "BRO",
-    "name": "Bitradio"
-  },
-  "CZTKDQGJYNFW": {
-    "id": "CZTKDQGJYNFW",
-    "symbol": "RNTB",
-    "name": "BitRent"
-  },
+  "CYKFJXLZWVTN": { "id": "CYKFJXLZWVTN", "symbol": "BRO", "name": "Bitradio" },
+  "CZTKDQGJYNFW": { "id": "CZTKDQGJYNFW", "symbol": "RNTB", "name": "BitRent" },
   "CPVYXQFJNTGD": {
     "id": "CPVYXQFJNTGD",
     "symbol": "XBR",
@@ -926,11 +801,7 @@
     "name": "bitSilver"
   },
   "CGTQWNKZYDPF": { "id": "CGTQWNKZYDPF", "symbol": "BSR", "name": "BitSoar" },
-  "CZKJPQXVWGDL": {
-    "id": "CZKJPQXVWGDL",
-    "symbol": "BITS",
-    "name": "Bitstar"
-  },
+  "CZKJPQXVWGDL": { "id": "CZKJPQXVWGDL", "symbol": "BITS", "name": "Bitstar" },
   "CKNYFXLGTJDZ": {
     "id": "CKNYFXLGTJDZ",
     "symbol": "BSTN",
@@ -947,27 +818,15 @@
     "symbol": "BXT",
     "name": "BitTokens"
   },
-  "CVWXTZJNFLYK": {
-    "id": "CVWXTZJNFLYK",
-    "symbol": "TUBE",
-    "name": "BitTube"
-  },
-  "CYXNPQJTDZVL": {
-    "id": "CYXNPQJTDZVL",
-    "symbol": "BWT",
-    "name": "Bittwatt"
-  },
+  "CVWXTZJNFLYK": { "id": "CVWXTZJNFLYK", "symbol": "TUBE", "name": "BitTube" },
+  "CYXNPQJTDZVL": { "id": "CYXNPQJTDZVL", "symbol": "BWT", "name": "Bittwatt" },
   "CYFZVTQGNHJW": { "id": "CYFZVTQGNHJW", "symbol": "BUC", "name": "BitUN" },
   "CLZVPNXWQJFT": {
     "id": "CLZVPNXWQJFT",
     "symbol": "BITUSD",
     "name": "bitUSD"
   },
-  "CTWJVXNYPGFD": {
-    "id": "CTWJVXNYPGFD",
-    "symbol": "VOLT",
-    "name": "Bitvolt"
-  },
+  "CTWJVXNYPGFD": { "id": "CTWJVXNYPGFD", "symbol": "VOLT", "name": "Bitvolt" },
   "CQXLHDJNVZPT": { "id": "CQXLHDJNVZPT", "symbol": "BITZ", "name": "Bitz" },
   "CZTFHPWYJQLX": { "id": "CZTFHPWYJQLX", "symbol": "ZNY", "name": "Bitzeny" },
   "CFPTYNQWGZJX": { "id": "CFPTYNQWGZJX", "symbol": "BIXC", "name": "BIXC" },
@@ -991,7 +850,6 @@
     "symbol": "BLC",
     "name": "Blakecoin"
   },
-
   "CDGLXHTYJNPZ": {
     "id": "CDGLXHTYJNPZ",
     "symbol": "BLZ",
@@ -1082,11 +940,7 @@
     "symbol": "BPT",
     "name": "Blockport"
   },
-  "CXGVPWLTZFDY": {
-    "id": "CXGVPWLTZFDY",
-    "symbol": "TIX",
-    "name": "Blocktix"
-  },
+  "CXGVPWLTZFDY": { "id": "CXGVPWLTZFDY", "symbol": "TIX", "name": "Blocktix" },
   "CZXFNJDYLQTW": {
     "id": "CZXFNJDYLQTW",
     "symbol": "BTT",
@@ -1100,11 +954,7 @@
     "symbol": "BWX",
     "name": "Blue Whale Token"
   },
-  "CYLGPFTJWHKZ": {
-    "id": "CYLGPFTJWHKZ",
-    "symbol": "BLU",
-    "name": "BlueCoin"
-  },
+  "CYLGPFTJWHKZ": { "id": "CYLGPFTJWHKZ", "symbol": "BLU", "name": "BlueCoin" },
   "CWJFNXVGPDTQ": {
     "id": "CWJFNXVGPDTQ",
     "symbol": "BLZL",
@@ -1163,32 +1013,20 @@
     "name": "BoutsPro"
   },
   "CPNVDZFKLXQJ": { "id": "CPNVDZFKLXQJ", "symbol": "AHT", "name": "Bowhead" },
-  "CVXWQZHYLNJT": {
-    "id": "CVXWQZHYLNJT",
-    "symbol": "BSC",
-    "name": "BowsCoin"
-  },
+  "CVXWQZHYLNJT": { "id": "CVXWQZHYLNJT", "symbol": "BSC", "name": "BowsCoin" },
   "CFPTHLQKXDWJ": {
     "id": "CFPTHLQKXDWJ",
     "symbol": "BR1M",
     "name": "BR1M COIN"
   },
-  "CNXGJPVQHZYF": {
-    "id": "CNXGJPVQHZYF",
-    "symbol": "BRM",
-    "name": "BrahmaOS"
-  },
+  "CNXGJPVQHZYF": { "id": "CNXGJPVQHZYF", "symbol": "BRM", "name": "BrahmaOS" },
   "CKVHJLGFNDXQ": {
     "id": "CKVHJLGFNDXQ",
     "symbol": "BRAIN",
     "name": "Braincoin"
   },
   "CDFWHLTXQZNG": { "id": "CDFWHLTXQZNG", "symbol": "BRD", "name": "Bread" },
-  "CNFLPVKDJWGT": {
-    "id": "CNFLPVKDJWGT",
-    "symbol": "BRK",
-    "name": "Breakout"
-  },
+  "CNFLPVKDJWGT": { "id": "CNFLPVKDJWGT", "symbol": "BRK", "name": "Breakout" },
   "CGZJQNWDLTVX": {
     "id": "CGZJQNWDLTVX",
     "symbol": "BRX",
@@ -1224,11 +1062,7 @@
     "symbol": "BNN",
     "name": "BrokerNekoNetwork"
   },
-  "CNKXQGFDWPJH": {
-    "id": "CNKXQGFDWPJH",
-    "symbol": "BRAT",
-    "name": "BROTHER"
-  },
+  "CNKXQGFDWPJH": { "id": "CNKXQGFDWPJH", "symbol": "BRAT", "name": "BROTHER" },
   "CPNZKQVLHTFW": {
     "id": "CPNZKQVLHTFW",
     "symbol": "BT1",
@@ -1239,11 +1073,7 @@
     "symbol": "BT2",
     "name": "BT2 [CST]"
   },
-  "CQYTWVZDKGXL": {
-    "id": "CQYTWVZDKGXL",
-    "symbol": "BTCM",
-    "name": "BTCMoon"
-  },
+  "CQYTWVZDKGXL": { "id": "CQYTWVZDKGXL", "symbol": "BTCM", "name": "BTCMoon" },
   "CLZWFJKTNQGX": {
     "id": "CLZWFJKTNQGX",
     "symbol": "TALK",
@@ -1279,16 +1109,8 @@
     "symbol": "GBYTE",
     "name": "ByteBall Bytes"
   },
-  "CPTGYNLDQZHF": {
-    "id": "CPTGYNLDQZHF",
-    "symbol": "BYC",
-    "name": "Bytecent"
-  },
-  "CJYQTGDWLZKN": {
-    "id": "CJYQTGDWLZKN",
-    "symbol": "BCN",
-    "name": "Bytecoin"
-  },
+  "CPTGYNLDQZHF": { "id": "CPTGYNLDQZHF", "symbol": "BYC", "name": "Bytecent" },
+  "CJYQTGDWLZKN": { "id": "CJYQTGDWLZKN", "symbol": "BCN", "name": "Bytecoin" },
   "CYGWFJXNKHZP": { "id": "CYGWFJXNKHZP", "symbol": "BTOM", "name": "Bytom" },
   "CYVNHFLGDTZK": { "id": "CYVNHFLGDTZK", "symbol": "XCT", "name": "C-Bit" },
   "CWQZKVJPNFXD": { "id": "CWQZKVJPNFXD", "symbol": "C20", "name": "C20" },
@@ -1374,11 +1196,7 @@
     "symbol": "CPC",
     "name": "Capricoin"
   },
-  "CQFGVDLNPWKY": {
-    "id": "CQFGVDLNPWKY",
-    "symbol": "CAR",
-    "name": "CarBlock"
-  },
+  "CQFGVDLNPWKY": { "id": "CQFGVDLNPWKY", "symbol": "CAR", "name": "CarBlock" },
   "CPLDFHZKYWJQ": {
     "id": "CPLDFHZKYWJQ",
     "symbol": "CARBON",
@@ -1445,11 +1263,7 @@
     "symbol": "CEDEX",
     "name": "CEDEX Coin"
   },
-  "CQJTHGZFWYNV": {
-    "id": "CQJTHGZFWYNV",
-    "symbol": "CEEK",
-    "name": "CEEK VR"
-  },
+  "CQJTHGZFWYNV": { "id": "CQJTHGZFWYNV", "symbol": "CEEK", "name": "CEEK VR" },
   "CLVNGYTDFPZH": { "id": "CLVNGYTDFPZH", "symbol": "CTR", "name": "Centra" },
   "CPHVFTNLYQGJ": {
     "id": "CPHVFTNLYQGJ",
@@ -1472,11 +1286,7 @@
     "symbol": "CHC",
     "name": "ChainCoin"
   },
-  "CJQLTKHFPZND": {
-    "id": "CJQLTKHFPZND",
-    "symbol": "CHX",
-    "name": "Chainium"
-  },
+  "CJQLTKHFPZND": { "id": "CJQLTKHFPZND", "symbol": "CHX", "name": "Chainium" },
   "CZYFVLXNWHDT": {
     "id": "CZYFVLXNWHDT",
     "symbol": "LINK",
@@ -1534,11 +1344,7 @@
   },
   "CXTQYJNHWVPG": { "id": "CXTQYJNHWVPG", "symbol": "CTL", "name": "Citadel" },
   "CVFPNXTGWYZJ": { "id": "CVFPNXTGWYZJ", "symbol": "CVC", "name": "Civic" },
-  "CWQTGXVFHKZL": {
-    "id": "CWQTGXVFHKZL",
-    "symbol": "CKUSD",
-    "name": "CK USD"
-  },
+  "CWQTGXVFHKZL": { "id": "CWQTGXVFHKZL", "symbol": "CKUSD", "name": "CK USD" },
   "CFVLJQTHYKXZ": { "id": "CFVLJQTHYKXZ", "symbol": "CLAM", "name": "Clams" },
   "CYVJPTDZWFXH": {
     "id": "CYVJPTDZWFXH",
@@ -1604,11 +1410,7 @@
   },
   "CYVZLDKJTWGF": { "id": "CYVZLDKJTWGF", "symbol": "CNO", "name": "Coin(O)" },
   "CTWJFNVDQZLY": { "id": "CTWJFNVDQZLY", "symbol": "C2", "name": "Coin2.1" },
-  "CYQDHZGWPFJT": {
-    "id": "CYQDHZGWPFJT",
-    "symbol": "CDT",
-    "name": "CoinDash"
-  },
+  "CYQDHZGWPFJT": { "id": "CYQDHZGWPFJT", "symbol": "CDT", "name": "CoinDash" },
   "CKNFQYVZDWJT": {
     "id": "CKNFQYVZDWJT",
     "symbol": "CET",
@@ -1620,21 +1422,9 @@
     "symbol": "CL",
     "name": "Coinlancer"
   },
-  "CNPVXYGWKDJZ": {
-    "id": "CNPVXYGWKDJZ",
-    "symbol": "CLT",
-    "name": "CoinLoan"
-  },
-  "CVNYHTLGFKWX": {
-    "id": "CVNYHTLGFKWX",
-    "symbol": "MEE",
-    "name": "CoinMeet"
-  },
-  "CGWKFHZPJVLY": {
-    "id": "CGWKFHZPJVLY",
-    "symbol": "CXT",
-    "name": "Coinonat"
-  },
+  "CNPVXYGWKDJZ": { "id": "CNPVXYGWKDJZ", "symbol": "CLT", "name": "CoinLoan" },
+  "CVNYHTLGFKWX": { "id": "CVNYHTLGFKWX", "symbol": "MEE", "name": "CoinMeet" },
+  "CGWKFHZPJVLY": { "id": "CGWKFHZPJVLY", "symbol": "CXT", "name": "Coinonat" },
   "CWGLJKFXTQVD": {
     "id": "CWGLJKFXTQVD",
     "symbol": "XCXT",
@@ -1690,11 +1480,7 @@
     "symbol": "CDX",
     "name": "Commodity Ad Network"
   },
-  "CVXKGTJDWZFQ": {
-    "id": "CVXKGTJDWZFQ",
-    "symbol": "CMP",
-    "name": "Compcoin"
-  },
+  "CVXKGTJDWZFQ": { "id": "CVXKGTJDWZFQ", "symbol": "CMP", "name": "Compcoin" },
   "CYNJLTXWVQFG": {
     "id": "CYNJLTXWVQFG",
     "symbol": "COMP",
@@ -1705,11 +1491,7 @@
     "symbol": "CPN",
     "name": "CompuCoin"
   },
-  "CQLVFNTJGHWY": {
-    "id": "CQLVFNTJGHWY",
-    "symbol": "CONX",
-    "name": "Concoin"
-  },
+  "CQLVFNTJGHWY": { "id": "CQLVFNTJGHWY", "symbol": "CONX", "name": "Concoin" },
   "CGTJHDQZVWFK": {
     "id": "CGTJHDQZVWFK",
     "symbol": "RAIN",
@@ -1786,11 +1568,7 @@
     "symbol": "COTN",
     "name": "CottonCoin"
   },
-  "CVDQPYXHWKGL": {
-    "id": "CVDQPYXHWKGL",
-    "symbol": "COU",
-    "name": "Couchain"
-  },
+  "CVDQPYXHWKGL": { "id": "CVDQPYXHWKGL", "symbol": "COU", "name": "Couchain" },
   "CQHTZYNGJWVF": {
     "id": "CQHTZYNGJWVF",
     "symbol": "XCP",
@@ -1813,11 +1591,7 @@
   },
   "CHYWDKNQPZXJ": { "id": "CHYWDKNQPZXJ", "symbol": "CRAVE", "name": "Crave" },
   "CLQGNFHXKZTJ": { "id": "CLQGNFHXKZTJ", "symbol": "CRM", "name": "Cream" },
-  "CPZGHVDKLYFX": {
-    "id": "CPZGHVDKLYFX",
-    "symbol": "XCRE",
-    "name": "Creatio"
-  },
+  "CPZGHVDKLYFX": { "id": "CPZGHVDKLYFX", "symbol": "XCRE", "name": "Creatio" },
   "CGKZNHPVLTJQ": {
     "id": "CGKZNHPVLTJQ",
     "symbol": "CREA",
@@ -1869,11 +1643,7 @@
   },
   "CWQZVNHKDTFP": { "id": "CWQZVNHKDTFP", "symbol": "CRW", "name": "Crown" },
   "CTHPYKGQXZLD": { "id": "CTHPYKGQXZLD", "symbol": "CRT", "name": "CRTCoin" },
-  "CFVNHGJPLKWX": {
-    "id": "CFVNHGJPLKWX",
-    "symbol": "CPT",
-    "name": "Cryptaur"
-  },
+  "CFVNHGJPLKWX": { "id": "CFVNHGJPLKWX", "symbol": "CPT", "name": "Cryptaur" },
   "CHLJXGWZYNTK": {
     "id": "CHLJXGWZYNTK",
     "symbol": "CRYPT",
@@ -1993,21 +1763,13 @@
     "name": "CVCoin"
   },
   "CWPZNQKYJXTD": { "id": "CWPZNQKYJXTD", "symbol": "XCS", "name": "CybCSec" },
-  "CXHFPDWVKLGT": {
-    "id": "CXHFPDWVKLGT",
-    "symbol": "CC",
-    "name": "CyberCoin"
-  },
+  "CXHFPDWVKLGT": { "id": "CXHFPDWVKLGT", "symbol": "CC", "name": "CyberCoin" },
   "CYPJGFNHWXVQ": {
     "id": "CYPJGFNHWXVQ",
     "symbol": "CRE",
     "name": "Cybereits"
   },
-  "CYTWGXPFHKNQ": {
-    "id": "CYTWGXPFHKNQ",
-    "symbol": "CYFM",
-    "name": "CyberFM"
-  },
+  "CYTWGXPFHKNQ": { "id": "CYTWGXPFHKNQ", "symbol": "CYFM", "name": "CyberFM" },
   "CFYNTQVHKPZX": {
     "id": "CFYNTQVHKPZX",
     "symbol": "CMT",
@@ -2041,11 +1803,7 @@
     "symbol": "BET",
     "name": "DAO.Casino"
   },
-  "CNQWLKZYGFDH": {
-    "id": "CNQWLKZYGFDH",
-    "symbol": "GEN",
-    "name": "DAOstack"
-  },
+  "CNQWLKZYGFDH": { "id": "CNQWLKZYGFDH", "symbol": "GEN", "name": "DAOstack" },
   "CYPJKGDLTQHV": {
     "id": "CYPJKGDLTQHV",
     "symbol": "DLISK",
@@ -2064,17 +1822,9 @@
   },
   "CYFNLTZJQGDX": { "id": "CYFNLTZJQGDX", "symbol": "KED", "name": "Darsek" },
   "CFVNHYPDWLQT": { "id": "CFVNHYPDWLQT", "symbol": "DAS", "name": "DAS" },
-  "CHYWPQKDXZGF": {
-    "id": "CHYWPQKDXZGF",
-    "symbol": "DASC",
-    "name": "Dascoin"
-  },
+  "CHYWPQKDXZGF": { "id": "CHYWPQKDXZGF", "symbol": "DASC", "name": "Dascoin" },
   "CQLJDHKWNZXP": { "id": "CQLJDHKWNZXP", "symbol": "DASH", "name": "Dash" },
-  "CFGKTLWPZJVN": {
-    "id": "CFGKTLWPZJVN",
-    "symbol": "DSH",
-    "name": "Dashcoin"
-  },
+  "CFGKTLWPZJVN": { "id": "CFGKTLWPZJVN", "symbol": "DSH", "name": "Dashcoin" },
   "CYDVKPFZLQTH": { "id": "CYDVKPFZLQTH", "symbol": "DASHS", "name": "Dashs" },
   "CFGZKVXYNWQD": { "id": "CFGZKVXYNWQD", "symbol": "DTA", "name": "DATA" },
   "CHWXTLFYPNGK": {
@@ -2082,16 +1832,8 @@
     "symbol": "DTX",
     "name": "DaTa eXchange"
   },
-  "CNQFWPZYTGDV": {
-    "id": "CNQFWPZYTGDV",
-    "symbol": "DTB",
-    "name": "Databits"
-  },
-  "CWLTYVKDQNXH": {
-    "id": "CWLTYVKDQNXH",
-    "symbol": "DTC",
-    "name": "Datacoin"
-  },
+  "CNQFWPZYTGDV": { "id": "CNQFWPZYTGDV", "symbol": "DTB", "name": "Databits" },
+  "CWLTYVKDQNXH": { "id": "CWLTYVKDQNXH", "symbol": "DTC", "name": "Datacoin" },
   "CJQLZNWPHYTX": {
     "id": "CJQLZNWPHYTX",
     "symbol": "DTRC",
@@ -2178,11 +1920,7 @@
     "symbol": "DCRE",
     "name": "DeltaCredits"
   },
-  "CWTFPZLHXNQG": {
-    "id": "CWTFPZLHXNQG",
-    "symbol": "DNR",
-    "name": "Denarius"
-  },
+  "CWTFPZLHXNQG": { "id": "CWTFPZLHXNQG", "symbol": "DNR", "name": "Denarius" },
   "CXNDVJGFKYPL": { "id": "CXNDVJGFKYPL", "symbol": "DENT", "name": "Dent" },
   "CDLFHGKJVWTQ": {
     "id": "CDLFHGKJVWTQ",
@@ -2212,17 +1950,9 @@
   "CWQTPFLKGHDY": { "id": "CWQTPFLKGHDY", "symbol": "DEW", "name": "DEW" },
   "CVXFHKNYDZGP": { "id": "CVXFHKNYDZGP", "symbol": "DFS", "name": "DFSCoin" },
   "CYHFLVPJNDZT": { "id": "CYHFLVPJNDZT", "symbol": "DMD", "name": "Diamond" },
-  "CJYTHZDWQLPF": {
-    "id": "CJYTHZDWQLPF",
-    "symbol": "DIBC",
-    "name": "DIBCOIN"
-  },
+  "CJYTHZDWQLPF": { "id": "CJYTHZDWQLPF", "symbol": "DIBC", "name": "DIBCOIN" },
   "CGJLDWNTXKVF": { "id": "CGJLDWNTXKVF", "symbol": "DIEM", "name": "Diem" },
-  "CYLGHXWDZTNP": {
-    "id": "CYLGHXWDZTNP",
-    "symbol": "DGB",
-    "name": "Digibyte"
-  },
+  "CYLGHXWDZTNP": { "id": "CYLGHXWDZTNP", "symbol": "DGB", "name": "Digibyte" },
   "CDZFTWVKPYQJ": {
     "id": "CDZFTWVKPYQJ",
     "symbol": "CUBE",
@@ -2283,11 +2013,7 @@
     "symbol": "DGX",
     "name": "Digix Gold Token"
   },
-  "CNZQHVJGFXDT": {
-    "id": "CNZQHVJGFXDT",
-    "symbol": "DGD",
-    "name": "DigixDAO"
-  },
+  "CNZQHVJGFXDT": { "id": "CNZQHVJGFXDT", "symbol": "DGD", "name": "DigixDAO" },
   "CFZXGLKHPVND": { "id": "CFZXGLKHPVND", "symbol": "DIG", "name": "Dignity" },
   "CYVTJFZWQHNX": { "id": "CYVTJFZWQHNX", "symbol": "DIM", "name": "DIMCOIN" },
   "CNZVDXHFLYQP": {
@@ -2407,11 +2133,7 @@
     "name": "DronecoinV2"
   },
   "CPZFXYDNWQGV": { "id": "CPZFXYDNWQGV", "symbol": "DROP", "name": "Dropil" },
-  "CHGXKQJTLVFZ": {
-    "id": "CHGXKQJTLVFZ",
-    "symbol": "DRXNE",
-    "name": "DROXNE"
-  },
+  "CHGXKQJTLVFZ": { "id": "CHGXKQJTLVFZ", "symbol": "DRXNE", "name": "DROXNE" },
   "CDGPNJZXWKHQ": {
     "id": "CDGPNJZXWKHQ",
     "symbol": "DRPU",
@@ -2457,11 +2179,7 @@
     "symbol": "EDR",
     "name": "E-Dinar Coin"
   },
-  "CNYDFKWTVGZL": {
-    "id": "CNYDFKWTVGZL",
-    "symbol": "EFL",
-    "name": "e-Gulden"
-  },
+  "CNYDFKWTVGZL": { "id": "CNYDFKWTVGZL", "symbol": "EFL", "name": "e-Gulden" },
   "CPDGTNFHJQLV": { "id": "CPDGTNFHJQLV", "symbol": "E4ROW", "name": "E4ROW" },
   "CKWDHNGPYQXF": { "id": "CKWDHNGPYQXF", "symbol": "EAG", "name": "EA Coin" },
   "CFJNXYGVDQLZ": {
@@ -2498,23 +2216,11 @@
   },
   "CDQPHWTKVYJN": { "id": "CDQPHWTKVYJN", "symbol": "EBST", "name": "eBoost" },
   "CKTNHLWFGDJQ": { "id": "CKTNHLWFGDJQ", "symbol": "ECC", "name": "ECC" },
-  "CTYGHVNPWJDF": {
-    "id": "CTYGHVNPWJDF",
-    "symbol": "EKO",
-    "name": "EchoLink"
-  },
+  "CTYGHVNPWJDF": { "id": "CTYGHVNPWJDF", "symbol": "EKO", "name": "EchoLink" },
   "CLXGKQJTDWNF": { "id": "CLXGKQJTDWNF", "symbol": "ECOB", "name": "Ecobit" },
   "CVHKLJXPGZTQ": { "id": "CVHKLJXPGZTQ", "symbol": "ECO", "name": "EcoCoin" },
-  "CFHWYTKGZLJP": {
-    "id": "CFHWYTKGZLJP",
-    "symbol": "EDG",
-    "name": "Edgeless"
-  },
-  "CYFTVPHKNZLW": {
-    "id": "CYFTVPHKNZLW",
-    "symbol": "EDRC",
-    "name": "EDRCoin"
-  },
+  "CFHWYTKGZLJP": { "id": "CFHWYTKGZLJP", "symbol": "EDG", "name": "Edgeless" },
+  "CYFTVPHKNZLW": { "id": "CYFTVPHKNZLW", "symbol": "EDRC", "name": "EDRCoin" },
   "CXVFLHDPWZJK": { "id": "CXVFLHDPWZJK", "symbol": "EKT", "name": "EDUCare" },
   "CJZQTPGDKNHW": { "id": "CJZQTPGDKNHW", "symbol": "EDU", "name": "EduCoin" },
   "CGDJZWFHTXVP": {
@@ -2569,11 +2275,7 @@
     "name": "EliteShipperToken"
   },
   "CTYPQZFNKLGW": { "id": "CTYPQZFNKLGW", "symbol": "ELIX", "name": "Elixir" },
-  "CXTWLKQJNDPG": {
-    "id": "CXTWLKQJNDPG",
-    "symbol": "ELLA",
-    "name": "Ellaism"
-  },
+  "CXTWLKQJNDPG": { "id": "CXTWLKQJNDPG", "symbol": "ELLA", "name": "Ellaism" },
   "CDHQVXZTGJFW": { "id": "CDHQVXZTGJFW", "symbol": "ELTC2", "name": "eLTC" },
   "CYNTXKQZPWVJ": {
     "id": "CYNTXKQZPWVJ",
@@ -2594,11 +2296,7 @@
     "symbol": "EMD",
     "name": "Emerald Crypto"
   },
-  "CGTXZJWNPDQF": {
-    "id": "CGTXZJWNPDQF",
-    "symbol": "EMC",
-    "name": "Emercoin"
-  },
+  "CGTXZJWNPDQF": { "id": "CGTXZJWNPDQF", "symbol": "EMC", "name": "Emercoin" },
   "CZLDFKVJQNTX": {
     "id": "CZLDFKVJQNTX",
     "symbol": "EMP",
@@ -2695,16 +2393,8 @@
   "CDXLKYQTHFPJ": { "id": "CDXLKYQTHFPJ", "symbol": "ERC20", "name": "ERC20" },
   "CXDJYHLTWPVK": { "id": "CXDJYHLTWPVK", "symbol": "EREAL", "name": "eREAL" },
   "CDLNHKFJWZXT": { "id": "CDLNHKFJWZXT", "symbol": "EFYT", "name": "Ergo" },
-  "CQXPTLKNFYHV": {
-    "id": "CQXPTLKNFYHV",
-    "symbol": "ERO",
-    "name": "Eroscoin"
-  },
-  "CWTHYKGDQNXV": {
-    "id": "CWTHYKGDQNXV",
-    "symbol": "ERY",
-    "name": "Eryllium"
-  },
+  "CQXPTLKNFYHV": { "id": "CQXPTLKNFYHV", "symbol": "ERO", "name": "Eroscoin" },
+  "CWTHYKGDQNXV": { "id": "CWTHYKGDQNXV", "symbol": "ERY", "name": "Eryllium" },
   "CGLWHJKPZNDQ": { "id": "CGLWHJKPZNDQ", "symbol": "ESC", "name": "Escoro" },
   "CVJHLZWXDKPN": {
     "id": "CVJHLZWXDKPN",
@@ -2717,22 +2407,14 @@
     "symbol": "EST",
     "name": "Esports Token"
   },
-  "CWYNZKVXHPDJ": {
-    "id": "CWYNZKVXHPDJ",
-    "symbol": "ESS",
-    "name": "Essentia"
-  },
+  "CWYNZKVXHPDJ": { "id": "CWYNZKVXHPDJ", "symbol": "ESS", "name": "Essentia" },
   "CWVZQDGKTJFN": {
     "id": "CWVZQDGKTJFN",
     "symbol": "XET",
     "name": "ETERNAL TOKEN"
   },
   "CZVGJNQFWXHP": { "id": "CZVGJNQFWXHP", "symbol": "EBET", "name": "EthBet" },
-  "CFZVHWQTDLJP": {
-    "id": "CFZVHWQTDLJP",
-    "symbol": "ETBS",
-    "name": "Ethbits"
-  },
+  "CFZVHWQTDLJP": { "id": "CFZVHWQTDLJP", "symbol": "ETBS", "name": "Ethbits" },
   "CLGPHWVYFJZN": {
     "id": "CLGPHWVYFJZN",
     "symbol": "EDT",
@@ -2748,11 +2430,7 @@
     "symbol": "ECH",
     "name": "Etherecash"
   },
-  "CPWTGZNVHKJF": {
-    "id": "CPWTGZNVHKJF",
-    "symbol": "ETH",
-    "name": "Ethereum"
-  },
+  "CPWTGZNVHKJF": { "id": "CPWTGZNVHKJF", "symbol": "ETH", "name": "Ethereum" },
   "CHXVFLGKTNWD": {
     "id": "CHXVFLGKTNWD",
     "symbol": "ECASH",
@@ -2824,11 +2502,7 @@
     "name": "EtherZero"
   },
   "CYXPLDHKTQNZ": { "id": "CYXPLDHKTQNZ", "symbol": "EGAS", "name": "ETHGAS" },
-  "CZKQXDVHFWTN": {
-    "id": "CZKQXDVHFWTN",
-    "symbol": "LEND",
-    "name": "ETHLend"
-  },
+  "CZKQXDVHFWTN": { "id": "CZKQXDVHFWTN", "symbol": "LEND", "name": "ETHLend" },
   "CNGWVFKHDLQT": {
     "id": "CNGWVFKHDLQT",
     "symbol": "HORSE",
@@ -2836,11 +2510,7 @@
   },
   "CYKGHXLQTPWD": { "id": "CYKGHXLQTPWD", "symbol": "ETHOS", "name": "Ethos" },
   "CLJTYHZFVGKN": { "id": "CLJTYHZFVGKN", "symbol": "EUNO", "name": "EUNO" },
-  "CPGTQVXYWLDH": {
-    "id": "CPGTQVXYWLDH",
-    "symbol": "EUC",
-    "name": "Eurocoin"
-  },
+  "CPGTQVXYWLDH": { "id": "CPGTQVXYWLDH", "symbol": "EUC", "name": "Eurocoin" },
   "CWHLVJFKXYTZ": {
     "id": "CWHLVJFKXYTZ",
     "symbol": "ERC",
@@ -2870,6 +2540,11 @@
     "name": "Evil Coin"
   },
   "CVHXWLZPFNKY": { "id": "CVHXWLZPFNKY", "symbol": "EVO", "name": "Evotion" },
+  "CYVHZJWLQTDN": {
+    "id": "CYVHZJWLQTDN",
+    "symbol": "EXCA",
+    "name": "ExcaliburCoin"
+  },
   "CKJHGQFYNTZD": {
     "id": "CKJHGQFYNTZD",
     "symbol": "XUC",
@@ -2920,11 +2595,7 @@
     "name": "Faceblock"
   },
   "CDQTFZNKJXWV": { "id": "CDQTFZNKJXWV", "symbol": "FC", "name": "Facecoin" },
-  "CGDNXYJPWVQK": {
-    "id": "CGDNXYJPWVQK",
-    "symbol": "FACE",
-    "name": "Faceter"
-  },
+  "CGDNXYJPWVQK": { "id": "CGDNXYJPWVQK", "symbol": "FACE", "name": "Faceter" },
   "CWJYPNGZLQFV": { "id": "CWJYPNGZLQFV", "symbol": "FCT", "name": "Factom" },
   "CTQKFYNZDJWL": {
     "id": "CTQKFYNZDJWL",
@@ -2932,11 +2603,7 @@
     "name": "FairCoin"
   },
   "CDNJQGXHTLYV": { "id": "CDNJQGXHTLYV", "symbol": "FAL", "name": "Falcoin" },
-  "CHYFQDVWGTJP": {
-    "id": "CHYFQDVWGTJP",
-    "symbol": "FTI",
-    "name": "FansTime"
-  },
+  "CHYFQDVWGTJP": { "id": "CHYFQDVWGTJP", "symbol": "FTI", "name": "FansTime" },
   "CDJXFVWZNPTK": {
     "id": "CDJXFVWZNPTK",
     "symbol": "FANS",
@@ -2964,11 +2631,7 @@
     "symbol": "FTT",
     "name": "FarmaTrust"
   },
-  "CWPVKLQTXDJH": {
-    "id": "CWPVKLQTXDJH",
-    "symbol": "FST",
-    "name": "Fastcoin"
-  },
+  "CWPVKLQTXDJH": { "id": "CWPVKLQTXDJH", "symbol": "FST", "name": "Fastcoin" },
   "CWTHVDNYPJLF": {
     "id": "CWTHVDNYPJLF",
     "symbol": "FAZZ",
@@ -3066,11 +2729,7 @@
   },
   "CWLTVNGYFZPD": { "id": "CWLTVNGYFZPD", "symbol": "FLIK", "name": "FLiK" },
   "CTVGZQDPFYLK": { "id": "CTVGZQDPFYLK", "symbol": "FLP", "name": "FLIP" },
-  "CHQVXWNYZJGK": {
-    "id": "CHQVXWNYZJGK",
-    "symbol": "FLIXX",
-    "name": "Flixxo"
-  },
+  "CHQVXWNYZJGK": { "id": "CHQVXWNYZJGK", "symbol": "FLIXX", "name": "Flixxo" },
   "CNYDGHFZVTWX": {
     "id": "CNYDGHFZVTWX",
     "symbol": "FLO",
@@ -3089,11 +2748,7 @@
     "symbol": "FLDC",
     "name": "FoldingCoin"
   },
-  "CGLKVHJDZPXT": {
-    "id": "CGLKVHJDZPXT",
-    "symbol": "FLM",
-    "name": "FolmCoin"
-  },
+  "CGLKVHJDZPXT": { "id": "CGLKVHJDZPXT", "symbol": "FLM", "name": "FolmCoin" },
   "CDJKWNZQXTPL": {
     "id": "CDJKWNZQXTPL",
     "symbol": "FONZ",
@@ -3116,11 +2771,7 @@
     "name": "Forkcoin"
   },
   "CTXZJKHYVDPG": { "id": "CTXZJKHYVDPG", "symbol": "FMF", "name": "Formosa" },
-  "CNPTYQKJLFHW": {
-    "id": "CNPTYQKJLFHW",
-    "symbol": "FOTA",
-    "name": "Fortuna"
-  },
+  "CNPTYQKJLFHW": { "id": "CNPTYQKJLFHW", "symbol": "FOTA", "name": "Fortuna" },
   "CFPJVZLYXWTH": {
     "id": "CFPJVZLYXWTH",
     "symbol": "FSBT",
@@ -3143,11 +2794,7 @@
     "symbol": "FRAZ",
     "name": "Frazcoin"
   },
-  "CHTPDFZLWXQV": {
-    "id": "CHTPDFZLWXQV",
-    "symbol": "FRC",
-    "name": "Freicoin"
-  },
+  "CHTPDFZLWXQV": { "id": "CHTPDFZLWXQV", "symbol": "FRC", "name": "Freicoin" },
   "CWQZKXLPTFHD": {
     "id": "CWQZKXLPTFHD",
     "symbol": "FREC",
@@ -3159,22 +2806,10 @@
     "symbol": "FUCK",
     "name": "FuckToken"
   },
-  "CVTNPQJXFZKL": {
-    "id": "CVTNPQJXFZKL",
-    "symbol": "FC2",
-    "name": "FuelCoin"
-  },
-  "CVPLNTZJXKFQ": {
-    "id": "CVPLNTZJXKFQ",
-    "symbol": "FJC",
-    "name": "FujiCoin"
-  },
+  "CVTNPQJXFZKL": { "id": "CVTNPQJXFZKL", "symbol": "FC2", "name": "FuelCoin" },
+  "CVPLNTZJXKFQ": { "id": "CVPLNTZJXKFQ", "symbol": "FJC", "name": "FujiCoin" },
   "CTFDVXKPGQYW": { "id": "CTFDVXKPGQYW", "symbol": "NTO", "name": "Fujinto" },
-  "CZDKXQLHVPTY": {
-    "id": "CZDKXQLHVPTY",
-    "symbol": "FUNC",
-    "name": "FUNCoin"
-  },
+  "CZDKXQLHVPTY": { "id": "CZDKXQLHVPTY", "symbol": "FUNC", "name": "FUNCoin" },
   "CGFQWXDLNPVH": {
     "id": "CGFQWXDLNPVH",
     "symbol": "FND",
@@ -3193,16 +2828,8 @@
   "CVKDPYQLNGJX": { "id": "CVKDPYQLNGJX", "symbol": "FUN", "name": "Funfair" },
   "CJHQVNLFXKGD": { "id": "CJHQVNLFXKGD", "symbol": "FNL", "name": "Funnel" },
   "CKWLTYFJZHQP": { "id": "CKWLTYFJZHQP", "symbol": "FSN", "name": "Fusion" },
-  "CPNKVYJWHDTZ": {
-    "id": "CPNKVYJWHDTZ",
-    "symbol": "FUTC",
-    "name": "FutCoin"
-  },
-  "CKZLGWXQHYFD": {
-    "id": "CKZLGWXQHYFD",
-    "symbol": "FTXT",
-    "name": "FUTURAX"
-  },
+  "CPNKVYJWHDTZ": { "id": "CPNKVYJWHDTZ", "symbol": "FUTC", "name": "FutCoin" },
+  "CKZLGWXQHYFD": { "id": "CKZLGWXQHYFD", "symbol": "FTXT", "name": "FUTURAX" },
   "CTNJFHWGPYQZ": {
     "id": "CTNJFHWGPYQZ",
     "symbol": "FDC",
@@ -3309,11 +2936,7 @@
     "name": "Gentarium"
   },
   "CTVPDGXZWNHQ": { "id": "CTVPDGXZWNHQ", "symbol": "GEO", "name": "Geocoin" },
-  "CXPTHDYGQLZW": {
-    "id": "CXPTHDYGQLZW",
-    "symbol": "GEMZ",
-    "name": "GetGems"
-  },
+  "CXPTHDYGQLZW": { "id": "CXPTHDYGQLZW", "symbol": "GEMZ", "name": "GetGems" },
   "CTKPDGNHZLYQ": {
     "id": "CTKPDGNHZLYQ",
     "symbol": "GSR",
@@ -3406,11 +3029,7 @@
     "symbol": "GB",
     "name": "GoldBlocks"
   },
-  "CXZQDYNJHTLG": {
-    "id": "CXZQDYNJHTLG",
-    "symbol": "GLD",
-    "name": "GoldCoin"
-  },
+  "CXZQDYNJHTLG": { "id": "CXZQDYNJHTLG", "symbol": "GLD", "name": "GoldCoin" },
   "CHKDGTLVPYJF": {
     "id": "CHKDGTLVPYJF",
     "symbol": "GMX",
@@ -3453,16 +3072,8 @@
     "symbol": "GOT",
     "name": "GoNetwork"
   },
-  "CKNYGFTQVHJW": {
-    "id": "CKNYGFTQVHJW",
-    "symbol": "GOOD",
-    "name": "Goodomy"
-  },
-  "CZKJHDPVWLGQ": {
-    "id": "CZKJHDPVWLGQ",
-    "symbol": "GPU",
-    "name": "GPU Coin"
-  },
+  "CKNYGFTQVHJW": { "id": "CKNYGFTQVHJW", "symbol": "GOOD", "name": "Goodomy" },
+  "CZKJHDPVWLGQ": { "id": "CZKJHDPVWLGQ", "symbol": "GPU", "name": "GPU Coin" },
   "CFKZDVJNPTHQ": { "id": "CFKZDVJNPTHQ", "symbol": "GRFT", "name": "Graft" },
   "CLJTGKPHWZYX": {
     "id": "CLJTGKPHWZYX",
@@ -3501,11 +3112,7 @@
     "name": "GreenMed"
   },
   "CWVXKPGYHZTD": { "id": "CWVXKPGYHZTD", "symbol": "GRID", "name": "Grid+" },
-  "CYWNJLTXFPVZ": {
-    "id": "CYWNJLTXFPVZ",
-    "symbol": "GRC",
-    "name": "GridCoin"
-  },
+  "CYWNJLTXFPVZ": { "id": "CYWNJLTXFPVZ", "symbol": "GRC", "name": "GridCoin" },
   "CVHWJYDQXLKP": {
     "id": "CVHWJYDQXLKP",
     "symbol": "GRIM",
@@ -3539,11 +3146,7 @@
     "symbol": "GET",
     "name": "GUTS Tickets"
   },
-  "CNVLGWZDYJQX": {
-    "id": "CNVLGWZDYJQX",
-    "symbol": "GXS",
-    "name": "GXShares"
-  },
+  "CNVLGWZDYJQX": { "id": "CNVLGWZDYJQX", "symbol": "GXS", "name": "GXShares" },
   "CXDVNGHKFJLP": { "id": "CXDVNGHKFJLP", "symbol": "HKN", "name": "Hacken" },
   "CZPNVLWYQTFG": {
     "id": "CZPNVLWYQTFG",
@@ -3576,11 +3179,7 @@
     "symbol": "HPC",
     "name": "Happycoin"
   },
-  "CGJNZDHQKVWY": {
-    "id": "CGJNZDHQKVWY",
-    "symbol": "HRC",
-    "name": "Haracoin"
-  },
+  "CGJNZDHQKVWY": { "id": "CGJNZDHQKVWY", "symbol": "HRC", "name": "Haracoin" },
   "CTQXDGFNZHKV": {
     "id": "CTQXDGFNZHKV",
     "symbol": "HMC",
@@ -3591,11 +3190,7 @@
     "symbol": "HC",
     "name": "Harvest Masternode Coin"
   },
-  "CWVXGPDYKHZF": {
-    "id": "CWVXGPDYKHZF",
-    "symbol": "HSC",
-    "name": "HashCoin"
-  },
+  "CWVXGPDYKHZF": { "id": "CWVXGPDYKHZF", "symbol": "HSC", "name": "HashCoin" },
   "CZFLHTYXVPWD": {
     "id": "CZFLHTYXVPWD",
     "symbol": "GARD",
@@ -3618,11 +3213,7 @@
     "symbol": "WORM",
     "name": "HealthyWormCoin"
   },
-  "CTQVZNYWFDLJ": {
-    "id": "CTQVZNYWFDLJ",
-    "symbol": "HB",
-    "name": "HeartBout"
-  },
+  "CTQVZNYWFDLJ": { "id": "CTQVZNYWFDLJ", "symbol": "HB", "name": "HeartBout" },
   "CLPYZFTXJWKN": { "id": "CLPYZFTXJWKN", "symbol": "HEAT", "name": "HEAT" },
   "CZXWQKJHFTDP": { "id": "CZXWQKJHFTDP", "symbol": "HDG", "name": "Hedge" },
   "CZNLDHQXGPVF": { "id": "CZNLDHQXGPVF", "symbol": "HBZ", "name": "Helbiz" },
@@ -3636,21 +3227,13 @@
     "symbol": "HTH",
     "name": "Help The Homeless Coin"
   },
-  "CZQGHKDPJFYT": {
-    "id": "CZQGHKDPJFYT",
-    "symbol": "HMP",
-    "name": "HempCoin"
-  },
+  "CZQGHKDPJFYT": { "id": "CZQGHKDPJFYT", "symbol": "HMP", "name": "HempCoin" },
   "CLYZXFPTHDNG": {
     "id": "CLYZXFPTHDNG",
     "symbol": "PLAY",
     "name": "HEROcoin"
   },
-  "CLGYNPZHXTQF": {
-    "id": "CLGYNPZHXTQF",
-    "symbol": "HER",
-    "name": "HeroNode"
-  },
+  "CLGYNPZHXTQF": { "id": "CLGYNPZHXTQF", "symbol": "HER", "name": "HeroNode" },
   "CQJVLHFGWYTX": { "id": "CQJVLHFGWYTX", "symbol": "HXX", "name": "Hexx" },
   "CWYTFHPXDVNK": { "id": "CWYTFHPXDVNK", "symbol": "XHI", "name": "HiCoin" },
   "CDWGTLVXPNQK": {
@@ -3678,11 +3261,7 @@
     "symbol": "HIRE",
     "name": "HireMatch"
   },
-  "CVFDKXHQPNTY": {
-    "id": "CVFDKXHQPNTY",
-    "symbol": "HIT",
-    "name": "HitChain"
-  },
+  "CVFDKXHQPNTY": { "id": "CVFDKXHQPNTY", "symbol": "HIT", "name": "HitChain" },
   "CDVZJTYXGKHL": { "id": "CDVZJTYXGKHL", "symbol": "HTC", "name": "HitCoin" },
   "CJYLTXVWZHPF": { "id": "CJYLTXVWZHPF", "symbol": "HVN", "name": "Hive" },
   "CLZVTPKJHXDW": {
@@ -3784,11 +3363,7 @@
     "symbol": "HYP",
     "name": "HyperStake"
   },
-  "CQKYJNFVTXZP": {
-    "id": "CQKYJNFVTXZP",
-    "symbol": "IOC",
-    "name": "I/O Coin"
-  },
+  "CQKYJNFVTXZP": { "id": "CQKYJNFVTXZP", "symbol": "IOC", "name": "I/O Coin" },
   "CQXNTJFYHGDP": { "id": "CQXNTJFYHGDP", "symbol": "I0C", "name": "I0Coin" },
   "CTPNKXQFHLVZ": { "id": "CTPNKXQFHLVZ", "symbol": "IBANK", "name": "iBank" },
   "CJPZHLXYFWDT": { "id": "CJPZHLXYFWDT", "symbol": "IBTC", "name": "iBTC" },
@@ -3846,21 +3421,9 @@
     "symbol": "IMPS",
     "name": "ImpulseCoin"
   },
-  "CGDQJNVFXKPH": {
-    "id": "CGDQJNVFXKPH",
-    "symbol": "NKA",
-    "name": "IncaKoin"
-  },
-  "CLWDFYTNJHVZ": {
-    "id": "CLWDFYTNJHVZ",
-    "symbol": "INCNT",
-    "name": "Incent"
-  },
-  "CWKHJGFTZQNY": {
-    "id": "CWKHJGFTZQNY",
-    "symbol": "IDH",
-    "name": "indaHash"
-  },
+  "CGDQJNVFXKPH": { "id": "CGDQJNVFXKPH", "symbol": "NKA", "name": "IncaKoin" },
+  "CLWDFYTNJHVZ": { "id": "CLWDFYTNJHVZ", "symbol": "INCNT", "name": "Incent" },
+  "CWKHJGFTZQNY": { "id": "CWKHJGFTZQNY", "symbol": "IDH", "name": "indaHash" },
   "CKYJVQFPDGHT": {
     "id": "CKYJVQFPDGHT",
     "symbol": "IMS",
@@ -3881,11 +3444,7 @@
     "symbol": "IND",
     "name": "Indorse Token"
   },
-  "CTQWHVYXNJFP": {
-    "id": "CTQWHVYXNJFP",
-    "symbol": "INF",
-    "name": "InfChain"
-  },
+  "CTQWHVYXNJFP": { "id": "CTQWHVYXNJFP", "symbol": "INF", "name": "InfChain" },
   "CHDPKLGYNZQV": {
     "id": "CHDPKLGYNZQV",
     "symbol": "IFP",
@@ -3933,11 +3492,7 @@
     "name": "Ink Protocol"
   },
   "CNKJYQHXDWZT": { "id": "CNKJYQHXDWZT", "symbol": "INN", "name": "Innova" },
-  "CDYZFPXTVJQW": {
-    "id": "CDYZFPXTVJQW",
-    "symbol": "INO",
-    "name": "INO COIN"
-  },
+  "CDYZFPXTVJQW": { "id": "CDYZFPXTVJQW", "symbol": "INO", "name": "INO COIN" },
   "CGWKDVNLTJQH": { "id": "CGWKDVNLTJQH", "symbol": "INPAY", "name": "InPay" },
   "CPXNDWGQJKFV": {
     "id": "CPXNDWGQJKFV",
@@ -4068,20 +3623,12 @@
     "symbol": "IRL",
     "name": "IrishCoin"
   },
-  "CYLPVWQJTDNX": {
-    "id": "CYLPVWQJTDNX",
-    "symbol": "ISL",
-    "name": "IslaCoin"
-  },
+  "CYLPVWQJTDNX": { "id": "CYLPVWQJTDNX", "symbol": "ISL", "name": "IslaCoin" },
   "CGVHJNLDFTKW": { "id": "CGVHJNLDFTKW", "symbol": "ITI", "name": "iTicoin" },
   "CXFLGHZJKNWY": { "id": "CXFLGHZJKNWY", "symbol": "ING", "name": "Iungo" },
   "CPYXNDQJVLFT": { "id": "CPYXNDQJVLFT", "symbol": "IVY", "name": "Ivy" },
   "CTJGLFVDXPQK": { "id": "CTJGLFVDXPQK", "symbol": "IXC", "name": "Ixcoin" },
-  "CXZVWQKDTNFH": {
-    "id": "CXZVWQKDTNFH",
-    "symbol": "IXT",
-    "name": "iXledger"
-  },
+  "CXZVWQKDTNFH": { "id": "CXZVWQKDTNFH", "symbol": "IXT", "name": "iXledger" },
   "CVLXTNHJWYDG": { "id": "CVLXTNHJWYDG", "symbol": "JNS", "name": "Janus" },
   "CYKFXQZLVDNP": {
     "id": "CYKFXQZLVDNP",
@@ -4106,11 +3653,7 @@
     "symbol": "JNT",
     "name": "Jibrel Network"
   },
-  "CDTKQNHPZWVY": {
-    "id": "CDTKQNHPZWVY",
-    "symbol": "JIN",
-    "name": "Jin Coin"
-  },
+  "CDTKQNHPZWVY": { "id": "CDTKQNHPZWVY", "symbol": "JIN", "name": "Jin Coin" },
   "CWGPLDHXYQFK": {
     "id": "CWGPLDHXYQFK",
     "symbol": "SWTC",
@@ -4172,17 +3715,9 @@
   },
   "CXVYZTQHPGDL": { "id": "CXVYZTQHPGDL", "symbol": "KCASH", "name": "Kcash" },
   "CTWZPQLYGNKF": { "id": "CTWZPQLYGNKF", "symbol": "KEK", "name": "KekCoin" },
-  "CDTKJFVLYHPZ": {
-    "id": "CDTKJFVLYHPZ",
-    "symbol": "KIC",
-    "name": "KibiCoin"
-  },
+  "CDTKJFVLYHPZ": { "id": "CDTKJFVLYHPZ", "symbol": "KIC", "name": "KibiCoin" },
   "CFTXVHYPDWGL": { "id": "CFTXVHYPDWGL", "symbol": "KICK", "name": "KICK" },
-  "CGPDHWXNKLFJ": {
-    "id": "CGPDHWXNKLFJ",
-    "symbol": "KLC",
-    "name": "KiloCoin"
-  },
+  "CGPDHWXNKLFJ": { "id": "CGPDHWXNKLFJ", "symbol": "KLC", "name": "KiloCoin" },
   "CQKHTNDYVLWG": { "id": "CQKHTNDYVLWG", "symbol": "KIN", "name": "Kin" },
   "CXTQVJHDNWPK": {
     "id": "CXTQVJHDNWPK",
@@ -4255,11 +3790,7 @@
     "symbol": "KUMA",
     "name": "Kumacoin"
   },
-  "CQJVPDHKXZNT": {
-    "id": "CQJVPDHKXZNT",
-    "symbol": "KURT",
-    "name": "Kurrent"
-  },
+  "CQJVPDHKXZNT": { "id": "CQJVPDHKXZNT", "symbol": "KURT", "name": "Kurrent" },
   "CJPKGNFXHZTV": {
     "id": "CJPKGNFXHZTV",
     "symbol": "KUSH",
@@ -4295,11 +3826,7 @@
     "symbol": "LATINO",
     "name": "Latino Token"
   },
-  "CLHNKVPFDWTG": {
-    "id": "CLHNKVPFDWTG",
-    "symbol": "LATX",
-    "name": "LatiumX"
-  },
+  "CLHNKVPFDWTG": { "id": "CLHNKVPFDWTG", "symbol": "LATX", "name": "LatiumX" },
   "CPTDJQHLGWXV": { "id": "CPTDJQHLGWXV", "symbol": "LA", "name": "LAToken" },
   "CZPJWFVDHQNG": {
     "id": "CZPJWFVDHQNG",
@@ -4312,21 +3839,13 @@
     "name": "LBRY Credits"
   },
   "CQXHPWNVFTJD": { "id": "CQXHPWNVFTJD", "symbol": "LEA", "name": "LeaCoin" },
-  "CPXNLYQDHWZK": {
-    "id": "CPXNLYQDHWZK",
-    "symbol": "LDC",
-    "name": "Leadcoin"
-  },
+  "CPXNLYQDHWZK": { "id": "CPXNLYQDHWZK", "symbol": "LDC", "name": "Leadcoin" },
   "CVZXFDTNPQKH": {
     "id": "CVZXFDTNPQKH",
     "symbol": "LEAF",
     "name": "LeafCoin"
   },
-  "CTFJPXQHLYVG": {
-    "id": "CTFJPXQHLYVG",
-    "symbol": "LEEK",
-    "name": "LEEKICO"
-  },
+  "CTFJPXQHLYVG": { "id": "CTFJPXQHLYVG", "symbol": "LEEK", "name": "LEEKICO" },
   "CJDYXGQFWPHL": {
     "id": "CJDYXGQFWPHL",
     "symbol": "LGD",
@@ -4359,11 +3878,7 @@
   },
   "CJQZTDLVNFGP": { "id": "CJQZTDLVNFGP", "symbol": "LEO", "name": "LEOcoin" },
   "CKZDVTQWXJYL": { "id": "CKZDVTQWXJYL", "symbol": "LEPEN", "name": "LePen" },
-  "CDYXNFZKVGTP": {
-    "id": "CDYXNFZKVGTP",
-    "symbol": "LTHN",
-    "name": "Lethean"
-  },
+  "CDYXNFZKVGTP": { "id": "CDYXNFZKVGTP", "symbol": "LTHN", "name": "Lethean" },
   "CDGNKWQLTVPF": {
     "id": "CDGNKWQLTVPF",
     "symbol": "LIR",
@@ -4438,11 +3953,7 @@
   "CYWLNPVFHDTG": { "id": "CYWLNPVFHDTG", "symbol": "LINX", "name": "Linx" },
   "CXJQLTYVFGZK": { "id": "CXJQLTYVFGZK", "symbol": "LSK", "name": "Lisk" },
   "CNFZXVHKPQYT": { "id": "CNFZXVHKPQYT", "symbol": "LTB", "name": "LiteBar" },
-  "CJNXVGZQLDFY": {
-    "id": "CJNXVGZQLDFY",
-    "symbol": "LTC",
-    "name": "Litecoin"
-  },
+  "CJNXVGZQLDFY": { "id": "CJNXVGZQLDFY", "symbol": "LTC", "name": "Litecoin" },
   "CJGYPLNQDHFX": {
     "id": "CJGYPLNQDHFX",
     "symbol": "LCC",
@@ -4481,11 +3992,7 @@
     "name": "Live Stars"
   },
   "CKZTJDFWXPQV": { "id": "CKZTJDFWXPQV", "symbol": "LLT", "name": "LLToken" },
-  "CVJPQYDZFNTW": {
-    "id": "CVJPQYDZFNTW",
-    "symbol": "LOBS",
-    "name": "Lobstex"
-  },
+  "CVJPQYDZFNTW": { "id": "CVJPQYDZFNTW", "symbol": "LOBS", "name": "Lobstex" },
   "CVJDYPKWTGQF": {
     "id": "CVJDYPKWTGQF",
     "symbol": "LCS",
@@ -4512,21 +4019,13 @@
     "name": "LogisCoin"
   },
   "CTZPXHJYNVWQ": { "id": "CTZPXHJYNVWQ", "symbol": "LOKI", "name": "Loki" },
-  "CKFHXLTGJDWV": {
-    "id": "CKFHXLTGJDWV",
-    "symbol": "LMC",
-    "name": "LoMoCoin"
-  },
+  "CKFHXLTGJDWV": { "id": "CKFHXLTGJDWV", "symbol": "LMC", "name": "LoMoCoin" },
   "CVZJQNXTYHKG": {
     "id": "CVZJQNXTYHKG",
     "symbol": "LOOM",
     "name": "Loom Network"
   },
-  "CNYGPDHXKZVL": {
-    "id": "CNYGPDHXKZVL",
-    "symbol": "LRC",
-    "name": "Loopring"
-  },
+  "CNYGPDHXKZVL": { "id": "CNYGPDHXKZVL", "symbol": "LRC", "name": "Loopring" },
   "CDGHYNWXTFPK": {
     "id": "CDGHYNWXTFPK",
     "symbol": "LRN",
@@ -4542,11 +4041,7 @@
     "symbol": "LYL",
     "name": "LoyalCoin"
   },
-  "CKFYLGWDXHVP": {
-    "id": "CKFYLGWDXHVP",
-    "symbol": "LTBC",
-    "name": "LTBcoin"
-  },
+  "CKFYLGWDXHVP": { "id": "CKFYLGWDXHVP", "symbol": "LTBC", "name": "LTBcoin" },
   "CTPNFZLVDWQH": {
     "id": "CTPNFZLVDWQH",
     "symbol": "BASH",
@@ -4557,11 +4052,7 @@
     "symbol": "LUCK",
     "name": "LuckCoin"
   },
-  "CXDJYHLZKTQP": {
-    "id": "CXDJYHLZKTQP",
-    "symbol": "LSC",
-    "name": "Luminous"
-  },
+  "CXDJYHLZKTQP": { "id": "CXDJYHLZKTQP", "symbol": "LSC", "name": "Luminous" },
   "CXTJDGYNLQWK": {
     "id": "CXTJDGYNLQWK",
     "symbol": "LUNA",
@@ -4585,22 +4076,14 @@
   "CPVWTFLDKQNX": { "id": "CPVWTFLDKQNX", "symbol": "MCR", "name": "Macro" },
   "CGKZLVWFXYPN": { "id": "CGKZLVWFXYPN", "symbol": "MCRN", "name": "MACRON" },
   "CNWFVTLPZQJG": { "id": "CNWFVTLPZQJG", "symbol": "MDC", "name": "Madcoin" },
-  "CGJNXQDHVPKT": {
-    "id": "CGJNXQDHVPKT",
-    "symbol": "ART",
-    "name": "Maecenas"
-  },
+  "CGJNXQDHVPKT": { "id": "CGJNXQDHVPKT", "symbol": "ART", "name": "Maecenas" },
   "CZPVTKWLJXFG": { "id": "CZPVTKWLJXFG", "symbol": "XMG", "name": "Magi" },
   "CNXYDWPHJTLG": {
     "id": "CNXYDWPHJTLG",
     "symbol": "MAGE",
     "name": "MagicCoin"
   },
-  "CPDHWXTGLFNQ": {
-    "id": "CPDHWXTGLFNQ",
-    "symbol": "MGT",
-    "name": "Magnatum"
-  },
+  "CPDHWXTGLFNQ": { "id": "CPDHWXTGLFNQ", "symbol": "MGT", "name": "Magnatum" },
   "CFWGKHXNPZTJ": { "id": "CFWGKHXNPZTJ", "symbol": "MAG", "name": "Magnet" },
   "CTNDWLZVPYJQ": {
     "id": "CTNDWLZVPYJQ",
@@ -4661,11 +4144,7 @@
     "symbol": "MVL",
     "name": "Mass Vehicle Ledger"
   },
-  "CXZYWDFNTVPH": {
-    "id": "CXZYWDFNTVPH",
-    "symbol": "MGD",
-    "name": "MassGrid"
-  },
+  "CXZYWDFNTVPH": { "id": "CXZYWDFNTVPH", "symbol": "MGD", "name": "MassGrid" },
   "CDYQHXVGNWLP": {
     "id": "CDYQHXVGNWLP",
     "symbol": "MCT",
@@ -4709,22 +4188,14 @@
     "symbol": "MXM",
     "name": "Maximine Coin"
   },
-  "CQPVKGLXZTYN": {
-    "id": "CQPVKGLXZTYN",
-    "symbol": "MZC",
-    "name": "MazaCoin"
-  },
+  "CQPVKGLXZTYN": { "id": "CQPVKGLXZTYN", "symbol": "MZC", "name": "MazaCoin" },
   "CGZTXKLYDWQJ": { "id": "CGZTXKLYDWQJ", "symbol": "MCAP", "name": "MCAP" },
   "CQTPNYFWDXKJ": {
     "id": "CQTPNYFWDXKJ",
     "symbol": "MDT",
     "name": "Measurable Data Token"
   },
-  "CZGWVKFXJNTL": {
-    "id": "CZGWVKFXJNTL",
-    "symbol": "MED",
-    "name": "Medibloc"
-  },
+  "CZGWVKFXJNTL": { "id": "CZGWVKFXJNTL", "symbol": "MED", "name": "Medibloc" },
   "CDZFVHYWLJPT": {
     "id": "CDZFVHYWLJPT",
     "symbol": "MTN",
@@ -4746,11 +4217,7 @@
     "symbol": "MEETONE",
     "name": "MEET.ONE"
   },
-  "CVWQNGDFZYKH": {
-    "id": "CVWQNGDFZYKH",
-    "symbol": "MEC",
-    "name": "Megacoin"
-  },
+  "CVWQNGDFZYKH": { "id": "CVWQNGDFZYKH", "symbol": "MEC", "name": "Megacoin" },
   "CVTJPKWFHGLZ": { "id": "CVTJPKWFHGLZ", "symbol": "MLN", "name": "Melon" },
   "CXZVFHYGQTWN": {
     "id": "CXZVFHYGQTWN",
@@ -4762,11 +4229,7 @@
     "symbol": "MMC",
     "name": "Memorycoin"
   },
-  "CTJYXHFPDKVQ": {
-    "id": "CTJYXHFPDKVQ",
-    "symbol": "MVP",
-    "name": "Merculet"
-  },
+  "CTJYXHFPDKVQ": { "id": "CTJYXHFPDKVQ", "symbol": "MVP", "name": "Merculet" },
   "CYZWKLNPVHQF": { "id": "CYZWKLNPVHQF", "symbol": "MER", "name": "Mercury" },
   "CNVPHYXQKFWG": {
     "id": "CNVPHYXQKFWG",
@@ -4774,11 +4237,7 @@
     "name": "Mercury Protocol"
   },
   "CVLWFXNKYPZD": { "id": "CVLWFXNKYPZD", "symbol": "MERO", "name": "Mero" },
-  "CYZHWXNLFJQT": {
-    "id": "CYZHWXNLFJQT",
-    "symbol": "MET",
-    "name": "Metacoin"
-  },
+  "CYZHWXNLFJQT": { "id": "CYZHWXNLFJQT", "symbol": "MET", "name": "Metacoin" },
   "CKQVTJGFDWYP": { "id": "CKQVTJGFDWYP", "symbol": "MTL", "name": "Metal" },
   "CNLFWHJXQYTK": {
     "id": "CNLFWHJXQYTK",
@@ -4800,11 +4259,7 @@
     "symbol": "ETP",
     "name": "Metaverse ETP"
   },
-  "CLJZVHYXNWFT": {
-    "id": "CLJZVHYXNWFT",
-    "symbol": "MIB",
-    "name": "MIB Coin"
-  },
+  "CLJZVHYXNWFT": { "id": "CLJZVHYXNWFT", "symbol": "MIB", "name": "MIB Coin" },
   "CPGTDXJFHYZK": {
     "id": "CPGTDXJFHYZK",
     "symbol": "AMM",
@@ -4815,16 +4270,8 @@
     "symbol": "MILO",
     "name": "MiloCoin"
   },
-  "CGHKQXDNJTVF": {
-    "id": "CGHKQXDNJTVF",
-    "symbol": "MND",
-    "name": "MindCoin"
-  },
-  "CQYZWFTPXVGH": {
-    "id": "CQYZWFTPXVGH",
-    "symbol": "MNE",
-    "name": "Minereum"
-  },
+  "CGHKQXDNJTVF": { "id": "CGHKQXDNJTVF", "symbol": "MND", "name": "MindCoin" },
+  "CQYZWFTPXVGH": { "id": "CQYZWFTPXVGH", "symbol": "MNE", "name": "Minereum" },
   "CFPTHWGNVDJL": {
     "id": "CFPTHWGNVDJL",
     "symbol": "MRT",
@@ -4843,11 +4290,7 @@
     "name": "Mintcoin"
   },
   "CPDFLVZJTWQX": { "id": "CPDFLVZJTWQX", "symbol": "MRQ", "name": "MIRQ" },
-  "CYLTXGQFHZWP": {
-    "id": "CYLTXGQFHZWP",
-    "symbol": "MITH",
-    "name": "Mithril"
-  },
+  "CYLTXGQFHZWP": { "id": "CYLTXGQFHZWP", "symbol": "MITH", "name": "Mithril" },
   "CGJDYQTHXLNP": { "id": "CGJDYQTHXLNP", "symbol": "MLM", "name": "MktCoin" },
   "CFJZTPGDXHNV": { "id": "CFJZTPGDXHNV", "symbol": "MMXVI", "name": "MMXVI" },
   "CDQLNZTVYGHP": { "id": "CDQLNZTVYGHP", "symbol": "MOAC", "name": "MOAC" },
@@ -4856,11 +4299,7 @@
     "symbol": "MBL",
     "name": "MobileCash"
   },
-  "CGVPFDHWLQJT": {
-    "id": "CGVPFDHWLQJT",
-    "symbol": "MGO",
-    "name": "MobileGo"
-  },
+  "CGVPFDHWLQJT": { "id": "CGVPFDHWLQJT", "symbol": "MGO", "name": "MobileGo" },
   "CHVPKLDFNQJX": { "id": "CHVPKLDFNQJX", "symbol": "MOBI", "name": "Mobius" },
   "CLYTVDXQZHNF": { "id": "CLYTVDXQZHNF", "symbol": "MOD", "name": "Modum" },
   "CNDFYJHXTZVK": {
@@ -4874,11 +4313,7 @@
     "symbol": "MOJO",
     "name": "MojoCoin"
   },
-  "CFPTYZJVDQLX": {
-    "id": "CFPTYZJVDQLX",
-    "symbol": "MLD",
-    "name": "Moldcoin"
-  },
+  "CFPTYZJVDQLX": { "id": "CFPTYZJVDQLX", "symbol": "MLD", "name": "Moldcoin" },
   "CTWYDHJFKLGX": {
     "id": "CTWYDHJFKLGX",
     "symbol": "MOF",
@@ -4968,11 +4403,7 @@
     "symbol": "MORPH",
     "name": "Morpheus Network"
   },
-  "CVKGNDWYQJTH": {
-    "id": "CVKGNDWYQJTH",
-    "symbol": "MOC",
-    "name": "Mossland"
-  },
+  "CVKGNDWYQJTH": { "id": "CVKGNDWYQJTH", "symbol": "MOC", "name": "Mossland" },
   "CZJQTFHPKDVY": {
     "id": "CZJQTFHPKDVY",
     "symbol": "MSP",
@@ -5030,16 +4461,8 @@
   "CQKYXPHTNZDF": { "id": "CQKYXPHTNZDF", "symbol": "MT", "name": "MyToken" },
   "CXGVPKDYQTHJ": { "id": "CXGVPKDYQTHJ", "symbol": "WISH", "name": "MyWish" },
   "CDYXLKWPGQJF": { "id": "CDYXLKWPGQJF", "symbol": "NGC", "name": "NAGA" },
-  "CJTHFGKZPYXQ": {
-    "id": "CJTHFGKZPYXQ",
-    "symbol": "NAM",
-    "name": "NAM COIN"
-  },
-  "CZVNPTGFQWJK": {
-    "id": "CZVNPTGFQWJK",
-    "symbol": "NMC",
-    "name": "Namecoin"
-  },
+  "CJTHFGKZPYXQ": { "id": "CJTHFGKZPYXQ", "symbol": "NAM", "name": "NAM COIN" },
+  "CZVNPTGFQWJK": { "id": "CZVNPTGFQWJK", "symbol": "NMC", "name": "Namecoin" },
   "CHPFNWLQKZDT": {
     "id": "CHPFNWLQKZDT",
     "symbol": "NAMO",
@@ -5072,11 +4495,7 @@
     "symbol": "NAUT",
     "name": "NautilusCoin"
   },
-  "CDXHNJZKLFWT": {
-    "id": "CDXHNJZKLFWT",
-    "symbol": "NAV",
-    "name": "Nav Coin"
-  },
+  "CDXHNJZKLFWT": { "id": "CDXHNJZKLFWT", "symbol": "NAV", "name": "Nav Coin" },
   "CNYPXTQWLVHZ": {
     "id": "CNYPXTQWLVHZ",
     "symbol": "NAVI",
@@ -5132,31 +4551,19 @@
     "symbol": "NTK",
     "name": "Neurotoken"
   },
-  "CKQXNLPJVGFD": {
-    "id": "CKQXNLPJVGFD",
-    "symbol": "NTRN",
-    "name": "Neutron"
-  },
+  "CKQXNLPJVGFD": { "id": "CKQXNLPJVGFD", "symbol": "NTRN", "name": "Neutron" },
   "CXPTHDFZNQYL": {
     "id": "CXPTHDFZNQYL",
     "symbol": "NEVA",
     "name": "NevaCoin"
   },
-  "CWFXLVNGQTJD": {
-    "id": "CWFXLVNGQTJD",
-    "symbol": "NDC",
-    "name": "NEVERDIE"
-  },
+  "CWFXLVNGQTJD": { "id": "CWFXLVNGQTJD", "symbol": "NDC", "name": "NEVERDIE" },
   "CFDVJHNKZLGW": {
     "id": "CFDVJHNKZLGW",
     "symbol": "NPW",
     "name": "New Power Coin"
   },
-  "CYJXFGVDLPQW": {
-    "id": "CYJXFGVDLPQW",
-    "symbol": "NEWB",
-    "name": "Newbium"
-  },
+  "CYJXFGVDLPQW": { "id": "CYJXFGVDLPQW", "symbol": "NEWB", "name": "Newbium" },
   "CQDHZYXWVNGT": { "id": "CQDHZYXWVNGT", "symbol": "NKC", "name": "Nework" },
   "CJLNQYZDXPVG": {
     "id": "CJLNQYZDXPVG",
@@ -5222,11 +4629,7 @@
     "symbol": "NLC2",
     "name": "NoLimitCoin"
   },
-  "CFQDGYTZLNHK": {
-    "id": "CFQDGYTZLNHK",
-    "symbol": "NVC",
-    "name": "Novacoin"
-  },
+  "CFQDGYTZLNHK": { "id": "CFQDGYTZLNHK", "symbol": "NVC", "name": "Novacoin" },
   "CKQXLYFNTWJV": { "id": "CKQXLYFNTWJV", "symbol": "NPER", "name": "NPER" },
   "CXZQTFYPJGKD": { "id": "CXZQTFYPJGKD", "symbol": "NBT", "name": "NuBits" },
   "CWJVTXQDFPYN": {
@@ -5249,11 +4652,7 @@
     "name": "NumusCash"
   },
   "CKDNTVPZGHLJ": { "id": "CKDNTVPZGHLJ", "symbol": "NUSD", "name": "nUSD" },
-  "CGJLNPVXKFDY": {
-    "id": "CGJLNPVXKFDY",
-    "symbol": "NSR",
-    "name": "NuShares"
-  },
+  "CGJLNPVXKFDY": { "id": "CGJLNPVXKFDY", "symbol": "NSR", "name": "NuShares" },
   "CZJVFPQWXGLH": { "id": "CZJVFPQWXGLH", "symbol": "NVST", "name": "NVO" },
   "CPYVJGKQFTXW": { "id": "CPYVJGKQFTXW", "symbol": "NXT", "name": "NXT" },
   "CLKWDNPFHZTY": {
@@ -5261,11 +4660,7 @@
     "symbol": "NYAN",
     "name": "Nyancoin"
   },
-  "CQLXKDWYFZTN": {
-    "id": "CQLXKDWYFZTN",
-    "symbol": "NYEX",
-    "name": "Nyerium"
-  },
+  "CQLXKDWYFZTN": { "id": "CQLXKDWYFZTN", "symbol": "NYEX", "name": "Nyerium" },
   "CNGYPTKHJVLZ": { "id": "CNGYPTKHJVLZ", "symbol": "OAX", "name": "OAX" },
   "CHWJXLVNPDGY": {
     "id": "CHWJXLVNPDGY",
@@ -5273,28 +4668,16 @@
     "name": "Obitan Chain"
   },
   "CFNQKGDZPLXV": { "id": "CFNQKGDZPLXV", "symbol": "OBITS", "name": "OBITS" },
-  "CNFXWGVJHZPQ": {
-    "id": "CNFXWGVJHZPQ",
-    "symbol": "ODN",
-    "name": "Obsidian"
-  },
+  "CNFXWGVJHZPQ": { "id": "CNFXWGVJHZPQ", "symbol": "ODN", "name": "Obsidian" },
   "CFHGTZNVDXYW": {
     "id": "CFHGTZNVDXYW",
     "symbol": "OC",
     "name": "OceanChain"
   },
-  "CXZKHQPTDGYF": {
-    "id": "CXZKHQPTDGYF",
-    "symbol": "OCL",
-    "name": "Oceanlab"
-  },
+  "CXZKHQPTDGYF": { "id": "CXZKHQPTDGYF", "symbol": "OCL", "name": "Oceanlab" },
   "CVGQWDPZHLFK": { "id": "CVGQWDPZHLFK", "symbol": "OCOW", "name": "OCOW" },
   "CPYXTNDKWQZG": { "id": "CPYXTNDKWQZG", "symbol": "OTX", "name": "Octanox" },
-  "CVHXFGYPDJQZ": {
-    "id": "CVHXFGYPDJQZ",
-    "symbol": "888",
-    "name": "OctoCoin"
-  },
+  "CVHXFGYPDJQZ": { "id": "CVHXFGYPDJQZ", "symbol": "888", "name": "OctoCoin" },
   "CDPFLJQTKWHG": {
     "id": "CDPFLJQTKWHG",
     "symbol": "OCC",
@@ -5341,18 +4724,10 @@
     "name": "onG.social"
   },
   "CKQZFTHLGYJV": { "id": "CKQZFTHLGYJV", "symbol": "ONX", "name": "Onix" },
-  "CGNHPWYJXTFD": {
-    "id": "CGNHPWYJXTFD",
-    "symbol": "ONT",
-    "name": "Ontology"
-  },
+  "CGNHPWYJXTFD": { "id": "CGNHPWYJXTFD", "symbol": "ONT", "name": "Ontology" },
   "CYVNPLZFQHWJ": { "id": "CYVNPLZFQHWJ", "symbol": "OPC", "name": "OP Coin" },
   "CNYGWPJHTKLF": { "id": "CNYGWPJHTKLF", "symbol": "OPAL", "name": "Opal" },
-  "CYDGFXHTJPZW": {
-    "id": "CYDGFXHTJPZW",
-    "symbol": "OPCX",
-    "name": "OPCoinX"
-  },
+  "CYDGFXHTJPZW": { "id": "CYDGFXHTJPZW", "symbol": "OPCX", "name": "OPCoinX" },
   "CLKZTQVWHFXN": {
     "id": "CLKZTQVWHFXN",
     "symbol": "OPEN",
@@ -5390,11 +4765,7 @@
     "symbol": "ORB",
     "name": "Orbitcoin"
   },
-  "CLVQXJHDKYZN": {
-    "id": "CLVQXJHDKYZN",
-    "symbol": "RDC",
-    "name": "Ordocoin"
-  },
+  "CLVQXJHDKYZN": { "id": "CLVQXJHDKYZN", "symbol": "RDC", "name": "Ordocoin" },
   "CVJHNFXKDPZW": { "id": "CVJHNFXKDPZW", "symbol": "ORI", "name": "Origami" },
   "CHYFZWPGNKDQ": {
     "id": "CHYFZWPGNKDQ",
@@ -5450,11 +4821,7 @@
     "symbol": "PCS",
     "name": "Pabyosi Coin (Special)"
   },
-  "CPZDQTHJGYLX": {
-    "id": "CPZDQTHJGYLX",
-    "symbol": "$PAC",
-    "name": "PACCoin"
-  },
+  "CPZDQTHJGYLX": { "id": "CPZDQTHJGYLX", "symbol": "$PAC", "name": "PACCoin" },
   "CJKQGYWVDFPT": {
     "id": "CJKQGYWVDFPT",
     "symbol": "PAC",
@@ -5477,21 +4844,13 @@
     "symbol": "PARETO",
     "name": "Pareto Network"
   },
-  "CXDVLKTPWYNZ": {
-    "id": "CXDVLKTPWYNZ",
-    "symbol": "PKB",
-    "name": "ParkByte"
-  },
+  "CXDVLKTPWYNZ": { "id": "CXDVLKTPWYNZ", "symbol": "PKB", "name": "ParkByte" },
   "CWPZNLGTVKHY": {
     "id": "CWPZNLGTVKHY",
     "symbol": "GENE",
     "name": "Parkgene"
   },
-  "CKZNDVQFJTHG": {
-    "id": "CKZNDVQFJTHG",
-    "symbol": "PART",
-    "name": "Particl"
-  },
+  "CKZNDVQFJTHG": { "id": "CKZNDVQFJTHG", "symbol": "PART", "name": "Particl" },
   "CFQHLKWJNTYP": {
     "id": "CFQHLKWJNTYP",
     "symbol": "PASC",
@@ -5522,11 +4881,7 @@
   },
   "CHVGZJQLNDWK": { "id": "CHVGZJQLNDWK", "symbol": "PFR", "name": "Payfair" },
   "CWZHDGTNLQJV": { "id": "CWZHDGTNLQJV", "symbol": "PMNT", "name": "Paymon" },
-  "CYXDQTGNVFJK": {
-    "id": "CYXDQTGNVFJK",
-    "symbol": "PAYP",
-    "name": "PayPeer"
-  },
+  "CYXDQTGNVFJK": { "id": "CYXDQTGNVFJK", "symbol": "PAYP", "name": "PayPeer" },
   "CXVPHWLDKFYQ": { "id": "CXVPHWLDKFYQ", "symbol": "PAYX", "name": "Paypex" },
   "CLJDTWZVNPGX": { "id": "CLJDTWZVNPGX", "symbol": "PPP", "name": "PayPie" },
   "CPTYNZLJHGVF": { "id": "CPTYNZLJHGVF", "symbol": "PAI", "name": "PCHAIN" },
@@ -5535,22 +4890,10 @@
     "symbol": "PEC",
     "name": "Peacecoin"
   },
-  "CPDHKLGWJYQV": {
-    "id": "CPDHKLGWJYQV",
-    "symbol": "PCL",
-    "name": "Peculium"
-  },
+  "CPDHKLGWJYQV": { "id": "CPDHKLGWJYQV", "symbol": "PCL", "name": "Peculium" },
   "CZYLPKFVXGJT": { "id": "CZYLPKFVXGJT", "symbol": "PCO", "name": "Pecunio" },
-  "CZLGHVDPXYWJ": {
-    "id": "CZLGHVDPXYWJ",
-    "symbol": "PCN",
-    "name": "PeepCoin"
-  },
-  "CKJHGTXQPZWV": {
-    "id": "CKJHGTXQPZWV",
-    "symbol": "PPC",
-    "name": "PeerCoin"
-  },
+  "CZLGHVDPXYWJ": { "id": "CZLGHVDPXYWJ", "symbol": "PCN", "name": "PeepCoin" },
+  "CKJHGTXQPZWV": { "id": "CKJHGTXQPZWV", "symbol": "PPC", "name": "PeerCoin" },
   "CLTKNYQFHWJG": {
     "id": "CLTKNYQFHWJG",
     "symbol": "PPY",
@@ -5582,11 +4925,7 @@
     "symbol": "SOUL",
     "name": "Phantasma"
   },
-  "CZYPQVJGXTLD": {
-    "id": "CZYPQVJGXTLD",
-    "symbol": "PNX",
-    "name": "Phantomx"
-  },
+  "CZYPQVJGXTLD": { "id": "CZYPQVJGXTLD", "symbol": "PNX", "name": "Phantomx" },
   "CLHQXPJVDZYW": {
     "id": "CLHQXPJVDZYW",
     "symbol": "PHI",
@@ -5670,32 +5009,16 @@
     "symbol": "XPTX",
     "name": "PlatinumBAR"
   },
-  "CHPFNYXLJWZK": {
-    "id": "CHPFNYXLJWZK",
-    "symbol": "PLY",
-    "name": "PlayCoin"
-  },
+  "CHPFNYXLJWZK": { "id": "CHPFNYXLJWZK", "symbol": "PLY", "name": "PlayCoin" },
   "CWNZXYGVDLTK": {
     "id": "CWNZXYGVDLTK",
     "symbol": "PLACO",
     "name": "PlayerCoin"
   },
   "CDQPHXNFGTZJ": { "id": "CDQPHXNFGTZJ", "symbol": "PKT", "name": "Playkey" },
-  "CZFLDYJTGXPW": {
-    "id": "CZFLDYJTGXPW",
-    "symbol": "PLX",
-    "name": "PlexCoin"
-  },
-  "CHYKFXTQVWLJ": {
-    "id": "CHYKFXTQVWLJ",
-    "symbol": "PLNC",
-    "name": "PLNcoin"
-  },
-  "CPWQNKZGYFTV": {
-    "id": "CPWQNKZGYFTV",
-    "symbol": "PLC",
-    "name": "PlusCoin"
-  },
+  "CZFLDYJTGXPW": { "id": "CZFLDYJTGXPW", "symbol": "PLX", "name": "PlexCoin" },
+  "CHYKFXTQVWLJ": { "id": "CHYKFXTQVWLJ", "symbol": "PLNC", "name": "PLNcoin" },
+  "CPWQNKZGYFTV": { "id": "CPWQNKZGYFTV", "symbol": "PLC", "name": "PlusCoin" },
   "CZGWKHPYXQLV": { "id": "CZGWKHPYXQLV", "symbol": "PLU", "name": "Pluton" },
   "CTVFLGWPQNXK": { "id": "CTVFLGWPQNXK", "symbol": "POE", "name": "Po.et" },
   "CTYWNXFHQLGZ": {
@@ -5735,37 +5058,21 @@
     "symbol": "PONZI",
     "name": "PonziCoin"
   },
-  "CYFQNZJDLPWV": {
-    "id": "CYFQNZJDLPWV",
-    "symbol": "PCH",
-    "name": "POPCHAIN"
-  },
+  "CYFQNZJDLPWV": { "id": "CYFQNZJDLPWV", "symbol": "PCH", "name": "POPCHAIN" },
   "CKVWNXLGTZFH": {
     "id": "CKVWNXLGTZFH",
     "symbol": "POP",
     "name": "PopularCoin"
   },
-  "CWXTVFKJDZNY": {
-    "id": "CWXTVFKJDZNY",
-    "symbol": "PPT",
-    "name": "Populous"
-  },
-  "CXKLZGVWNJDY": {
-    "id": "CXKLZGVWNJDY",
-    "symbol": "PT",
-    "name": "Porntoken"
-  },
+  "CWXTVFKJDZNY": { "id": "CWXTVFKJDZNY", "symbol": "PPT", "name": "Populous" },
+  "CXKLZGVWNJDY": { "id": "CXKLZGVWNJDY", "symbol": "PT", "name": "Porntoken" },
   "CDKXZWPHQYGN": { "id": "CDKXZWPHQYGN", "symbol": "PEX", "name": "PosEx" },
   "CNKZDYLQFGTV": {
     "id": "CNKZDYLQFGTV",
     "symbol": "POST",
     "name": "PostCoin"
   },
-  "CZGWVXKHLJTQ": {
-    "id": "CZGWVXKHLJTQ",
-    "symbol": "POS",
-    "name": "PoSToken"
-  },
+  "CZGWVXKHLJTQ": { "id": "CZGWVXKHLJTQ", "symbol": "POS", "name": "PoSToken" },
   "CLHQZWYXGJPD": {
     "id": "CLHQZWYXGJPD",
     "symbol": "POSW",
@@ -5799,22 +5106,14 @@
     "symbol": "PRES",
     "name": "President Trump"
   },
-  "CNVHFLYXDTWJ": {
-    "id": "CNVHFLYXDTWJ",
-    "symbol": "PRS",
-    "name": "PressOne"
-  },
+  "CNVHFLYXDTWJ": { "id": "CNVHFLYXDTWJ", "symbol": "PRS", "name": "PressOne" },
   "CZQDHNGWYJXL": {
     "id": "CZQDHNGWYJXL",
     "symbol": "PBT",
     "name": "Primalbase Token"
   },
   "CGPNXYTJQHVL": { "id": "CGPNXYTJQHVL", "symbol": "PST", "name": "Primas" },
-  "CTQKYXHGJDNF": {
-    "id": "CTQKYXHGJDNF",
-    "symbol": "PXI",
-    "name": "Prime-XI"
-  },
+  "CTQKYXHGJDNF": { "id": "CTQKYXHGJDNF", "symbol": "PXI", "name": "Prime-XI" },
   "CVPDWNXLJFKH": {
     "id": "CVPDWNXLJFKH",
     "symbol": "XPM",
@@ -5830,11 +5129,7 @@
     "symbol": "PRX",
     "name": "Printerium"
   },
-  "CHDFTLYKGJWN": {
-    "id": "CHDFTLYKGJWN",
-    "symbol": "PRTX",
-    "name": "Printex"
-  },
+  "CHDFTLYKGJWN": { "id": "CHDFTLYKGJWN", "symbol": "PRTX", "name": "Printex" },
   "CXHKNYPJFZWQ": {
     "id": "CXHKNYPJFZWQ",
     "symbol": "PRM",
@@ -5895,11 +5190,7 @@
     "name": "PROUD Money"
   },
   "CKVXFZQHTDGW": { "id": "CKVXFZQHTDGW", "symbol": "XES", "name": "Proxeus" },
-  "CQWDFKVHPLXN": {
-    "id": "CQWDFKVHPLXN",
-    "symbol": "XPX",
-    "name": "ProximaX"
-  },
+  "CQWDFKVHPLXN": { "id": "CQWDFKVHPLXN", "symbol": "XPX", "name": "ProximaX" },
   "CFHWYQNXDGPL": {
     "id": "CFHWYQNXDGPL",
     "symbol": "PSY",
@@ -5908,11 +5199,7 @@
   "CHQXNLDWTVFJ": { "id": "CHQXNLDWTVFJ", "symbol": "PBL", "name": "Publica" },
   "CYZGVHTNJPXQ": { "id": "CYZGVHTNJPXQ", "symbol": "PULSE", "name": "Pulse" },
   "CDFVJPTHLGWK": { "id": "CDFVJPTHLGWK", "symbol": "PMA", "name": "PumaPay" },
-  "CQYXHFWLGJTV": {
-    "id": "CQYXHFWLGJTV",
-    "symbol": "NPXS",
-    "name": "Pundi X"
-  },
+  "CQYXHFWLGJTV": { "id": "CQYXHFWLGJTV", "symbol": "NPXS", "name": "Pundi X" },
   "CDJTHFQXLYZV": {
     "id": "CDJTHFQXLYZV",
     "symbol": "NPXSXEM",
@@ -5926,11 +5213,7 @@
     "name": "PureVidz"
   },
   "CFXHKLQNJTYD": { "id": "CFXHKLQNJTYD", "symbol": "PUREX", "name": "Purex" },
-  "CPTFJHVWKXDN": {
-    "id": "CPTFJHVWKXDN",
-    "symbol": "PRPS",
-    "name": "Purpose"
-  },
+  "CPTFJHVWKXDN": { "id": "CPTFJHVWKXDN", "symbol": "PRPS", "name": "Purpose" },
   "CQXDYNLPWTJK": {
     "id": "CQXDYNLPWTJK",
     "symbol": "PUT",
@@ -5993,11 +5276,7 @@
     "name": "Quebecoin"
   },
   "CFQWNKJZGHVL": { "id": "CFQWNKJZGHVL", "symbol": "QUN", "name": "QunQun" },
-  "CNFLPVWXJDHY": {
-    "id": "CNFLPVWXJDHY",
-    "symbol": "XQN",
-    "name": "Quotient"
-  },
+  "CNFLPVWXJDHY": { "id": "CNFLPVWXJDHY", "symbol": "XQN", "name": "Quotient" },
   "CQPWDGTLZYNX": { "id": "CQPWDGTLZYNX", "symbol": "QURO", "name": "Qurito" },
   "CGJLDFPTZVQX": { "id": "CGJLDFPTZVQX", "symbol": "QVT", "name": "Qvolta" },
   "CYJZKNHGLWTD": { "id": "CYJZKNHGLWTD", "symbol": "QWARK", "name": "Qwark" },
@@ -6008,7 +5287,6 @@
     "name": "RabbitCoin"
   },
   "CJDFKZHYLXGV": { "id": "CJDFKZHYLXGV", "symbol": "RADS", "name": "Radium" },
-
   "CDKHJFXLQZNV": {
     "id": "CDKHJFXLQZNV",
     "symbol": "RDN",
@@ -6020,11 +5298,7 @@
     "name": "Rasputin Online Coin"
   },
   "CVWLXHYZQFGT": { "id": "CVWLXHYZQFGT", "symbol": "RTE", "name": "Rate3" },
-  "CGXKQWYDZJTH": {
-    "id": "CGXKQWYDZJTH",
-    "symbol": "XRA",
-    "name": "Ratecoin"
-  },
+  "CGXKQWYDZJTH": { "id": "CGXKQWYDZJTH", "symbol": "XRA", "name": "Ratecoin" },
   "CZFXWJHGYLVQ": {
     "id": "CZFXWJHGYLVQ",
     "symbol": "RVN",
@@ -6062,22 +5336,10 @@
     "name": "Red Pulse"
   },
   "CKNYGFJDPTLW": { "id": "CKNYGFJDPTLW", "symbol": "RED", "name": "RedCoin" },
-  "CPKHWNZYDQJF": {
-    "id": "CPKHWNZYDQJF",
-    "symbol": "RDD",
-    "name": "ReddCoin"
-  },
+  "CPKHWNZYDQJF": { "id": "CPKHWNZYDQJF", "symbol": "RDD", "name": "ReddCoin" },
   "CGPNKVWJHXTL": { "id": "CGPNKVWJHXTL", "symbol": "REE", "name": "ReeCoin" },
-  "CHWJKVGLZPQX": {
-    "id": "CHWJKVGLZPQX",
-    "symbol": "RFR",
-    "name": "Refereum"
-  },
-  "CQLZXKHYNJVW": {
-    "id": "CQLZXKHYNJVW",
-    "symbol": "REF",
-    "name": "RefToken"
-  },
+  "CHWJKVGLZPQX": { "id": "CHWJKVGLZPQX", "symbol": "RFR", "name": "Refereum" },
+  "CQLZXKHYNJVW": { "id": "CQLZXKHYNJVW", "symbol": "REF", "name": "RefToken" },
   "CKWPVNZGLHQY": {
     "id": "CKWPVNZGLHQY",
     "symbol": "REGA",
@@ -6120,11 +5382,7 @@
   },
   "CWYLQPXJNHZK": { "id": "CWYLQPXJNHZK", "symbol": "REX", "name": "REX" },
   "CWQZVLKDTPXG": { "id": "CWQZVLKDTPXG", "symbol": "XRH", "name": "Rhenium" },
-  "CNQFKWHLYJPD": {
-    "id": "CNQFKWHLYJPD",
-    "symbol": "RHFC",
-    "name": "RHFCoin"
-  },
+  "CNQFKWHLYJPD": { "id": "CNQFKWHLYJPD", "symbol": "RHFC", "name": "RHFCoin" },
   "CVJGFNQWPZYD": {
     "id": "CVJGFNQWPZYD",
     "symbol": "RHO",
@@ -6205,22 +5463,14 @@
     "symbol": "RBMC",
     "name": "Rubex Money"
   },
-  "CPKFGJQZNWLT": {
-    "id": "CPKFGJQZNWLT",
-    "symbol": "RBIES",
-    "name": "Rubies"
-  },
+  "CPKFGJQZNWLT": { "id": "CPKFGJQZNWLT", "symbol": "RBIES", "name": "Rubies" },
   "CZXKPLNJQGTV": {
     "id": "CZXKPLNJQGTV",
     "symbol": "RUBIT",
     "name": "RubleBit"
   },
   "CDKGTQXLHJVP": { "id": "CDKGTQXLHJVP", "symbol": "RBLX", "name": "Rublix" },
-  "CVJDYHZNLGPW": {
-    "id": "CVJDYHZNLGPW",
-    "symbol": "RBY",
-    "name": "RubyCoin"
-  },
+  "CVJDYHZNLGPW": { "id": "CVJDYHZNLGPW", "symbol": "RBY", "name": "RubyCoin" },
   "CTJYQLVWZGDN": { "id": "CTJYQLVWZGDN", "symbol": "RUFF", "name": "Ruff" },
   "CNDYQHWVJKPT": {
     "id": "CNDYQHWVJKPT",
@@ -6260,11 +5510,7 @@
     "symbol": "XSTC",
     "name": "Safe Trade Coin"
   },
-  "CVPHKFLXWTGN": {
-    "id": "CVPHKFLXWTGN",
-    "symbol": "SFE",
-    "name": "SafeCoin"
-  },
+  "CVPHKFLXWTGN": { "id": "CVPHKFLXWTGN", "symbol": "SFE", "name": "SafeCoin" },
   "CZTVWJYGKQPX": {
     "id": "CZTVWJYGKQPX",
     "symbol": "SAGA",
@@ -6375,11 +5621,7 @@
     "name": "Selfiecoin"
   },
   "CJKZLPQVGTFD": { "id": "CJKZLPQVGTFD", "symbol": "KEY", "name": "Selfkey" },
-  "CYDKGTLVPNQF": {
-    "id": "CYDKGTLVPNQF",
-    "symbol": "SSC",
-    "name": "SelfSell"
-  },
+  "CYDKGTLVPNQF": { "id": "CYDKGTLVPNQF", "symbol": "SSC", "name": "SelfSell" },
   "CVWDPFXNGZYT": { "id": "CVWDPFXNGZYT", "symbol": "SEM", "name": "Semux" },
   "CQWHXTJPVDNY": {
     "id": "CQWHXTJPVDNY",
@@ -6402,11 +5644,7 @@
     "symbol": "UPP",
     "name": "Sentinel Protocol"
   },
-  "CVXZFWHYPKTQ": {
-    "id": "CVXZFWHYPKTQ",
-    "symbol": "SEQ",
-    "name": "Sequence"
-  },
+  "CVXZFWHYPKTQ": { "id": "CVXZFWHYPKTQ", "symbol": "SEQ", "name": "Sequence" },
   "CYTWVXFGDKQN": { "id": "CYTWVXFGDKQN", "symbol": "SETH", "name": "Sether" },
   "CYFQLNZDJGTH": { "id": "CYFQLNZDJGTH", "symbol": "SXC", "name": "Sexcoin" },
   "CNVDZFJXGPWY": { "id": "CNVDZFJXGPWY", "symbol": "SGP", "name": "SGPay" },
@@ -6560,11 +5798,7 @@
     "symbol": "SLEVIN",
     "name": "Slevin"
   },
-  "CVDLQYWFZPHJ": {
-    "id": "CVDLQYWFZPHJ",
-    "symbol": "SLM",
-    "name": "Slimcoin"
-  },
+  "CVDLQYWFZPHJ": { "id": "CVDLQYWFZPHJ", "symbol": "SLM", "name": "Slimcoin" },
   "CPXZQDYJTHFG": { "id": "CPXZQDYJTHFG", "symbol": "SLING", "name": "Sling" },
   "CVGXKDNTYZLP": {
     "id": "CVGXKDNTYZLP",
@@ -6724,16 +5958,13 @@
     "symbol": "SAY",
     "name": "SpherePay"
   },
+  "CXQPWLGHNFKV": { "id": "CXQPWLGHNFKV", "symbol": "SPDL", "name": "SPINDLE" },
   "CQTPLZJDXHNV": {
     "id": "CQTPLZJDXHNV",
     "symbol": "SPORT",
     "name": "SportsCoin"
   },
-  "CNTVPDHFJYWX": {
-    "id": "CNTVPDHFJYWX",
-    "symbol": "SPF",
-    "name": "SportyFi"
-  },
+  "CNTVPDHFJYWX": { "id": "CNTVPDHFJYWX", "symbol": "SPF", "name": "SportyFi" },
   "CQNYHLXGKZDV": { "id": "CQNYHLXGKZDV", "symbol": "SPT", "name": "Spots" },
   "CJHTLFYDVXGK": {
     "id": "CJHTLFYDVXGK",
@@ -6766,11 +5997,7 @@
     "symbol": "STCN",
     "name": "Stakecoin"
   },
-  "CJLDHXNFWYZK": {
-    "id": "CJLDHXNFWYZK",
-    "symbol": "XSN",
-    "name": "StakeNet"
-  },
+  "CJLDHXNFWYZK": { "id": "CJLDHXNFWYZK", "symbol": "XSN", "name": "StakeNet" },
   "CDYJTKXNZQLV": { "id": "CDYJTKXNZQLV", "symbol": "STR", "name": "Staker" },
   "CDFHKXVGPYQL": {
     "id": "CDFHKXVGPYQL",
@@ -6782,11 +6009,7 @@
     "symbol": "STARS",
     "name": "StarCash Network"
   },
-  "CGDJZYPXNWTQ": {
-    "id": "CGDJZYPXNWTQ",
-    "symbol": "KST",
-    "name": "StarCoin"
-  },
+  "CGDJZYPXNWTQ": { "id": "CGDJZYPXNWTQ", "symbol": "KST", "name": "StarCoin" },
   "CLDYKWNJZFGX": {
     "id": "CLDYKWNJZFGX",
     "symbol": "STRC",
@@ -6821,11 +6044,7 @@
     "name": "Steem Dollars"
   },
   "CDYZWFQLHTPX": { "id": "CDYZWFQLHTPX", "symbol": "XLM", "name": "Stellar" },
-  "CLFXWVGKJQDT": {
-    "id": "CLFXWVGKJQDT",
-    "symbol": "XTL",
-    "name": "Stellite"
-  },
+  "CLFXWVGKJQDT": { "id": "CLFXWVGKJQDT", "symbol": "XTL", "name": "Stellite" },
   "CLYNTXKQVWGD": {
     "id": "CLYNTXKQVWGD",
     "symbol": "STN",
@@ -6937,11 +6156,7 @@
     "symbol": "BUCKS",
     "name": "SwagBucks"
   },
-  "CGWXJNQYLVKH": {
-    "id": "CGWXJNQYLVKH",
-    "symbol": "SWP",
-    "name": "Swapcoin"
-  },
+  "CGWXJNQYLVKH": { "id": "CGWXJNQYLVKH", "symbol": "SWP", "name": "Swapcoin" },
   "CWNZKJHDLPYV": {
     "id": "CWNZKJHDLPYV",
     "symbol": "TOKEN",
@@ -6974,11 +6189,7 @@
     "symbol": "SWC",
     "name": "SwissCoinCash"
   },
-  "CPVKDHJGQZTN": {
-    "id": "CPVKDHJGQZTN",
-    "symbol": "SWH",
-    "name": "Switcheo"
-  },
+  "CPVKDHJGQZTN": { "id": "CPVKDHJGQZTN", "symbol": "SWH", "name": "Switcheo" },
   "CLVNHTFWKQGX": {
     "id": "CLVNHTFWKQGX",
     "symbol": "SET",
@@ -6993,17 +6204,9 @@
     "name": "Syndicate"
   },
   "CVLZFQGYDJHX": { "id": "CVLZFQGYDJHX", "symbol": "AMP", "name": "Synereo" },
-  "CLQGTNDFPVXK": {
-    "id": "CLQGTNDFPVXK",
-    "symbol": "SNRG",
-    "name": "Synergy"
-  },
+  "CLQGTNDFPVXK": { "id": "CLQGTNDFPVXK", "symbol": "SNRG", "name": "Synergy" },
   "CTFJHQWDGPLN": { "id": "CTFJHQWDGPLN", "symbol": "SYS", "name": "Syscoin" },
-  "CQYZXGTVNHPL": {
-    "id": "CQYZXGTVNHPL",
-    "symbol": "TCOIN",
-    "name": "T-coin"
-  },
+  "CQYZXGTVNHPL": { "id": "CQYZXGTVNHPL", "symbol": "TCOIN", "name": "T-coin" },
   "CYPTLXQJKFVG": { "id": "CYPTLXQJKFVG", "symbol": "TAAS", "name": "TaaS" },
   "CTWZFJVPYKGQ": { "id": "CTWZFJVPYKGQ", "symbol": "TAG", "name": "TagCoin" },
   "CQNFTJWZDLKV": {
@@ -7103,11 +6306,7 @@
     "symbol": "XVE",
     "name": "The Vegan Initiative"
   },
-  "CDYJZXFLWPQG": {
-    "id": "CDYJZXFLWPQG",
-    "symbol": "TCR",
-    "name": "TheCreed"
-  },
+  "CDYJZXFLWPQG": { "id": "CDYJZXFLWPQG", "symbol": "TCR", "name": "TheCreed" },
   "CGTQKHJVXWPN": { "id": "CGTQKHJVXWPN", "symbol": "DAO", "name": "TheDAO" },
   "CJPZGHKDWTVN": { "id": "CJPZGHKDWTVN", "symbol": "TKY", "name": "THEKEY" },
   "CLVQKZTFWXYH": {
@@ -7161,21 +6360,13 @@
     "symbol": "TGC",
     "name": "Tigercoin"
   },
-  "CPFYQWXTJKVZ": {
-    "id": "CPFYQWXTJKVZ",
-    "symbol": "TIG",
-    "name": "Tigereum"
-  },
+  "CPFYQWXTJKVZ": { "id": "CPFYQWXTJKVZ", "symbol": "TIG", "name": "Tigereum" },
   "CQPYKWLNHVFD": {
     "id": "CQPYKWLNHVFD",
     "symbol": "TNB",
     "name": "Time New Bank"
   },
-  "CDLHKPYFZGXW": {
-    "id": "CDLHKPYFZGXW",
-    "symbol": "TME",
-    "name": "Timereum"
-  },
+  "CDLHKPYFZGXW": { "id": "CDLHKPYFZGXW", "symbol": "TME", "name": "Timereum" },
   "CZJLPWFKGYHX": {
     "id": "CZJLPWFKGYHX",
     "symbol": "TMC",
@@ -7203,11 +6394,7 @@
     "symbol": "TODAY",
     "name": "TodayCoin"
   },
-  "CJYTWFDPZGQV": {
-    "id": "CJYTWFDPZGQV",
-    "symbol": "TBX",
-    "name": "Tokenbox"
-  },
+  "CJYTWFDPZGQV": { "id": "CJYTWFDPZGQV", "symbol": "TBX", "name": "Tokenbox" },
   "CYPXZKDHVWNJ": {
     "id": "CYPXZKDHVWNJ",
     "symbol": "TKN",
@@ -7223,11 +6410,7 @@
     "symbol": "TDS",
     "name": "TokenDesk"
   },
-  "CFHDLNYQZWXG": {
-    "id": "CFHDLNYQZWXG",
-    "symbol": "TEN",
-    "name": "Tokenomy"
-  },
+  "CFHDLNYQZWXG": { "id": "CFHDLNYQZWXG", "symbol": "TEN", "name": "Tokenomy" },
   "CKLZFDHTPNVG": {
     "id": "CKLZFDHTPNVG",
     "symbol": "TPAY",
@@ -7235,11 +6418,7 @@
   },
   "CGVDPFTYKWJX": { "id": "CGVDPFTYKWJX", "symbol": "TKS", "name": "Tokens" },
   "CKHTJYZWVFND": { "id": "CKHTJYZWVFND", "symbol": "TKA", "name": "Tokia" },
-  "CGNHFZXKQWVJ": {
-    "id": "CGNHFZXKQWVJ",
-    "symbol": "TOK",
-    "name": "Tokugawa"
-  },
+  "CGNHFZXKQWVJ": { "id": "CGNHFZXKQWVJ", "symbol": "TOK", "name": "Tokugawa" },
   "CZKQVNPTFLXY": { "id": "CZKQVNPTFLXY", "symbol": "TOKC", "name": "TOKYO" },
   "CJWHDTGFNYVP": {
     "id": "CJWHDTGFNYVP",
@@ -7389,11 +6568,7 @@
     "symbol": "TUSD",
     "name": "True USD"
   },
-  "CNXFDYZWKLQH": {
-    "id": "CNXFDYZWKLQH",
-    "symbol": "TFL",
-    "name": "TrueFlip"
-  },
+  "CNXFDYZWKLQH": { "id": "CNXFDYZWKLQH", "symbol": "TFL", "name": "TrueFlip" },
   "CJFXHVKPQDNY": {
     "id": "CJFXHVKPQDNY",
     "symbol": "TRUMP",
@@ -7436,21 +6611,13 @@
     "symbol": "TYCHO",
     "name": "Tychocoin"
   },
-  "CYPQTNGWHJZV": {
-    "id": "CYPQTNGWHJZV",
-    "symbol": "TYC",
-    "name": "Tyrocoin"
-  },
+  "CYPQTNGWHJZV": { "id": "CYPQTNGWHJZV", "symbol": "TYC", "name": "Tyrocoin" },
   "CDXPJWFZHYGQ": {
     "id": "CDXPJWFZHYGQ",
     "symbol": "UUU",
     "name": "U Network"
   },
-  "CGJFYDXZLKHV": {
-    "id": "CGJFYDXZLKHV",
-    "symbol": "UCASH",
-    "name": "U.CASH"
-  },
+  "CGJFYDXZLKHV": { "id": "CGJFYDXZLKHV", "symbol": "UCASH", "name": "U.CASH" },
   "CTZPVXKYWJQL": {
     "id": "CTZPVXKYWJQL",
     "symbol": "UAHPAY",
@@ -7463,16 +6630,8 @@
     "symbol": "UCT",
     "name": "Ubique Chain Of Things"
   },
-  "CGKTPFZNXHJW": {
-    "id": "CGKTPFZNXHJW",
-    "symbol": "UFO",
-    "name": "UFO Coin"
-  },
-  "CKFVJLHGQDTZ": {
-    "id": "CKFVJLHGQDTZ",
-    "symbol": "UGT",
-    "name": "UG Token"
-  },
+  "CGKTPFZNXHJW": { "id": "CGKTPFZNXHJW", "symbol": "UFO", "name": "UFO Coin" },
+  "CKFVJLHGQDTZ": { "id": "CKFVJLHGQDTZ", "symbol": "UGT", "name": "UG Token" },
   "CZDKYTFGJHNQ": { "id": "CZDKYTFGJHNQ", "symbol": "GAIN", "name": "UGAIN" },
   "CPXJNVKGZWYH": { "id": "CPXJNVKGZWYH", "symbol": "UGC", "name": "ugChain" },
   "CLNPYVJGDQHF": { "id": "CLNPYVJGDQHF", "symbol": "UK", "name": "UKcoin" },
@@ -7513,11 +6672,7 @@
     "symbol": "UBT",
     "name": "Unibright"
   },
-  "CFQGHWKPYNLJ": {
-    "id": "CFQGHWKPYNLJ",
-    "symbol": "UNIC",
-    "name": "UniCoin"
-  },
+  "CFQGHWKPYNLJ": { "id": "CFQGHWKPYNLJ", "symbol": "UNIC", "name": "UniCoin" },
   "CFKQJZVPGYWL": { "id": "CFKQJZVPGYWL", "symbol": "UNIFY", "name": "Unify" },
   "CPQTHLJGWKYZ": {
     "id": "CPQTHLJGWKYZ",
@@ -7560,11 +6715,7 @@
     "symbol": "UNRC",
     "name": "UniversalRoyalCoin"
   },
-  "CPHYKWJZDGNF": {
-    "id": "CPHYKWJZDGNF",
-    "symbol": "UNI",
-    "name": "Universe"
-  },
+  "CPHYKWJZDGNF": { "id": "CPHYKWJZDGNF", "symbol": "UNI", "name": "Universe" },
   "CWXNLFVPTZDY": {
     "id": "CWXNLFVPTZDY",
     "symbol": "UIP",
@@ -7580,11 +6731,7 @@
     "symbol": "URC",
     "name": "Unrealcoin"
   },
-  "CNZJTYGWHDXK": {
-    "id": "CNZJTYGWHDXK",
-    "symbol": "UFR",
-    "name": "Upfiring"
-  },
+  "CNZJTYGWHDXK": { "id": "CNZJTYGWHDXK", "symbol": "UFR", "name": "Upfiring" },
   "CDYZFNTLQVKJ": { "id": "CDYZFNTLQVKJ", "symbol": "UP", "name": "UpToken" },
   "CYDHNKGLJVXT": {
     "id": "CYDHNKGLJVXT",
@@ -7604,11 +6751,7 @@
   "CXLWHJGPYDTK": { "id": "CXLWHJGPYDTK", "symbol": "OOT", "name": "Utrum" },
   "CVYKGXJTQPFH": { "id": "CVYKGXJTQPFH", "symbol": "UTK", "name": "UTRUST" },
   "CGNHFKZDTVJP": { "id": "CGNHFKZDTVJP", "symbol": "VACUS", "name": "VACUS" },
-  "CWDFVJPTHLQN": {
-    "id": "CWDFVJPTHLQN",
-    "symbol": "VAL",
-    "name": "Valorbit"
-  },
+  "CWDFVJPTHLQN": { "id": "CWDFVJPTHLQN", "symbol": "VAL", "name": "Valorbit" },
   "CKLXNYHJDFZG": {
     "id": "CKLXNYHJDFZG",
     "symbol": "VLC",
@@ -7631,11 +6774,6 @@
   },
   "CXTZNWQLGYDH": { "id": "CXTZNWQLGYDH", "symbol": "XVC", "name": "Vcash" },
   "CQLNJGXFKTHP": { "id": "CQLNJGXFKTHP", "symbol": "VEN", "name": "VeChain" },
-  "CHKPNJXQVDFW": {
-    "id": "CHKPNJXQVDFW",
-    "symbol": "VEN(HCC)",
-    "name": "VEN by Hub Culture Center"
-  },
   "CPVKLJQTFDGW": {
     "id": "CPVKLJQTFDGW",
     "symbol": "VEC2",
@@ -7647,12 +6785,13 @@
     "name": "VegasCoin"
   },
   "CGHFQVYPZKXW": { "id": "CGHFQVYPZKXW", "symbol": "VLT", "name": "Veltor" },
-  "CKTHPFLVDYJG": { "id": "CKTHPFLVDYJG", "symbol": "XVG", "name": "Verge" },
-  "CXDVPZGWTFQH": {
-    "id": "CXDVPZGWTFQH",
-    "symbol": "VRC",
-    "name": "VeriCoin"
+  "CHKPNJXQVDFW": {
+    "id": "CHKPNJXQVDFW",
+    "symbol": "VEN(HCC)",
+    "name": "VEN by Hub Culture Center"
   },
+  "CKTHPFLVDYJG": { "id": "CKTHPFLVDYJG", "symbol": "XVG", "name": "Verge" },
+  "CXDVPZGWTFQH": { "id": "CXDVPZGWTFQH", "symbol": "VRC", "name": "VeriCoin" },
   "CQKFYLPDJNXW": {
     "id": "CQKFYLPDJNXW",
     "symbol": "VDG",
@@ -7672,29 +6811,17 @@
   },
   "CVLYHQXTZNDK": { "id": "CVLYHQXTZNDK", "symbol": "VRS", "name": "Veros" },
   "CWZDJFTYXLVP": { "id": "CWZDJFTYXLVP", "symbol": "V", "name": "Version" },
-  "CZWGPHQFYTND": {
-    "id": "CZWGPHQFYTND",
-    "symbol": "VTC",
-    "name": "Vertcoin"
-  },
+  "CZWGPHQFYTND": { "id": "CZWGPHQFYTND", "symbol": "VTC", "name": "Vertcoin" },
   "CJXPNVHFDQTG": {
     "id": "CJXPNVHFDQTG",
     "symbol": "VTHO",
     "name": "VeThor Token"
   },
-  "CJTGXKHVFPYW": {
-    "id": "CJTGXKHVFPYW",
-    "symbol": "VEX",
-    "name": "Vexanium"
-  },
+  "CJTGXKHVFPYW": { "id": "CJTGXKHVFPYW", "symbol": "VEX", "name": "Vexanium" },
   "CJQZNFPDXLTV": { "id": "CJQZNFPDXLTV", "symbol": "VZT", "name": "Vezt" },
   "CPWNJQDLHFZK": { "id": "CPWNJQDLHFZK", "symbol": "VIA", "name": "Viacoin" },
   "CGDJVZHPYKWN": { "id": "CGDJVZHPYKWN", "symbol": "VIBE", "name": "VIBE" },
-  "CWNXFTZQPGYD": {
-    "id": "CWNXFTZQPGYD",
-    "symbol": "VIB",
-    "name": "Viberate"
-  },
+  "CWNXFTZQPGYD": { "id": "CWNXFTZQPGYD", "symbol": "VIB", "name": "Viberate" },
   "CJFQNVWLKZHP": {
     "id": "CJFQNVWLKZHP",
     "symbol": "VIT",
@@ -7706,11 +6833,7 @@
     "symbol": "VIKKY",
     "name": "VikkyToken"
   },
-  "CWKFVJLGDYZP": {
-    "id": "CWKFVJLGDYZP",
-    "symbol": "VIN",
-    "name": "VINchain"
-  },
+  "CWKFVJLGDYZP": { "id": "CWKFVJLGDYZP", "symbol": "VIN", "name": "VINchain" },
   "CFDZGYNHKPQV": {
     "id": "CFDZGYNHKPQV",
     "symbol": "VIO",
@@ -7758,34 +6881,18 @@
   "CJGPFQKWZVLD": { "id": "CJGPFQKWZVLD", "symbol": "VIVO", "name": "VIVO" },
   "CKLZWVJQTHXP": { "id": "CKLZWVJQTHXP", "symbol": "VOISE", "name": "Voise" },
   "CWGYDVFXKNLJ": { "id": "CWGYDVFXKNLJ", "symbol": "ACDC", "name": "Volt" },
-  "CKLQHZDWVGJP": {
-    "id": "CKLQHZDWVGJP",
-    "symbol": "VOT",
-    "name": "VoteCoin"
-  },
+  "CKLQHZDWVGJP": { "id": "CKLQHZDWVGJP", "symbol": "VOT", "name": "VoteCoin" },
   "CYPTNDVZXWKG": { "id": "CYPTNDVZXWKG", "symbol": "VOX", "name": "Voxels" },
   "CPTYHXQWLZFD": {
     "id": "CPTYHXQWLZFD",
     "symbol": "VOYA",
     "name": "Voyacoin"
   },
-  "CFKJYDGZXPVL": {
-    "id": "CFKJYDGZXPVL",
-    "symbol": "VASH",
-    "name": "VPNCoin"
-  },
+  "CFKJYDGZXPVL": { "id": "CFKJYDGZXPVL", "symbol": "VASH", "name": "VPNCoin" },
   "CXWJHYQGNLFK": { "id": "CXWJHYQGNLFK", "symbol": "VSL", "name": "vSlice" },
   "CWPVFYTJQNGH": { "id": "CWPVFYTJQNGH", "symbol": "VSX", "name": "Vsync" },
-  "CVPLNTXFJQGH": {
-    "id": "CVPLNTXFJQGH",
-    "symbol": "VTR",
-    "name": "vTorrent"
-  },
-  "CWFXPDKJGQLT": {
-    "id": "CWFXPDKJGQLT",
-    "symbol": "VULC",
-    "name": "Vulcano"
-  },
+  "CVPLNTXFJQGH": { "id": "CVPLNTXFJQGH", "symbol": "VTR", "name": "vTorrent" },
+  "CWFXPDKJGQLT": { "id": "CWFXPDKJGQLT", "symbol": "VULC", "name": "Vulcano" },
   "CLVZTXJKGPQW": { "id": "CLVZTXJKGPQW", "symbol": "W3C", "name": "W3Coin" },
   "CYTVLWKNFXPG": { "id": "CYTVLWKNFXPG", "symbol": "WA", "name": "WA Space" },
   "CNWFYLQXVPHZ": { "id": "CNWFYLQXVPHZ", "symbol": "WABI", "name": "WaBi" },
@@ -7804,11 +6911,7 @@
   "CYWPZQGXDKNJ": { "id": "CYWPZQGXDKNJ", "symbol": "WAN", "name": "Wancoin" },
   "CXHPWZDNVGLF": { "id": "CXHPWZDNVGLF", "symbol": "WAND", "name": "WandX" },
   "CFWGYDJLQZVT": { "id": "CFWGYDJLQZVT", "symbol": "WARP", "name": "WARP" },
-  "CLFVDQTWKYJG": {
-    "id": "CLFVDQTWKYJG",
-    "symbol": "PWV",
-    "name": "Wavebase"
-  },
+  "CLFVDQTWKYJG": { "id": "CLFVDQTWKYJG", "symbol": "PWV", "name": "Wavebase" },
   "CHTNDVKPLZFY": { "id": "CHTNDVKPLZFY", "symbol": "WAVES", "name": "Waves" },
   "CDKFYQPZTXVH": {
     "id": "CDKFYQPZTXVH",
@@ -7818,11 +6921,7 @@
   "CNTQYZVDWHJX": { "id": "CNTQYZVDWHJX", "symbol": "WGO", "name": "WavesGo" },
   "CGHKJWPNYTXL": { "id": "CGHKJWPNYTXL", "symbol": "WIN", "name": "Wawllet" },
   "CYFXPHZJTKQN": { "id": "CYFXPHZJTKQN", "symbol": "WAX", "name": "WAX" },
-  "CPGQKDYZWHLF": {
-    "id": "CPGQKDYZWHLF",
-    "symbol": "WAY",
-    "name": "WayGuide"
-  },
+  "CPGQKDYZWHLF": { "id": "CPGQKDYZWHLF", "symbol": "WAY", "name": "WayGuide" },
   "CDVQWPFXTLJH": {
     "id": "CDVQWPFXTLJH",
     "symbol": "WSX",
@@ -7832,11 +6931,7 @@
   "CXJLPKVWGHFN": { "id": "CXJLPKVWGHFN", "symbol": "WPR", "name": "WePower" },
   "CVZJNXLWYTDG": { "id": "CVZJNXLWYTDG", "symbol": "WETH", "name": "WETH" },
   "CVGQFXLWZDYH": { "id": "CVGQFXLWZDYH", "symbol": "WT", "name": "WeToken" },
-  "CLXGVYWNQHPF": {
-    "id": "CLXGVYWNQHPF",
-    "symbol": "TRST",
-    "name": "WeTrust"
-  },
+  "CLXGVYWNQHPF": { "id": "CLXGVYWNQHPF", "symbol": "TRST", "name": "WeTrust" },
   "CHNKJGDQTFWV": {
     "id": "CHNKJGDQTFWV",
     "symbol": "WHL",
@@ -7892,11 +6987,7 @@
     "symbol": "WOMEN",
     "name": "WomenCoin"
   },
-  "CDXLFZWKHTQV": {
-    "id": "CDXLFZWKHTQV",
-    "symbol": "LOG",
-    "name": "Woodcoin"
-  },
+  "CDXLFZWKHTQV": { "id": "CDXLFZWKHTQV", "symbol": "LOG", "name": "Woodcoin" },
   "CYWLPXQGHKZD": {
     "id": "CYWLPXQGHKZD",
     "symbol": "WDC",
@@ -7929,11 +7020,7 @@
     "symbol": "XCEL",
     "name": "XcelToken"
   },
-  "CVLZYGHKTFQW": {
-    "id": "CVLZYGHKTFQW",
-    "symbol": "XC",
-    "name": "XCurrency"
-  },
+  "CVLZYGHKTFQW": { "id": "CVLZYGHKTFQW", "symbol": "XC", "name": "XCurrency" },
   "CDTVPQGKHFXW": { "id": "CDTVPQGKHFXW", "symbol": "XDE2", "name": "XDE II" },
   "CTHFDVXWYLGQ": { "id": "CTHFDVXWYLGQ", "symbol": "XDNA", "name": "XDNA" },
   "CWDYJQXFPNGL": { "id": "CWDYJQXFPNGL", "symbol": "XNN", "name": "Xenon" },
@@ -7946,18 +7033,10 @@
   "CJVPTYGHWDFX": { "id": "CJVPTYGHWDFX", "symbol": "XIOS", "name": "Xios" },
   "CLZXWYPKDFJG": { "id": "CLZXWYPKDFJG", "symbol": "XMX", "name": "XMax" },
   "CLDGPTVZNQKW": { "id": "CLDGPTVZNQKW", "symbol": "XMCT", "name": "XMCT" },
-  "CZHFLGYTQKJD": {
-    "id": "CZHFLGYTQKJD",
-    "symbol": "XOC",
-    "name": "Xonecoin"
-  },
+  "CZHFLGYTQKJD": { "id": "CZHFLGYTQKJD", "symbol": "XOC", "name": "Xonecoin" },
   "CFWPTDNYZKQV": { "id": "CFWPTDNYZKQV", "symbol": "XOV", "name": "XOVBank" },
   "CDLHKFTQJVWZ": { "id": "CDLHKFTQJVWZ", "symbol": "XPA", "name": "XPlay" },
-  "CKVHQWPNYFLJ": {
-    "id": "CKVHQWPNYFLJ",
-    "symbol": "XTD",
-    "name": "XTD Coin"
-  },
+  "CKVHQWPNYFLJ": { "id": "CKVHQWPNYFLJ", "symbol": "XTD", "name": "XTD Coin" },
   "CDGTPZYXFJNV": {
     "id": "CDGTPZYXFJNV",
     "symbol": "XBY",
@@ -8000,16 +7079,8 @@
     "symbol": "YHC",
     "name": "YokohamaCoin"
   },
-  "CWQNYFJPVKDH": {
-    "id": "CWQNYFJPVKDH",
-    "symbol": "YLC",
-    "name": "YoloCash"
-  },
-  "CFQHZGWYNJTP": {
-    "id": "CFQHZGWYNJTP",
-    "symbol": "YOU",
-    "name": "YOU COIN"
-  },
+  "CWQNYFJPVKDH": { "id": "CWQNYFJPVKDH", "symbol": "YLC", "name": "YoloCash" },
+  "CFQHZGWYNJTP": { "id": "CFQHZGWYNJTP", "symbol": "YOU", "name": "YOU COIN" },
   "CDKVHXFLTGYQ": { "id": "CDKVHXFLTGYQ", "symbol": "YOYOW", "name": "YOYOW" },
   "CDYJQTHGVXZN": {
     "id": "CDYJQTHGVXZN",
@@ -8018,7 +7089,6 @@
   },
   "CGNTDYWJQHXL": { "id": "CGNTDYWJQHXL", "symbol": "YUKI", "name": "YUKI" },
   "CLYTWVGDXKQP": { "id": "CLYTWVGDXKQP", "symbol": "ZAIF", "name": "Zaif" },
-
   "CWPJKHNFTZXG": {
     "id": "CWPJKHNFTZXG",
     "symbol": "BITGIRLSI",
@@ -8651,11 +7721,7 @@
     "symbol": "ZCG",
     "name": "ZCash Gold"
   },
-  "CPHZNGXFLJWD": {
-    "id": "CPHZNGXFLJWD",
-    "symbol": "ZCL",
-    "name": "Zclassic"
-  },
+  "CPHZNGXFLJWD": { "id": "CPHZNGXFLJWD", "symbol": "ZCL", "name": "Zclassic" },
   "CWPXZJVGLKQH": { "id": "CWPXZJVGLKQH", "symbol": "XZC", "name": "Zcoin" },
   "CDPKNZWVFGXT": { "id": "CDPKNZWVFGXT", "symbol": "ZCR", "name": "ZCore" },
   "CHGTJYVLFXNK": { "id": "CHGTJYVLFXNK", "symbol": "ZCO", "name": "Zebi" },
@@ -8678,18 +7744,10 @@
     "symbol": "ZENGOLD",
     "name": "ZenGold"
   },
-  "CHZLPTDJKXVW": {
-    "id": "CHZLPTDJKXVW",
-    "symbol": "ZENI",
-    "name": "Zennies"
-  },
+  "CHZLPTDJKXVW": { "id": "CHZLPTDJKXVW", "symbol": "ZENI", "name": "Zennies" },
   "CDTYHQZKVFWP": { "id": "CDTYHQZKVFWP", "symbol": "ZEPH", "name": "Zephyr" },
   "CJFKQXPHTVZD": { "id": "CJFKQXPHTVZD", "symbol": "ZER", "name": "Zero" },
-  "CZLDWNTVGFJH": {
-    "id": "CZLDWNTVGFJH",
-    "symbol": "ZET",
-    "name": "Zetacoin"
-  },
+  "CZLDWNTVGFJH": { "id": "CZLDWNTVGFJH", "symbol": "ZET", "name": "Zetacoin" },
   "CKWPGHFTLZJD": {
     "id": "CKWPGHFTLZJD",
     "symbol": "ZMC",
@@ -8711,16 +7769,8 @@
   "CQNHWKVPYLTJ": { "id": "CQNHWKVPYLTJ", "symbol": "ZIPT", "name": "Zippie" },
   "CYVTJGXPFHZW": { "id": "CYVTJGXPFHZW", "symbol": "ZMN", "name": "ZMINE" },
   "CWLTKQDYGPJN": { "id": "CWLTKQDYGPJN", "symbol": "ZOI", "name": "Zoin" },
-  "CXYGKQFLHPTN": {
-    "id": "CXYGKQFLHPTN",
-    "symbol": "ZNE",
-    "name": "Zonecoin"
-  },
-  "CTQVXJDHKLYW": {
-    "id": "CTQVXJDHKLYW",
-    "symbol": "ZZC",
-    "name": "ZoZoCoin"
-  },
+  "CXYGKQFLHPTN": { "id": "CXYGKQFLHPTN", "symbol": "ZNE", "name": "Zonecoin" },
+  "CTQVXJDHKLYW": { "id": "CTQVXJDHKLYW", "symbol": "ZZC", "name": "ZoZoCoin" },
   "CYWLPZQFTHXV": {
     "id": "CYWLPZQFTHXV",
     "symbol": "ZPR",
