@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+""" generating CryptoID.
+"""
 import random
 
 VALID_CHARS = "TNLDPHGFYWKVXZJQ"
@@ -16,14 +19,14 @@ def cidgen():
     return cid
 
 def check(cid, prefix='C'):
-    assert len(cid) == CID_LENGTH_WITHOUT_PREFIX +1
-    assert cid.startswith(prefix)
+    assert len(cid) == CID_LENGTH_WITHOUT_PREFIX +1, f"wrong length: {cid}"
+    assert cid.startswith(prefix), f"wrong prefix: {cid}"
 
     s = dict()
     for c in cid[(len(prefix)):] :
-        assert s.get(c,0) == 0
+        assert s.get(c,0) == 0, f"duplicated chars: {cid}"
         s[c] = 1
-        assert VALID_CHARS.find(c) != -1
+        assert VALID_CHARS.find(c) != -1, f"invalid char: {cid}"
 
 def check_composite(cid):
     check(cid, 'CC')

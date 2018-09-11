@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+""" test crypto-db.
+""" 
+
 import json
 import os
 import glob
@@ -6,19 +10,11 @@ import cidgen
 DATABASE_ROOT = os.path.join(os.path.dirname(
     os.path.realpath(__file__)), '../../crypto-db')
 
-
-def test_ids():
-    all_data = load_all_json()
-    test_crypto_db(all_data)
-    test_crypto_actions(all_data)
-    test_map_for_accuracy(all_data)
-    test_map_for_coverage(all_data)
-    test_composite(all_data)
-    pass
+all_data = {}
 
 
-def load_all_json()->{}:
-    all_data = {}
+def setup_module(module):
+
     all_data['map_for_accuracy'] = {}
     all_data['map_for_coverage'] = {}
     all_data['composite'] = {}
@@ -33,8 +29,6 @@ def load_all_json()->{}:
     all_data['map_for_coverage'] = load_sub_dirs('map_for_coverage')
     all_data['composite'] = load_sub_dirs('composite')
 
-    return all_data
-
 
 def load_sub_dirs(key)->{}:
     result = {}
@@ -47,13 +41,13 @@ def load_sub_dirs(key)->{}:
     return result
 
 
-def test_crypto_db(all_data: {}):
+def test_crypto_db():
     # test each id is following convention
     # test symbol is unique
 
     symbols = dict()
     for crypto_id in all_data['crypto-db'].keys():
-        print(f"test_crypto_db: checking..{crypto_id}")
+        # print(f"test_crypto_db: checking..{crypto_id}")
         cidgen.check(crypto_id)
         entry = all_data['crypto-db'][crypto_id]
         cidgen.check(entry['id'])
@@ -61,13 +55,13 @@ def test_crypto_db(all_data: {}):
         symbols[entry['symbol']] = 1
 
 
-def test_crypto_actions(all_data: {}):
+def test_crypto_actions():
     # test each action_id is following convention
     # test ids in action exist.
     symbols = dict()
 
     for action_id in all_data['crypto-actions'].keys():
-        print(f"test_crypto_actions: checking..{action_id}")
+        # print(f"test_crypto_actions: checking..{action_id}")
         cidgen.check_cryptoaction(action_id)
         entry = all_data['crypto-actions'][action_id]
         cidgen.check_cryptoaction(entry['action_id'])
@@ -76,7 +70,7 @@ def test_crypto_actions(all_data: {}):
             assert all_data['crypto-db'][id]
 
 
-def test_map_for_accuracy(all_data: {}):
+def test_map_for_accuracy():
     # check if id exists.
     # log if ns_id is different from symbol in crypto-db
 
@@ -88,10 +82,10 @@ def test_map_for_accuracy(all_data: {}):
             db_entry = all_data['crypto-db'][entry['id']]
             if db_entry['symbol'] != entry['ns_id'] and namespace != 'coinmarketcap':
                 print(
-                    f"warn: ns_id {entry['ns_id']} != {db_entry['symbol']} ({db_entry['name']})")
+                    f"  overwrite: ns_id {entry['ns_id']} ==> {db_entry['symbol']} ({db_entry['name']})")
 
 
-def test_map_for_coverage(all_data: {}):
+def test_map_for_coverage():
     # check if id exists.
     # log if ns_id is different from symbol in crypto-db
     # check each entry exists in map_for_accuracy of the same namespace.
@@ -104,7 +98,7 @@ def test_map_for_coverage(all_data: {}):
             db_entry = all_data['crypto-db'][entry['id']]
             if db_entry['symbol'] != entry['ns_id'] and namespace != 'coinmarketcap':
                 print(
-                    f"warn: ns_id {entry['ns_id']} != {db_entry['symbol']}  ({db_entry['name']})")
+                    f"  overwrite: ns_id {entry['ns_id']} ==> {db_entry['symbol']}  ({db_entry['name']})")
 
             exists_in_map_for_accuracy = False
             for each_map_fora in map_fora:
@@ -114,7 +108,7 @@ def test_map_for_coverage(all_data: {}):
             assert exists_in_map_for_accuracy
 
 
-def test_composite(all_data: {}):
+def test_composite():
     for namespace in all_data['composite'].keys():
         print(f"composite: checking..{namespace}")
         assert namespace == all_data['composite'][namespace]['namespace']
@@ -126,7 +120,3 @@ def test_composite(all_data: {}):
             ids = map[composite_id]['ids']
             for id in ids:
                 assert all_data['crypto-db'][id]
-
-
-if __name__ == "__main__":
-    test_ids()
