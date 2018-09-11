@@ -12,7 +12,9 @@
     "namespace": "crypto-db",
     "type": "Symbol Change",
     "description": "XRB(RaiBlocks) was renamed to be NANO.",
-    "sources": ["https://hackernoon.com/nano-rebrand-announcement-9101528a7b76"],
+    "sources": [
+      "https://hackernoon.com/nano-rebrand-announcement-9101528a7b76"
+    ],
     "reported": "20180131"
   },
   "CAHZLFNTVWKY": {
@@ -63,5 +65,18 @@
     "description": "Coincheck delisted XMR,REP,DASH and ZEC as one of the counter measures for the administrative action paused by Japanese FSA on March 8th, 2018.",
     "sources": ["https://corporate.coincheck.com/2018/05/18/56.html"],
     "executed": "20180618"
+  },
+
+  "CAJHPGZDVFWT": {
+    "action_id": "CAJHPGZDVFWT",
+    "ids": ["CXGZVWNYFDKP", "CPFZKXYQNWGL"],
+    "namespace": "crypto-db",
+    "type": "Mainnet Launch",
+    "description": "Hshare mainnet launch as HyperCash",
+    "sources": [
+      "https://support.binance.com/hc/en-us/articles/360012489731-Binance-Supports-Hcash-HSR-Mainnet-Swap-to-HyperCash-HC-",
+      "https://medium.com/@media_30378/an-extremely-important-hshare-wallet-announcement-8f74e3170b07"
+    ],
+    "executed": "20180808T04:00Z"
   }
 }
