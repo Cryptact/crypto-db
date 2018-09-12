@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """ test crypto-db, to be run as 'pytest -sv'.
-prerequisite: pytest
+Copyright(C) 2018 Cryptact,LTD.
 """
 
 import json

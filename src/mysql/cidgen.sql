@@ -1,3 +1,4 @@
+-- Copyright(C) 2018 Cryptact, LTD.
 -- UDF FOR MYSQL
 
 DROP FUNCTION IF EXISTS FN_CIDGEN;

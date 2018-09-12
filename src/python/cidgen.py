@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-""" generating CryptoID.
+""" 
+Generating CryptoID.
+Copyright(C) 2018 Cryptact, LTD.
 """
 import random
 

@@ -1,3 +1,4 @@
+// Copyright(C) 2018 Cryptact, LTD.
 // EARIOTNSLCUDPMHGBFYWKVXZJQ
 // remove the first 5 chars
 // remove vowels

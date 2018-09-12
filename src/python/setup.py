@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """crypto-db
+Copyright(C) 2018 Cryptact,LTD.
 """
 from setuptools import setup, find_packages
 
@@ -9,7 +10,7 @@ setup(
     description='Scripts for crypto-db',
     url='https://github.com/cryptact/crypto-db',
     author='Shunsuke Masuda',
-    license='(c) 2018 Cryptact',
+    license='MIT',
     classifiers=[
         'Programming Language :: Python :: 3.6'],
     packages=find_packages(exclude=['dev']),
