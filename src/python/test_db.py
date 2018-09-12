@@ -46,16 +46,17 @@ def test_no_duplicated_crypto_id():
     def parse_object_pairs(pairs):
         keys = dict()
         for key, value in pairs:
-            assert keys.get(key, 0) ==0, f"duplicated CryptoID {key} was found."
+            assert keys.get(
+                key, 0) == 0, f"duplicated CryptoID {key} was found."
             keys[key] = 1
-    
+
     with open(os.path.join(DATABASE_ROOT, 'crypto-db.json')) as f:
         json.load(f, object_pairs_hook=parse_object_pairs)
 
     with open(os.path.join(DATABASE_ROOT, 'crypto-actions.json')) as f:
         json.load(f, object_pairs_hook=parse_object_pairs)
 
-    with open(os.path.join(DATABASE_ROOT,'composite', 'cryptact.json')) as f:
+    with open(os.path.join(DATABASE_ROOT, 'composite', 'cryptact.json')) as f:
         json.load(f, object_pairs_hook=parse_object_pairs)
 
 
@@ -69,7 +70,8 @@ def test_crypto_db():
         cidgen.check(crypto_id)
         entry = all_data['crypto-db'][crypto_id]
         cidgen.check(entry['id'])
-        assert symbols.get(entry['symbol'], 0) == 0
+        assert symbols.get(
+            entry['symbol'], 0) == 0, f"found duplicated symbol {entry['symbol']}."
         symbols[entry['symbol']] = 1
 
 
@@ -152,3 +154,8 @@ def test_composite():
             ids = map[composite_id]['ids']
             for id in ids:
                 assert all_data['crypto-db'][id]
+
+def test_cidgen():
+    cidgen.check(cidgen.cidgen())
+    cidgen.check_composite("CCQZNXFTDWPV")
+    cidgen.check_cryptoaction("CAQZNXFTDWPV")
