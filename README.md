@@ -4,7 +4,7 @@ This is a database of all cryptocurrencies.
 It consists of a file which lists all cryptocurrencies with unique identifiers, together with symbol mapping tables in various namespaces such as cryptocurrency projects and exchanges.
 
 ## Goal and difference from related works
-The goal of `crypto-db` is to build a comprehensive database of cryptocurrencies and their listings on crypto exchanges, as well as their evolutions over time.
+The goal of `crypto-db` is to build a comprehensive database of cryptocurrencies and their appearance in namespaces, as well as their evolutions over time.
 This will help any cryptocurrency holders to identify a cryptocurrency, and any developers to provide interoperability between cryptocurrency-related projects without ambiguity. 
 
 Further, this will serve as a historical record for future scientists who study this new economy to tell how it was like in embryo.
@@ -15,6 +15,15 @@ Finally, although we already see great works by price aggregators today, the `cr
 ## How to contribute
 
 Please make PRs, and join the group of Crypto [Numismatists](https://en.wikipedia.org/wiki/Numismatist_(specialist)).
+
+### How to check consistency before PR
+With Python (>=3.6), your changes can be checked if they are consistent in the following way. 
+
+```sh
+$ cd src/python
+$ pip install pytest
+$ pytest
+```
 
 ## File structure
 

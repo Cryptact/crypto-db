@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" test crypto-db, to be run as 'pytest -sv'.
+""" Test of crypto-db. Run 'pytest -sv'.
 Copyright(C) 2018 Cryptact,LTD.
 """
 
@@ -45,7 +45,7 @@ def load_sub_dirs(key)->{}:
 def test_no_duplicated_crypto_id():
     def parse_object_pairs(pairs):
         keys = dict()
-        for key, value in pairs:
+        for key, _  in pairs:
             assert keys.get(
                 key, 0) == 0, f"duplicated CryptoID {key} was found."
             keys[key] = 1
