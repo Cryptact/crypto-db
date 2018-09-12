@@ -1,0 +1,36 @@
+version: 2
+jobs:
+  Test:
+    docker:
+      - image: circleci/python:3.6.6
+
+    working_directory: ~/crypto-db
+
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+          - v2-dependencies-{{ checksum "src/python/setup.py" }}
+      - run:
+          name: Installing dependencies
+          working_directory: ~/crypto-db/src/python
+          command: |
+            python -m venv venv
+            . venv/bin/activate
+            pip install --upgrade pip
+            pip install -e .[dev]
+      - save_cache:
+          paths:
+            - ~/crypto-db/src/pythoh/venv
+          key: v2-dependencies-{{ checksum "src/python/setup.py" }}
+      - run:
+          name: Running unit tests
+          working_directory: ~/crypto-db/src/python
+          command: |
+            . venv/bin/activate
+            pytest
+workflows:
+  version: 2
+  test:
+    jobs:
+      - Test
