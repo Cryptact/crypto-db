@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-""" test crypto-db.
+""" test crypto-db, to be run as 'pytest -sv'.
+prerequisite: pytest
 """
 
 import json
@@ -39,6 +40,23 @@ def load_sub_dirs(key)->{}:
             result[namespace] = json.load(f)
 
     return result
+
+
+def test_no_duplicated_crypto_id():
+    def parse_object_pairs(pairs):
+        keys = dict()
+        for key, value in pairs:
+            assert keys.get(key, 0) ==0, f"duplicated CryptoID {key} was found."
+            keys[key] = 1
+    
+    with open(os.path.join(DATABASE_ROOT, 'crypto-db.json')) as f:
+        json.load(f, object_pairs_hook=parse_object_pairs)
+
+    with open(os.path.join(DATABASE_ROOT, 'crypto-actions.json')) as f:
+        json.load(f, object_pairs_hook=parse_object_pairs)
+
+    with open(os.path.join(DATABASE_ROOT,'composite', 'cryptact.json')) as f:
+        json.load(f, object_pairs_hook=parse_object_pairs)
 
 
 def test_crypto_db():
