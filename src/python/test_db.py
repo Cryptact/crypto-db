@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """ test crypto-db.
-""" 
+"""
 
 import json
 import os
@@ -77,12 +77,24 @@ def test_map_for_accuracy():
     for namespace in all_data['map_for_accuracy'].keys():
         print(f"map_for_accuracy: checking..{namespace}")
         assert namespace == all_data['map_for_accuracy'][namespace]['namespace']
+
         map = all_data['map_for_accuracy'][namespace]['map']
+        if namespace in all_data['map_for_coverage']:
+            map_forc = all_data['map_for_coverage'][namespace]['map']
+
         for entry in map:
             db_entry = all_data['crypto-db'][entry['id']]
-            if db_entry['symbol'] != entry['ns_id'] and namespace != 'coinmarketcap':
-                print(
-                    f"  overwrite: ns_id {entry['ns_id']} ==> {db_entry['symbol']} ({db_entry['name']})")
+            if db_entry['symbol'] != entry['ns_id']:
+                if namespace != 'coinmarketcap':
+                    print(
+                        f"  overwrite: ns_id {entry['ns_id']} ==> {db_entry['symbol']} ({db_entry['name']})")
+
+                exists_in_map_for_coverage = False
+                for each_map_forc in map_forc:
+                    if entry['ns_id'] == each_map_forc['ns_id'] and entry['id'] == each_map_forc['id']:
+                        exists_in_map_for_coverage = True
+
+                assert exists_in_map_for_coverage, f"{namespace}: ns_id {entry['ns_id']} doesn't exist in map_for_coverage"
 
 
 def test_map_for_coverage():
@@ -92,8 +104,10 @@ def test_map_for_coverage():
     for namespace in all_data['map_for_coverage'].keys():
         print(f"map_for_coverage: checking..{namespace}")
         assert namespace == all_data['map_for_coverage'][namespace]['namespace']
+
         map = all_data['map_for_coverage'][namespace]['map']
         map_fora = all_data['map_for_accuracy'][namespace]['map']
+
         for entry in map:
             db_entry = all_data['crypto-db'][entry['id']]
             if db_entry['symbol'] != entry['ns_id'] and namespace != 'coinmarketcap':
@@ -105,7 +119,7 @@ def test_map_for_coverage():
                 if entry['ns_id'] == each_map_fora['ns_id'] and entry['id'] == each_map_fora['id']:
                     exists_in_map_for_accuracy = True
 
-            assert exists_in_map_for_accuracy
+            assert exists_in_map_for_accuracy, f"{namespace}: ns_id {entry['ns_id']} doesn't exist in map_for_accuracy"
 
 
 def test_composite():

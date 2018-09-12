@@ -2,7 +2,11 @@
     "namespace": "coinex",
     "description": "Mapping for coinex trade history.",
     "map": [
-      { "ns_id": "CET", "id": "CKNFQYVZDWJT" }
+      { "ns_id": "CET", "id": "CKNFQYVZDWJT" },
+      { "ns_id": "BTM", "id": "CYGWFJXNKHZP" },
+      { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "20180602T22:00Z" },
+      { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "20180602T22:00Z" }
+  
     ]
   }
   
