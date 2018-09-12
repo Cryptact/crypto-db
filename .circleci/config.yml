@@ -21,7 +21,7 @@ jobs:
             pip install -e .[dev]
       - save_cache:
           paths:
-            - ~/crypto-db/src/pythoh/venv
+            - ~/crypto-db/src/python/venv
           key: v2-dependencies-{{ checksum "src/python/setup.py" }}
       - run:
           name: Running unit tests
