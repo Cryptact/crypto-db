@@ -1,0 +1,27 @@
+{
+  "namespace": "krakenalt",
+  "description": "ns_id is 'altname' in kraken.",
+  "map": [
+    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
+    { "ns_id": "DASH", "id": "CQLJDHKWNZXP" },
+    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "20180602T22:00Z" },
+    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "20180602T22:00Z" },
+    { "ns_id": "GNO", "id": "CXHKLJZWDTGQ" },
+    { "ns_id": "USDT", "id": "CZYHDQPFNXWJ" },
+    { "ns_id": "DAO", "id": "CGTQKHJVXWPN" },
+    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
+    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
+    { "ns_id": "ICN", "id": "CTKLWYQPDFGZ" },
+    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
+    { "ns_id": "MLN", "id": "CVTJPKWFHGLZ" },
+    { "ns_id": "NMC", "id": "CZVNPTGFQWJK" },
+    { "ns_id": "REP", "id": "CFLYXPHZKTNV" },
+    { "ns_id": "XBT", "id": "CJTFPXDVQHNG" },
+    { "ns_id": "XDG", "id": "CLDGTPZFQNVH" },
+    { "ns_id": "XLM", "id": "CDYZWFQLHTPX" },
+    { "ns_id": "XMR", "id": "CLTJPFYZNVWG" },
+    { "ns_id": "XVN", "id": "CHKPNJXQVDFW" },
+    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
+    { "ns_id": "ZEC", "id": "CWKDPXJQHZGF" }
+  ]
+}
