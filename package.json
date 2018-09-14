@@ -4,11 +4,14 @@
   "description": "Cryptocurrencies Database",
   "main": "index.js",
   "scripts": {
-    "format": "prettier --write '{src,crypto-db}/**/*.{js, json}'"
+    "prettier": "prettier --write '{src,crypto-db}/**/*.{js, json}'"
   },
   "author": "Cryptact, LTD.",
   "license": "MIT",
-  "repository": "cryptact/crypto-db",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cryptact/crypto-db"
+  },
   "devDependencies": {
     "prettier": "^1.14.2"
   }
