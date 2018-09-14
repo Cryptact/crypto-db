@@ -1,0 +1,8 @@
+{
+    "namespace": "huobi",
+    "description": "Mapping for huobi.",
+    "map": [
+      { "ns_id": "PAI", "id": "CPKYVFQJNWZH" }
+    ]
+  }
+  

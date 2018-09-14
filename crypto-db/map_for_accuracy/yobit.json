@@ -1,0 +1,11 @@
+{
+  "namespace": "yobit",
+  "description": "Mapping for yobit trade history.",
+  "map": [
+    { "ns_id": "YOVI", "id": "CNWYTVQZPXGJ" },
+    { "ns_id": "ONEK", "id": "CJVZPNGKWTDH" },
+    { "ns_id": "ELYTE", "id": "CQGFZTVHLPYW" },
+    { "ns_id": "OZC", "id": "CFYLGHZVTDNX" },
+    { "ns_id": "SPD", "id": "CXQPWLGHNFKV" }
+  ]
+}

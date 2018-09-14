@@ -1,0 +1,21 @@
+{
+  "namespace": "cryptact",
+  "description": "composite for price continuity in Cryptact. ns_id is Cryptact's ticker symbol.",
+  "map": {
+    "CCQZNXFTDWPV": {
+      "composite_id": "CCQZNXFTDWPV",
+      "ns_id": "EOS",
+      "ids": ["CPXQGHKTDLYJ", "CTFLDWZYQKXG"]
+    },
+    "CCQFWZJPGHXV": {
+      "composite_id": "CCQFWZJPGHXV",
+      "ns_id": "TRX",
+      "ids": ["CKQTLYPVHZND", "CDVYLJGFXHZK"]
+    },
+    "CCYDQLNWHTXF": {
+      "composite_id": "CCYDQLNWHTXF",
+      "ns_id": "HCASH",
+      "ids": ["CXGZVWNYFDKP", "CPFZKXYQNWGL"]
+    }
+  }
+}

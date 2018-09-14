@@ -1,0 +1,12 @@
+{
+  "namespace": "krakenalt",
+  "description": "ns_id is 'altname' in kraken.",
+  "map": [
+    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "20180602T22:00Z" },
+    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "20180602T22:00Z" },
+    { "ns_id": "XBT", "id": "CJTFPXDVQHNG" },
+    { "ns_id": "XDG", "id": "CLDGTPZFQNVH" },
+    { "ns_id": "XVN", "id": "CHKPNJXQVDFW" },
+    { "ns_id": "ZEC", "id": "CWKDPXJQHZGF" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "namespace": "jpwhitelist",
+  "description": "Cryptocurrencies listed in registered exchanges in Japan. This list is called 'the white list' as it implies Japanese FSA approved them indirectly through their registration program.",
+  "map": [
+    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
+    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
+    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
+    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
+    { "ns_id": "LSK", "id": "CXJQLTYVFGZK" },
+    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
+    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
+    { "ns_id": "MONA", "id": "CGDTFKZHWYPQ" },
+
+    { "ns_id": "ZAIF", "id": "CLYTWVGDXKQP" },
+    { "ns_id": "XEM", "id": "CFKXTVWLYGPZ" },
+    { "ns_id": "PEPECASH", "id": "CGTJWQLZDNXY" },
+    { "ns_id": "JPYZ", "id": "CJQZNYVPTDWX" },
+    { "ns_id": "CICC", "id": "CHZDVQFWKXGT" },
+    { "ns_id": "FSCC", "id": "CVDNWZLPYJXH" },
+    { "ns_id": "NCXC", "id": "CNPQTFVWGDLZ" },
+    { "ns_id": "XCP", "id": "CQHTZYNGJWVF" },
+    { "ns_id": "SJCX", "id": "CJTYKFXHVLZN" },
+    { "ns_id": "BCY", "id": "CQVKFGZJTDPX" },
+    { "ns_id": "CMS:ETH", "id": "CTYFVQJKNDHW" },
+    { "ns_id": "CMS:XEM", "id": "CKYQTDNWFJPH" }
+  ]
+}

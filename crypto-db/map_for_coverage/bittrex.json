@@ -1,0 +1,10 @@
+{
+  "namespace": "bittrex",
+  "description": "Mapping for bittrex trade history.",
+  "map": [
+    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
+    { "ns_id": "BCC", "id": "CWKHNDXQGFTP" },
+    { "ns_id": "TRX", "id": "CKQTLYPVHZND", "to": "20180625T00:00+08:00" },
+    { "ns_id": "TRX", "id": "CDVYLJGFXHZK", "from": "20180625T00:00+08:00" }
+  ]
+}
