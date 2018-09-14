@@ -78,5 +78,18 @@
       "https://medium.com/@media_30378/an-extremely-important-hshare-wallet-announcement-8f74e3170b07"
     ],
     "executed": "2018-08-08T04:00:00Z"
+  },
+
+  "CAJQPNLXWFTG": {
+    "action_id": "CAJQPNLXWFTG",
+    "ids": ["CPXLFVGZYWQT", "CQLDGZWVXFPH"],
+    "namespace": "crypto-db",
+    "type": "Token swap",
+    "description": "Red pulse to offer token swap with ratio of 1:1",
+    "sources": [
+      "https://blog.red-pulse.com/phoenix-token-swap-39f2d0f49777"
+    ],
+    "reported": "2018-07-26T00:00:00Z",
+    "executed": "2018-08-15T00:00:00Z"
   }
 }
