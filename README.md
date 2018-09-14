@@ -7,7 +7,7 @@ It consists of a file which lists all cryptocurrencies with unique identifiers, 
 The goal of `crypto-db` is to build a comprehensive database of cryptocurrencies and their appearance in namespaces, as well as their evolutions over time.
 This will help any cryptocurrency holders to identify a cryptocurrency among various namespaces, and any developers to provide interoperability between cryptocurrency-related projects without ambiguity. 
 
-Finally, although we already see thorough works such as ones by price aggregators today, the `crypto-db` aims to identify cryptocurrencies by their underlying artifacts; typical difference is what we call `Crypto Action`, which keeps track of changes in each cryptocurrency for this purpose. 
+Although we already see thorough works such as ones by price aggregators today, the `crypto-db` aims to identify cryptocurrencies by their underlying artifacts; typical difference is what we call `Crypto Action`, which keeps track of changes in each cryptocurrency for this purpose. 
 
 
 ## How to contribute
