@@ -35,7 +35,7 @@ $ pytest
    - `ids` - related CryptoIDs.
    - `type` - currently "Symbol Change", "Token Swap" and "Mainnet Launch" are identified.
    - `description` - description of this Crypto Action.
-   - `reported` - (optional) time in ISO8601 when this action was first announced or reported.
+   - `reported` - (optional) time in [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) when this action was first announced or reported.
    - `executed` - (optional) time in ISO8601 when this action is executed or planned to execute.
 
 - `map-for-<accuracy|coverage>/<namespace>.json` - defines a map between a symbol in a namespace to id. See 'About map-for-accuracy and map-for-coverage' below for detail.
