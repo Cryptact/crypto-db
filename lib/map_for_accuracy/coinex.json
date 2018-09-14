@@ -15,8 +15,8 @@
     { "ns_id": "CODY", "id": "CJQHXFDYGVNK" },
 
     { "ns_id": "DASH", "id": "CQLJDHKWNZXP" },
-    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "20180602T22:00Z" },
-    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "20180602T22:00Z" },
+    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "2018-06-02T22:00:00Z" },
+    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "2018-06-02T22:00:00Z" },
     { "ns_id": "USDT", "id": "CZYHDQPFNXWJ" },
     { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
 

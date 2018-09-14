@@ -7,7 +7,7 @@ It consists of a file which lists all cryptocurrencies with unique identifiers, 
 The goal of `crypto-db` is to build a comprehensive database of cryptocurrencies and their appearance in namespaces, as well as their evolutions over time.
 This will help any cryptocurrency holders to identify a cryptocurrency among various namespaces, and any developers to provide interoperability between cryptocurrency-related projects without ambiguity. 
 
-Finally, although we already see thorough works such as ones by price aggregators today, the `crypto-db` aims to identify cryptocurrencies by their underlying artifacts; typical difference is what we call `Crypto Action`, which keeps track of changes in each cryptocurrency for this purpose. 
+Although we already see thorough works such as ones by price aggregators today, the `crypto-db` aims to identify cryptocurrencies by their underlying artifacts; typical difference is what we call `Crypto Action`, which keeps track of changes in each cryptocurrency for this purpose. 
 
 
 ## How to contribute
@@ -35,7 +35,7 @@ $ pytest
    - `ids` - related CryptoIDs.
    - `type` - currently "Symbol Change", "Token Swap" and "Mainnet Launch" are identified.
    - `description` - description of this Crypto Action.
-   - `reported` - (optional) time in ISO8601 when this action was first announced or reported.
+   - `reported` - (optional) time in [ISO8601](https://en.wikipedia.org/wiki/ISO_8601) when this action was first announced or reported.
    - `executed` - (optional) time in ISO8601 when this action is executed or planned to execute.
 
 - `map-for-<accuracy|coverage>/<namespace>.json` - defines a map between a symbol in a namespace to id. See 'About map-for-accuracy and map-for-coverage' below for detail.
