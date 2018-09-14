@@ -45,6 +45,19 @@
     "executed": "2018-06-02T22:00:00Z"
   },
 
+  "CAFDJTWHVYXG": {
+    "action_id": "CAFDJTWHVYXG",
+    "ids": ["CWKHNDXQGFTP", "CYXLWHTDVZKQ", "CJDYXGQFWPHL"],
+    "namespace": "bittrex",
+    "type": "Symbol Change",
+    "description": "Bittrex announced symbol changes; BCC to BCH, LGD to MORE, SWIFT to BITS ",
+    "sources": [
+      "https://support.bittrex.com/hc/en-us/articles/360004823112-Rebranding-and-ticker-symbol-changes-Bitcoin-Cash-BCC-Legends-LGD-and-Bitswift-SWIFT-"
+    ],
+    "reported": "2018-06-14T22:53:16Z",
+    "executed": "2018-06-20T22:00:00Z"
+  },
+
   "CAXZHGVPFYWJ": {
     "action_id": "CAXZHGVPFYWJ",
     "ids": ["CKQTLYPVHZND", "CDVYLJGFXHZK"],
