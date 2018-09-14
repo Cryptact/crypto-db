@@ -45,9 +45,22 @@
     "executed": "2018-06-02T22:00:00Z"
   },
 
+  "CAQYLTVPWDXF": {
+    "action_id": "CAQYLTVPWDXF",
+    "ids": ["CPHXQGTJKVWD"],
+    "namespace": "crypto-db",
+    "type": "Symbol Change",
+    "description": "LegendsRoom (LGD) rebranded as More Coin (MORE)",
+    "sources": [
+      "https://bitcointalk.org/index.php?topic=1874632.msg36425917#msg36425917",
+      "https://bitcointalk.org/index.php?topic=1874632.msg40680872#msg40680872"
+    ],
+    "reported": "2018-05-05T14:23:36Z"
+  },
+
   "CAFDJTWHVYXG": {
     "action_id": "CAFDJTWHVYXG",
-    "ids": ["CWKHNDXQGFTP", "CYXLWHTDVZKQ", "CJDYXGQFWPHL"],
+    "ids": ["CWKHNDXQGFTP", "CYXLWHTDVZKQ", "CPHXQGTJKVWD"],
     "namespace": "bittrex",
     "type": "Symbol Change",
     "description": "Bittrex announced symbol changes; BCC to BCH, LGD to MORE, SWIFT to BITS ",

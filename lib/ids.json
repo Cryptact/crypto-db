@@ -5844,6 +5844,7 @@
     "name": "LeafCoin",
     "symbol": "LEAF"
   },
+<<<<<<< HEAD
   "CTFJPXQHLYVG": {
     "id": "CTFJPXQHLYVG",
     "name": "LEEKICO",
@@ -5858,6 +5859,14 @@
     "id": "CWZDVQGYKFNT",
     "name": "Zaif LEENABG",
     "symbol": "LEENABG"
+=======
+  "CTFJPXQHLYVG": { "id": "CTFJPXQHLYVG", "symbol": "LEEK", "name": "LEEKICO" },
+
+  "CHGQVKDYZPXF": {
+    "id": "CHGQVKDYZPXF",
+    "symbol": "LGO",
+    "name": "Legolas Exchange"
+>>>>>>> LGD rebranded as MORE.
   },
   "CVWQZGLHFDJK": {
     "id": "CVWQZGLHFDJK",
