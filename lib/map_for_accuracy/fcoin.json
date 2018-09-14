@@ -1,7 +1,5 @@
 {
   "namespace": "fcoin",
   "description": "Mapping for fcoin.",
-  "map": [
-    { "ns_id": "FT", "id": "CNVLKXFGWJHY" }
-  ]
+  "map": [{ "ns_id": "FT", "id": "CNVLKXFGWJHY" }]
 }
