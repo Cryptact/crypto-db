@@ -4,6 +4,7 @@
   "map": [
     { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
     { "ns_id": "BCC", "id": "CWKHNDXQGFTP", "to": "2018-06-20T22:00:00Z" },
+    { "ns_id": "LGD", "id": "CPHXQGTJKVWD", "to": "2018-06-20T22:00:00Z" },
 
     { "ns_id": "SWIFT", "id": "CYXLWHTDVZKQ", "to": "2018-06-20T22:00:00Z" },
     { "ns_id": "BITS", "id": "CYXLWHTDVZKQ", "from": "2018-06-20T22:00:00Z" },
