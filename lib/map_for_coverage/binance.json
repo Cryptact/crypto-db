@@ -12,6 +12,7 @@
     { "ns_id": "HC", "id": "CPFZKXYQNWGL" },
     { "ns_id": "TRX", "id": "CKQTLYPVHZND", "to": "20180625T00:00+08:00" },
     { "ns_id": "TRX", "id": "CDVYLJGFXHZK", "from": "20180625T00:00+08:00" },
+    { "ns_id": "VET", "id": "CQLNJGXFKTHP" },
     { "ns_id": "XRB", "id": "CDNJLZXVKFTY" },
     { "ns_id": "YOYO", "id": "CDKVHXFLTGYQ" }
   ]
