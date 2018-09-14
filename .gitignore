@@ -93,7 +93,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+#lib/
 lib64/
 parts/
 sdist/
@@ -189,11 +189,7 @@ dmypy.json
 .venv/
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode
 
 
 # End of https://www.gitignore.io/api/node,python,visualstudiocode
