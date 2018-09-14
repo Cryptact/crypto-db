@@ -1,0 +1,5 @@
+{
+  "namespace": "kucoin",
+  "description": "Mapping for kucoin.",
+  "map": [{ "ns_id": "XRB", "id": "CDNJLZXVKFTY" }]
+}

@@ -1,0 +1,11 @@
+{
+  "namespace": "gmocoin",
+  "description": "ns_id is ticker symbol in gmocoin.",
+  "map": [
+    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
+    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
+    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
+    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
+    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" }
+  ]
+}

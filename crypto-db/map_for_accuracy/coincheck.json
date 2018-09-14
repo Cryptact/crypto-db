@@ -1,0 +1,19 @@
+{
+  "namespace": "coincheck",
+  "description": "ns_id is ticker symbol in coincheck.",
+  "map": [
+    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
+    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
+    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
+    { "ns_id": "LSK", "id": "CXJQLTYVFGZK" },
+    { "ns_id": "FCT", "id": "CWJYPNGZLQFV" },
+    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
+    { "ns_id": "XEM", "id": "CFKXTVWLYGPZ" },
+    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
+    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
+    { "ns_id": "DASH", "id": "CQLJDHKWNZXP", "to": "20180619" },
+    { "ns_id": "ZEC", "id": "CWKDPXJQHZGF", "to": "20180619" },
+    { "ns_id": "XMR", "id": "CLTJPFYZNVWG", "to": "20180619" },
+    { "ns_id": "REP", "id": "CFLYXPHZKTNV", "to": "20180619" }
+  ]
+}

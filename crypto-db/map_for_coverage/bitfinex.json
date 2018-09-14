@@ -1,0 +1,16 @@
+{
+  "namespace": "bitfinex",
+  "description": "Mapping for bitfinex trade history file",
+  "map": [
+    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
+    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "20180602T22:00Z" },
+    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "20180602T22:00Z" },
+    { "ns_id": "MNA", "id": "CHTPLJNVGDWQ" },
+    { "ns_id": "QSH", "id": "CKPHZNTQWLYF" },
+    { "ns_id": "SNG", "id": "CPNXFZKTLDWQ" },
+    { "ns_id": "SPK", "id": "CPQNWKHZDVXT" },
+    { "ns_id": "STJ", "id": "CLXHYGWNVPJZ" },
+    { "ns_id": "USD", "id": "CZYHDQPFNXWJ" },
+    { "ns_id": "YYW", "id": "CDKVHXFLTGYQ" }
+  ]
+}

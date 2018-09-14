@@ -1,0 +1,14 @@
+{
+  "namespace": "cryptact",
+  "description": "Mapping for custom files in Cryptact. Mostly for backward compatibilities of symbol changes. ns_id is ticker symbol in cryptact.",
+  "map": [
+    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
+    { "ns_id": "BLAS", "id": "CGVLJZYFQNTH" },
+    
+    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "20180602T22:00Z" },
+    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "20180602T22:00Z" },
+    { "ns_id": "TRX", "id": "CKQTLYPVHZND", "to": "20180625T00:00+08:00" },
+    { "ns_id": "TRX", "id": "CDVYLJGFXHZK", "from": "20180625T00:00+08:00" },
+    { "ns_id": "XRB", "id": "CDNJLZXVKFTY" }
+  ]
+}

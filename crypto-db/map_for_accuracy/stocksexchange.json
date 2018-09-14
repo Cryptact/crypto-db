@@ -1,0 +1,13 @@
+{
+  "namespace": "stocksexchange",
+  "description": "Mapping for novaexchange.",
+  "map": [
+    { "ns_id": "AAA", "id": "CGFZXKTDQPLW" },
+    { "ns_id": "ASIC", "id": "CXFPJYTKLZWV" },
+    { "ns_id": "BR1M", "id": "CFPTHLQKXDWJ" },
+    { "ns_id": "COMP", "id": "CYNJLTXWVQFG" },
+    { "ns_id": "GFX", "id": "CGPNZKWDYJVF" },
+    { "ns_id": "LTK", "id": "CHLZFVNJYPKW" },
+    { "ns_id": "TOTN", "id": "CLKYJWGXPHTN" }
+  ]
+}
