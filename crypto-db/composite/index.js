@@ -8,7 +8,6 @@
 const namespaces = ["cryptact"];
 
 module.exports = namespaces.reduce(
-    (all, ns) => (all[ns] = require("./" + ns)),
-    {}
-  );
-  
+  (all, ns) => (all[ns] = require("./" + ns)),
+  {}
+);

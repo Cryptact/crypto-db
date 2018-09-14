@@ -44,4 +44,3 @@ module.exports = namespaces.reduce(
   (all, ns) => (all[ns] = require("./" + ns)),
   {}
 );
-
