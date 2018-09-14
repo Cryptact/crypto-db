@@ -25,7 +25,7 @@ $ pytest
 
 ## File structure
 
-- `crypto-db.json` - where cryptocurrencies are defined
+- `ids.json` - where cryptocurrencies are defined
     - `id` - CryptoID, a unique identifier for each cryptocurrency.
     - `symbol` - widely-used ticker symbol of this cryptocurrency. Unique in this file. Can be changed later. If different cryptocurrencies claim a same symbol in different namespaces, the symbol in this file might be different from those in the namespaces to avoid ambiguity. Also, if the currency saw a branding change while keeping the underlying blockchain or token intact, this symbol might reflect the new brand. 
     - `name` - name of the cryptocurrency. Can be changed later.
@@ -64,7 +64,7 @@ If your priority is to have an accurate mapping, use `map-for-accuracy`. If your
 
 `map-for-accuracy` tries to define all identifiers in the namespace. If a namespace comes up with a new symbol, and if the symbol isn't in this map, you can assume the CryptoID of the symbol is not defined yet. Because new currencies would appear and be listed any time, this map tends to follow behind to reflect the latest status.
 
-`map-for-coverage` also defines a map from a namespace's identifier to CryptoID, as difference from symbols defined in `crypto-db.json`. In other words, this can used as a list of the overwritten to `crypto-db`. If a namespace comes up with a new symbol, and if the symbol is not in this coverage map but found in `crypto-db.json` instead, then you might assume the namespace's symbol is the same as the one in `crypto-db.json` and find its CryptoID.
+`map-for-coverage` also defines a map from a namespace's identifier to CryptoID, as difference from symbols defined in `ids.json`. In other words, this can used as a list of the overwritten to `ids.json`. If a namespace comes up with a new symbol, and if the symbol is not in this coverage map but found in `ids.json` instead, then you might assume the namespace's symbol is the same as the one in `ids.json` and find its CryptoID.
 
 ## TODO
 Archive contents of sources in `crypto-actions.json` so that they can be reviewed in future even if the original sources cease to exist.

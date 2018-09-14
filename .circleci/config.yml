@@ -10,10 +10,10 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-          - v2-dependencies-{{ checksum "src/python/setup.py" }}
+          - v2-dependencies-{{ checksum "scripts/python/setup.py" }}
       - run:
           name: Installing dependencies
-          working_directory: ~/crypto-db/src/python
+          working_directory: ~/crypto-db/scripts/python
           command: |
             python -m venv venv
             . venv/bin/activate
@@ -22,10 +22,10 @@ jobs:
       - save_cache:
           paths:
             - ~/crypto-db/src/python/venv
-          key: v2-dependencies-{{ checksum "src/python/setup.py" }}
+          key: v2-dependencies-{{ checksum "scripts/python/setup.py" }}
       - run:
           name: Running unit tests
-          working_directory: ~/crypto-db/src/python
+          working_directory: ~/crypto-db/scripts/python
           command: |
             . venv/bin/activate
             pytest

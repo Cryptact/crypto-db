@@ -9,7 +9,7 @@ import glob
 import cidgen
 
 DATABASE_ROOT = os.path.join(os.path.dirname(
-    os.path.realpath(__file__)), '../../crypto-db')
+    os.path.realpath(__file__)), '../../lib')
 
 all_data = {}
 
@@ -20,7 +20,7 @@ def setup_module(module):
     all_data['map_for_coverage'] = {}
     all_data['composite'] = {}
 
-    with open(os.path.join(DATABASE_ROOT, 'crypto-db.json')) as f:
+    with open(os.path.join(DATABASE_ROOT, 'ids.json')) as f:
         all_data['crypto-db'] = json.load(f)
 
     with open(os.path.join(DATABASE_ROOT, 'crypto-actions.json')) as f:
@@ -50,7 +50,7 @@ def test_no_duplicated_crypto_id():
                 key, 0) == 0, f"duplicated CryptoID {key} was found."
             keys[key] = 1
 
-    with open(os.path.join(DATABASE_ROOT, 'crypto-db.json')) as f:
+    with open(os.path.join(DATABASE_ROOT, 'ids.json')) as f:
         json.load(f, object_pairs_hook=parse_object_pairs)
 
     with open(os.path.join(DATABASE_ROOT, 'crypto-actions.json')) as f:
