@@ -1,14 +1,38 @@
 {
-  "namespace": "coinexchange",
   "description": "Mapping for coinexchange.io",
   "map": [
-    { "ns_id": "BLAS", "id": "CGVLJZYFQNTH" },
-    { "ns_id": "BONPAY", "id": "CGHKZLWPTDVF" },
-    { "ns_id": "ELT", "id": "CYNTXKQZPWVJ" },
-    { "ns_id": "KB3", "id": "CNWKDLQGJZFY" },
-    { "ns_id": "LDC", "id": "CWXZJQTDPYHF" },
-    { "ns_id": "VULCANO", "id": "CWFXPDKJGQLT" },
-    { "ns_id": "TIGER", "id": "CYHPFLXVGTQK" },
-    { "ns_id": "EXC", "id": "CYVHZJWLQTDN" }
-  ]
+    {
+      "id": "CGVLJZYFQNTH",
+      "ns_id": "BLAS"
+    },
+    {
+      "id": "CGHKZLWPTDVF",
+      "ns_id": "BONPAY"
+    },
+    {
+      "id": "CYNTXKQZPWVJ",
+      "ns_id": "ELT"
+    },
+    {
+      "id": "CYVHZJWLQTDN",
+      "ns_id": "EXC"
+    },
+    {
+      "id": "CNWKDLQGJZFY",
+      "ns_id": "KB3"
+    },
+    {
+      "id": "CWXZJQTDPYHF",
+      "ns_id": "LDC"
+    },
+    {
+      "id": "CYHPFLXVGTQK",
+      "ns_id": "TIGER"
+    },
+    {
+      "id": "CWFXPDKJGQLT",
+      "ns_id": "VULCANO"
+    }
+  ],
+  "namespace": "coinexchange"
 }

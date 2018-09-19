@@ -1,8 +1,14 @@
 {
-  "namespace": "mercatox",
   "description": "Mapping for mercatox trade history.",
   "map": [
-    { "ns_id": "XRB", "id": "CDNJLZXVKFTY" },
-    { "ns_id": "EXC", "id": "CYVHZJWLQTDN" }
-  ]
+    {
+      "id": "CYVHZJWLQTDN",
+      "ns_id": "EXC"
+    },
+    {
+      "id": "CDNJLZXVKFTY",
+      "ns_id": "XRB"
+    }
+  ],
+  "namespace": "mercatox"
 }

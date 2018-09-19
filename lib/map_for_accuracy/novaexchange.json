@@ -1,8 +1,14 @@
 {
-  "namespace": "novaexchange",
   "description": "Mapping for novaexchange.",
   "map": [
-    { "ns_id": "COINS", "id": "CKWLQDPYJZNH" },
-    { "ns_id": "LSC", "id": "CXDJYHLZKTQP" }
-  ]
+    {
+      "id": "CKWLQDPYJZNH",
+      "ns_id": "COINS"
+    },
+    {
+      "id": "CXDJYHLZKTQP",
+      "ns_id": "LSC"
+    }
+  ],
+  "namespace": "novaexchange"
 }

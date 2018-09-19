@@ -1,248 +1,966 @@
 {
-  "namespace": "bittrex",
   "description": "Mapping for bittrex trade history.",
   "map": [
-    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
-    { "ns_id": "NEO", "id": "CDLPFYJTZNXW" },
-    { "ns_id": "BCC", "id": "CWKHNDXQGFTP", "to": "2018-06-20T22:00:00Z" },
-    { "ns_id": "SWIFT", "id": "CYXLWHTDVZKQ", "to": "2018-06-20T22:00:00Z" },
-    { "ns_id": "BITS", "id": "CYXLWHTDVZKQ", "from": "2018-06-20T22:00:00Z" },
-
-    { "ns_id": "TRX", "id": "CKQTLYPVHZND", "to": "2018-06-24T16:00:00Z" },
-    { "ns_id": "TRX", "id": "CDVYLJGFXHZK", "from": "2018-06-24T16:00:00Z" },
-
-    { "ns_id": "1ST", "id": "CJFVNYDKHPLQ" },
-    { "ns_id": "2GIVE", "id": "CTJGPLZNWFDY" },
-    { "ns_id": "ABY", "id": "CXTVWQKLHFYG" },
-    { "ns_id": "ADA", "id": "CJQLXVZWPNDH" },
-    { "ns_id": "ADT", "id": "CNZTYKFXQVJL" },
-    { "ns_id": "ADX", "id": "CQHJKYTGNLZW" },
-    { "ns_id": "AEON", "id": "CPFGYTLWDHKV" },
-    { "ns_id": "AGRS", "id": "CTLHDJZKXPFY" },
-    { "ns_id": "AID", "id": "CFXPGNHTVZJW" },
-    { "ns_id": "AMP", "id": "CVLZFQGYDJHX" },
-    { "ns_id": "ANT", "id": "CQTHFLYKGVPN" },
-    { "ns_id": "APX", "id": "CZLDGNXWFHKV" },
-    { "ns_id": "ARDR", "id": "CWFVXJQDKZLT" },
-    { "ns_id": "ARK", "id": "CZKNPJXYFLDT" },
-    { "ns_id": "AUR", "id": "CQLXVPHYZFDT" },
-    { "ns_id": "BAT", "id": "CHNWYVZTQFJX" },
-    { "ns_id": "BAY", "id": "CVWQTPGJKFYX" },
-    { "ns_id": "BCH", "id": "CWKHNDXQGFTP", "from": "2018-06-20T22:00:00Z" },
-    { "ns_id": "BCPT", "id": "CGKNHXPYFJWL" },
-    { "ns_id": "BCY", "id": "CQVKFGZJTDPX" },
-    { "ns_id": "BFT", "id": "CZKTNDWVHFXJ" },
-    { "ns_id": "BITB", "id": "CTKLXHDJZWNP" },
-    { "ns_id": "BKX", "id": "CZDWPFYNTLHK" },
-    { "ns_id": "BLITZ", "id": "CFQPZYJTHNXW" },
-    { "ns_id": "BLK", "id": "CTGXVPHJLYWD" },
-    { "ns_id": "BLOCK", "id": "CJGHVYDQTPKZ" },
-    { "ns_id": "BLT", "id": "CFTQYZKVXWDG" },
-    { "ns_id": "BNT", "id": "CLJNVHGXZQKY" },
-    { "ns_id": "BRK", "id": "CNFLPVKDJWGT" },
-    { "ns_id": "BRX", "id": "CGZJQNWDLTVX" },
-    { "ns_id": "BSD", "id": "CVTJWPKYQFXH" },
-    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
-    { "ns_id": "BTCD", "id": "CVGJDFXLNQPZ" },
-    { "ns_id": "BTG", "id": "CFKZNTXJLVYW" },
-    { "ns_id": "BURST", "id": "CXNDVJGHKLTQ" },
-    { "ns_id": "BYC", "id": "CPTGYNLDQZHF" },
-    { "ns_id": "CANN", "id": "CQFYPJKWNXVD" },
-    { "ns_id": "CBC", "id": "CVXFGZWKQLJN" },
-    { "ns_id": "CFI", "id": "CHKLQNTWVXYZ" },
-    { "ns_id": "CLAM", "id": "CFVLJQTHYKXZ" },
-    { "ns_id": "CLOAK", "id": "CVLJKDXPQTHW" },
-    { "ns_id": "CLUB", "id": "CXDWFGQPJHLK" },
-    { "ns_id": "CMCT", "id": "CDTYLHZFKWXQ" },
-    { "ns_id": "COVAL", "id": "CWTFNJHXZDGQ" },
-    { "ns_id": "CPC", "id": "CYTFLGVZQHDP" },
-    { "ns_id": "CRB", "id": "CYXNDJWFZGHQ" },
-    { "ns_id": "CRW", "id": "CWQZVNHKDTFP" },
-    { "ns_id": "CURE", "id": "CVJDKXYTHZWL" },
-    { "ns_id": "CVC", "id": "CVFPNXTGWYZJ" },
-    { "ns_id": "DASH", "id": "CQLJDHKWNZXP" },
-    { "ns_id": "DCR", "id": "CJQPKWDFGTZL" },
-    { "ns_id": "DCT", "id": "CWVZJNQPYKFG" },
-    { "ns_id": "DGB", "id": "CYLGHXWDZTNP" },
-    { "ns_id": "DGD", "id": "CNZQHVJGFXDT" },
-    { "ns_id": "DMD", "id": "CYHFLVPJNDZT" },
-    { "ns_id": "DMT", "id": "CDQLZJTYWGPK" },
-    { "ns_id": "DNT", "id": "CDTYPVFHLQNX" },
-    { "ns_id": "DOGE", "id": "CLDGTPZFQNVH" },
-    { "ns_id": "DOPE", "id": "CKTLYHZPXVFG" },
-    { "ns_id": "DTB", "id": "CNQFWPZYTGDV" },
-    { "ns_id": "DYN", "id": "CXYFJQTPKDGW" },
-    { "ns_id": "EBST", "id": "CDQPHWTKVYJN" },
-    { "ns_id": "EDG", "id": "CFHWYTKGZLJP" },
-    { "ns_id": "EFL", "id": "CNYDFKWTVGZL" },
-    { "ns_id": "EGC", "id": "CFTXVHKPWLNJ" },
-    { "ns_id": "EMC", "id": "CGTXZJWNPDQF" },
-    { "ns_id": "EMC2", "id": "CGDTHWYXQVKP" },
-    { "ns_id": "ENG", "id": "CWYLPXKQJFVZ" },
-    { "ns_id": "ENJ", "id": "CGPHXZKQWYLV" },
-    { "ns_id": "ENRG", "id": "CYNJDGLVXZQT" },
-    { "ns_id": "ERC", "id": "CWHLVJFKXYTZ" },
-    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
-    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
-    { "ns_id": "EXCL", "id": "CKDQHVGTLWNP" },
-    { "ns_id": "EXP", "id": "CZNDFWGVQYTK" },
-    { "ns_id": "FAIR", "id": "CTQKFYNZDJWL" },
-    { "ns_id": "FCT", "id": "CWJYPNGZLQFV" },
-    { "ns_id": "FLDC", "id": "CDTVLWYXZFNH" },
-    { "ns_id": "FLO", "id": "CNYDGHFZVTWX" },
-    { "ns_id": "FTC", "id": "CXTJPKWHZLND" },
-    { "ns_id": "FUN", "id": "CVKDPYQLNGJX" },
-    { "ns_id": "GAM", "id": "CQWTGNVYXLJK" },
-    { "ns_id": "GAME", "id": "CPGQKDWTVXZN" },
-    { "ns_id": "GBG", "id": "CNWYLJTKXVHQ" },
-    { "ns_id": "GBYTE", "id": "CTFJPVXKGLDZ" },
-    { "ns_id": "GCR", "id": "CVJHPYWLGDXQ" },
-    { "ns_id": "GEO", "id": "CTVPDGXZWNHQ" },
-    { "ns_id": "GLD", "id": "CXZQDYNJHTLG" },
-    { "ns_id": "GNO", "id": "CXHKLJZWDTGQ" },
-    { "ns_id": "GNT", "id": "CQNWYPFVZHGT" },
-    { "ns_id": "GO", "id": "CQPWTFLGDZXH" },
-    { "ns_id": "GOLOS", "id": "CNJGLKWQPHVY" },
-    { "ns_id": "GRC", "id": "CYWNJLTXFPVZ" },
-    { "ns_id": "GRS", "id": "CPFHDWVLJTNG" },
-    { "ns_id": "GTO", "id": "CXVWJGQTPZLH" },
-    { "ns_id": "GUP", "id": "CXTKGLDFWPJH" },
-    { "ns_id": "HMQ", "id": "CTPLZJKNQWFG" },
-    { "ns_id": "HYDRO", "id": "CKJGXYFTWNHL" },
-    { "ns_id": "IGNIS", "id": "CJFXGLWNPKHQ" },
-    { "ns_id": "INCNT", "id": "CLWDFYTNJHVZ" },
-    { "ns_id": "INFX", "id": "CHXJTFGYQWZV" },
-    { "ns_id": "IOC", "id": "CQKYJNFVTXZP" },
-    { "ns_id": "ION", "id": "CZDVTNQXPGLY" },
-    { "ns_id": "IOP", "id": "CXPDGZTJQHVF" },
-    { "ns_id": "KMD", "id": "CWLTKZHNFXPY" },
-    { "ns_id": "KORE", "id": "CNGWVFHXTPKY" },
-    { "ns_id": "LBC", "id": "CYGHXFLVKTZQ" },
-    { "ns_id": "LGD", "id": "CJDYXGQFWPHL", "to": "2018-06-20T22:00:00Z" },
-    { "ns_id": "LMC", "id": "CKFHXLTGJDWV" },
-    { "ns_id": "LOOM", "id": "CVZJQNXTYHKG" },
-    { "ns_id": "LRC", "id": "CNYGPDHXKZVL" },
-    { "ns_id": "LSK", "id": "CXJQLTYVFGZK" },
-    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
-    { "ns_id": "LUN", "id": "CWTGZJQLVYNP" },
-    { "ns_id": "MAID", "id": "CZNVYGKTLHWP" },
-    { "ns_id": "MANA", "id": "CHTPLJNVGDWQ" },
-    { "ns_id": "MCO", "id": "CVJDFXPHQWGK" },
-    { "ns_id": "MEME", "id": "CXZVFHYGQTWN" },
-    { "ns_id": "MER", "id": "CYZWKLNPVHQF" },
-    { "ns_id": "MFT", "id": "CQJNGVKHZFXY" },
-    { "ns_id": "MLN", "id": "CVTJPKWFHGLZ" },
-    { "ns_id": "MONA", "id": "CGDTFKZHWYPQ" },
-    { "ns_id": "MORE", "id": "CPHXQGTJKVWD", "from": "2018-06-20T22:00:00Z" },
-    { "ns_id": "MTL", "id": "CKQVTJGFDWYP" },
-    { "ns_id": "MUE", "id": "CKLZWXTYDQNH" },
-    { "ns_id": "MUSIC", "id": "CLDYKVFGXTPQ" },
-    { "ns_id": "MYST", "id": "CKNVJFLQGYTD" },
-    { "ns_id": "NAV", "id": "CDXHNJZKLFWT" },
-    { "ns_id": "NBT", "id": "CXZQTFYPJGKD" },
-
-    { "ns_id": "NEOS", "id": "CNFQKLVTDGWY" },
-    { "ns_id": "NGC", "id": "CDYXLKWPGQJF" },
-    { "ns_id": "NLC2", "id": "CDXQYNZVWLKT" },
-    { "ns_id": "NLG", "id": "CNVHWZPTGFXK" },
-    { "ns_id": "NMR", "id": "CKZPNFTLJHWV" },
-    { "ns_id": "NXC", "id": "CYXNHPFGDVQL" },
-    { "ns_id": "NXS", "id": "CJFXYHGLKDQP" },
-    { "ns_id": "NXT", "id": "CPYVJGKQFTXW" },
-    { "ns_id": "OCN", "id": "CHTNPZFWLDQX" },
-    { "ns_id": "OK", "id": "CGYFVQZHJXTP" },
-    { "ns_id": "OMG", "id": "CNQYVDZWFPHJ" },
-    { "ns_id": "OMNI", "id": "CJWFYLHKDXGV" },
-    { "ns_id": "PART", "id": "CKZNDVQFJTHG" },
-    { "ns_id": "PAY", "id": "CPVZQGLJKDXW" },
-    { "ns_id": "PDC", "id": "CYTKZLFJVQGD" },
-    { "ns_id": "PINK", "id": "CHJWLNQFYDGK" },
-    { "ns_id": "PIVX", "id": "CWPZNHQXYLDK" },
-    { "ns_id": "PKB", "id": "CXDVLKTPWYNZ" },
-    { "ns_id": "POLY", "id": "CDPYZWLKTFNH" },
-    { "ns_id": "POT", "id": "CKJYDFZVNWXQ" },
-    { "ns_id": "POWR", "id": "CHQVKGTXYNFJ" },
-    { "ns_id": "PPC", "id": "CKJHGTXQPZWV" },
-    { "ns_id": "PRO", "id": "CVDQPFYJLGWN" },
-    { "ns_id": "PTC", "id": "CNWYTKFLVXDZ" },
-    { "ns_id": "PTOY", "id": "CWGPDHJKTZYL" },
-    { "ns_id": "QRL", "id": "CYPQXNLFJTZD" },
-    { "ns_id": "QTUM", "id": "CQFHKZYLGWNV" },
-    { "ns_id": "QWARK", "id": "CYJZKNHGLWTD" },
-    { "ns_id": "RADS", "id": "CJDFKZHYLXGV" },
-    { "ns_id": "RBY", "id": "CVJDYHZNLGPW" },
-    { "ns_id": "RCN", "id": "CJLDFWGKHNQX" },
-    { "ns_id": "RDD", "id": "CPKHWNZYDQJF" },
-    { "ns_id": "REP", "id": "CFLYXPHZKTNV" },
-    { "ns_id": "RFR", "id": "CHWJKVGLZPQX" },
-    { "ns_id": "RISE", "id": "CDQLZTGWXKVJ" },
-    { "ns_id": "RLC", "id": "CVKGNDZPQTFY" },
-    { "ns_id": "RVN", "id": "CZFXWJHGYLVQ" },
-    { "ns_id": "SALT", "id": "CYVJHPZXKDQL" },
-    { "ns_id": "SBD", "id": "CLGDZKWQTYXJ" },
-    { "ns_id": "SC", "id": "CJQTHKFPGVWX" },
-    { "ns_id": "SEQ", "id": "CVXZFWHYPKTQ" },
-    { "ns_id": "SHIFT", "id": "CFPDHKQLGWXJ" },
-    { "ns_id": "SIB", "id": "CXKNWZQPJGVY" },
-    { "ns_id": "SLR", "id": "CHQVJFXGNPDZ" },
-    { "ns_id": "SLS", "id": "CGVPDKHYXLTW" },
-    { "ns_id": "SNRG", "id": "CLQGTNDFPVXK" },
-    { "ns_id": "SNT", "id": "CGXWZQFVPKJH" },
-    { "ns_id": "SPHR", "id": "CPDNTXYHWVKZ" },
-    { "ns_id": "SPR", "id": "CJHTLFYDVXGK" },
-    { "ns_id": "SRN", "id": "CFPNKWDHVZGL" },
-    { "ns_id": "START", "id": "CYTKJWHLGXNP" },
-    { "ns_id": "STEEM", "id": "CXYFNZJKLHQD" },
-    { "ns_id": "STORJ", "id": "CLXHYGWNVPJZ" },
-    { "ns_id": "STORM", "id": "CFTVDLJNXWYQ" },
-    { "ns_id": "STRAT", "id": "CZJVGTWHQYDF" },
-    { "ns_id": "SWT", "id": "CZJXWQGVTHFP" },
-    { "ns_id": "SYNX", "id": "CJVDXHPWGQYT" },
-    { "ns_id": "SYS", "id": "CTFJHQWDGPLN" },
-    { "ns_id": "THC", "id": "CHXVPWTYGDZL" },
-    { "ns_id": "TIX", "id": "CXGVPWLTZFDY" },
-    { "ns_id": "TKS", "id": "CGVDPFTYKWJX" },
-    { "ns_id": "TRIG", "id": "CQFWHGTJYVZL" },
-    { "ns_id": "TRST", "id": "CLXGVYWNQHPF" },
-    { "ns_id": "TRUST", "id": "CGJNQFWPZYTX" },
-
-    { "ns_id": "TUBE", "id": "CVWXTZJNFLYK" },
-    { "ns_id": "TUSD", "id": "CJGPLDFZWXYQ" },
-    { "ns_id": "TX", "id": "CQLZTFHJVGKP" },
-    { "ns_id": "UBQ", "id": "CGJFHKTYZQDX" },
-    { "ns_id": "UKG", "id": "CPQTHLJGWKYZ" },
-    { "ns_id": "UNB", "id": "CYQNKTHWXDGF" },
-    { "ns_id": "UP", "id": "CDYZFNTLQVKJ" },
-    { "ns_id": "UPP", "id": "CPQNYLHKDWVG" },
-    { "ns_id": "USDT", "id": "CZYHDQPFNXWJ" },
-    { "ns_id": "VEE", "id": "CYQPKDWJZVLT" },
-    { "ns_id": "VIA", "id": "CPWNJQDLHFZK" },
-    { "ns_id": "VIB", "id": "CWNXFTZQPGYD" },
-    { "ns_id": "VOX", "id": "CYPTNDVZXWKG" },
-    { "ns_id": "VRC", "id": "CXDVPZGWTFQH" },
-    { "ns_id": "VRM", "id": "CLQDNJWZVHPX" },
-    { "ns_id": "VTC", "id": "CZWGPHQFYTND" },
-    { "ns_id": "VTR", "id": "CVPLNTXFJQGH" },
-    { "ns_id": "WAVES", "id": "CHTNDVKPLZFY" },
-    { "ns_id": "WAX", "id": "CYFXPHZJTKQN" },
-    { "ns_id": "WINGS", "id": "CLJPFWHZNYXV" },
-    { "ns_id": "XCP", "id": "CQHTZYNGJWVF" },
-    { "ns_id": "XDN", "id": "CKFPNZVQYTWX" },
-    { "ns_id": "XEL", "id": "CJYNVFPLXTDW" },
-    { "ns_id": "XEM", "id": "CFKXTVWLYGPZ" },
-    { "ns_id": "XLM", "id": "CDYZWFQLHTPX" },
-    { "ns_id": "XMG", "id": "CZPVTKWLJXFG" },
-    { "ns_id": "XMR", "id": "CLTJPFYZNVWG" },
-    { "ns_id": "XMY", "id": "CZWYNVHKTGJL" },
-    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
-    { "ns_id": "XST", "id": "CPNKZLDGJWYF" },
-    { "ns_id": "XVC", "id": "CXTZNWQLGYDH" },
-    { "ns_id": "XVG", "id": "CKTHPFLVDYJG" },
-    { "ns_id": "XWC", "id": "CWDYZHFLJKTQ" },
-    { "ns_id": "XZC", "id": "CWPXZJVGLKQH" },
-    { "ns_id": "ZCL", "id": "CPHZNGXFLJWD" },
-    { "ns_id": "ZEC", "id": "CWKDPXJQHZGF" },
-    { "ns_id": "ZEN", "id": "CJHZFQNVWDGL" },
-    { "ns_id": "ZRX", "id": "CGTNDFPLXYHZ" }
-  ]
+    {
+      "id": "CJFVNYDKHPLQ",
+      "ns_id": "1ST"
+    },
+    {
+      "id": "CTJGPLZNWFDY",
+      "ns_id": "2GIVE"
+    },
+    {
+      "id": "CXTVWQKLHFYG",
+      "ns_id": "ABY"
+    },
+    {
+      "id": "CJQLXVZWPNDH",
+      "ns_id": "ADA"
+    },
+    {
+      "id": "CNZTYKFXQVJL",
+      "ns_id": "ADT"
+    },
+    {
+      "id": "CQHJKYTGNLZW",
+      "ns_id": "ADX"
+    },
+    {
+      "id": "CPFGYTLWDHKV",
+      "ns_id": "AEON"
+    },
+    {
+      "id": "CTLHDJZKXPFY",
+      "ns_id": "AGRS"
+    },
+    {
+      "id": "CFXPGNHTVZJW",
+      "ns_id": "AID"
+    },
+    {
+      "id": "CVLZFQGYDJHX",
+      "ns_id": "AMP"
+    },
+    {
+      "id": "CDLPFYJTZNXW",
+      "ns_id": "ANS"
+    },
+    {
+      "id": "CQTHFLYKGVPN",
+      "ns_id": "ANT"
+    },
+    {
+      "id": "CZLDGNXWFHKV",
+      "ns_id": "APX"
+    },
+    {
+      "id": "CWFVXJQDKZLT",
+      "ns_id": "ARDR"
+    },
+    {
+      "id": "CZKNPJXYFLDT",
+      "ns_id": "ARK"
+    },
+    {
+      "id": "CQLXVPHYZFDT",
+      "ns_id": "AUR"
+    },
+    {
+      "id": "CHNWYVZTQFJX",
+      "ns_id": "BAT"
+    },
+    {
+      "id": "CVWQTPGJKFYX",
+      "ns_id": "BAY"
+    },
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCC",
+      "to": "2018-06-20T22:00:00Z"
+    },
+    {
+      "from": "2018-06-20T22:00:00Z",
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCH"
+    },
+    {
+      "id": "CGKNHXPYFJWL",
+      "ns_id": "BCPT"
+    },
+    {
+      "id": "CQVKFGZJTDPX",
+      "ns_id": "BCY"
+    },
+    {
+      "id": "CZKTNDWVHFXJ",
+      "ns_id": "BFT"
+    },
+    {
+      "id": "CTKLXHDJZWNP",
+      "ns_id": "BITB"
+    },
+    {
+      "from": "2018-06-20T22:00:00Z",
+      "id": "CYXLWHTDVZKQ",
+      "ns_id": "BITS"
+    },
+    {
+      "id": "CZDWPFYNTLHK",
+      "ns_id": "BKX"
+    },
+    {
+      "id": "CFQPZYJTHNXW",
+      "ns_id": "BLITZ"
+    },
+    {
+      "id": "CTGXVPHJLYWD",
+      "ns_id": "BLK"
+    },
+    {
+      "id": "CJGHVYDQTPKZ",
+      "ns_id": "BLOCK"
+    },
+    {
+      "id": "CFTQYZKVXWDG",
+      "ns_id": "BLT"
+    },
+    {
+      "id": "CLJNVHGXZQKY",
+      "ns_id": "BNT"
+    },
+    {
+      "id": "CNFLPVKDJWGT",
+      "ns_id": "BRK"
+    },
+    {
+      "id": "CGZJQNWDLTVX",
+      "ns_id": "BRX"
+    },
+    {
+      "id": "CVTJWPKYQFXH",
+      "ns_id": "BSD"
+    },
+    {
+      "id": "CJTFPXDVQHNG",
+      "ns_id": "BTC"
+    },
+    {
+      "id": "CVGJDFXLNQPZ",
+      "ns_id": "BTCD"
+    },
+    {
+      "id": "CFKZNTXJLVYW",
+      "ns_id": "BTG"
+    },
+    {
+      "id": "CXNDVJGHKLTQ",
+      "ns_id": "BURST"
+    },
+    {
+      "id": "CPTGYNLDQZHF",
+      "ns_id": "BYC"
+    },
+    {
+      "id": "CQFYPJKWNXVD",
+      "ns_id": "CANN"
+    },
+    {
+      "id": "CVXFGZWKQLJN",
+      "ns_id": "CBC"
+    },
+    {
+      "id": "CHKLQNTWVXYZ",
+      "ns_id": "CFI"
+    },
+    {
+      "id": "CFVLJQTHYKXZ",
+      "ns_id": "CLAM"
+    },
+    {
+      "id": "CVLJKDXPQTHW",
+      "ns_id": "CLOAK"
+    },
+    {
+      "id": "CXDWFGQPJHLK",
+      "ns_id": "CLUB"
+    },
+    {
+      "id": "CDTYLHZFKWXQ",
+      "ns_id": "CMCT"
+    },
+    {
+      "id": "CWTFNJHXZDGQ",
+      "ns_id": "COVAL"
+    },
+    {
+      "id": "CYTFLGVZQHDP",
+      "ns_id": "CPC"
+    },
+    {
+      "id": "CYXNDJWFZGHQ",
+      "ns_id": "CRB"
+    },
+    {
+      "id": "CWQZVNHKDTFP",
+      "ns_id": "CRW"
+    },
+    {
+      "id": "CVJDKXYTHZWL",
+      "ns_id": "CURE"
+    },
+    {
+      "id": "CVFPNXTGWYZJ",
+      "ns_id": "CVC"
+    },
+    {
+      "id": "CQLJDHKWNZXP",
+      "ns_id": "DASH"
+    },
+    {
+      "id": "CJQPKWDFGTZL",
+      "ns_id": "DCR"
+    },
+    {
+      "id": "CWVZJNQPYKFG",
+      "ns_id": "DCT"
+    },
+    {
+      "id": "CYLGHXWDZTNP",
+      "ns_id": "DGB"
+    },
+    {
+      "id": "CNZQHVJGFXDT",
+      "ns_id": "DGD"
+    },
+    {
+      "id": "CYHFLVPJNDZT",
+      "ns_id": "DMD"
+    },
+    {
+      "id": "CDQLZJTYWGPK",
+      "ns_id": "DMT"
+    },
+    {
+      "id": "CDTYPVFHLQNX",
+      "ns_id": "DNT"
+    },
+    {
+      "id": "CLDGTPZFQNVH",
+      "ns_id": "DOGE"
+    },
+    {
+      "id": "CKTLYHZPXVFG",
+      "ns_id": "DOPE"
+    },
+    {
+      "id": "CNQFWPZYTGDV",
+      "ns_id": "DTB"
+    },
+    {
+      "id": "CXYFJQTPKDGW",
+      "ns_id": "DYN"
+    },
+    {
+      "id": "CDQPHWTKVYJN",
+      "ns_id": "EBST"
+    },
+    {
+      "id": "CFHWYTKGZLJP",
+      "ns_id": "EDG"
+    },
+    {
+      "id": "CNYDFKWTVGZL",
+      "ns_id": "EFL"
+    },
+    {
+      "id": "CFTXVHKPWLNJ",
+      "ns_id": "EGC"
+    },
+    {
+      "id": "CGTXZJWNPDQF",
+      "ns_id": "EMC"
+    },
+    {
+      "id": "CGDTHWYXQVKP",
+      "ns_id": "EMC2"
+    },
+    {
+      "id": "CWYLPXKQJFVZ",
+      "ns_id": "ENG"
+    },
+    {
+      "id": "CGPHXZKQWYLV",
+      "ns_id": "ENJ"
+    },
+    {
+      "id": "CYNJDGLVXZQT",
+      "ns_id": "ENRG"
+    },
+    {
+      "id": "CWHLVJFKXYTZ",
+      "ns_id": "ERC"
+    },
+    {
+      "id": "CKPFHDWXZVGQ",
+      "ns_id": "ETC"
+    },
+    {
+      "id": "CPWTGZNVHKJF",
+      "ns_id": "ETH"
+    },
+    {
+      "id": "CKDQHVGTLWNP",
+      "ns_id": "EXCL"
+    },
+    {
+      "id": "CZNDFWGVQYTK",
+      "ns_id": "EXP"
+    },
+    {
+      "id": "CTQKFYNZDJWL",
+      "ns_id": "FAIR"
+    },
+    {
+      "id": "CWJYPNGZLQFV",
+      "ns_id": "FCT"
+    },
+    {
+      "id": "CDTVLWYXZFNH",
+      "ns_id": "FLDC"
+    },
+    {
+      "id": "CNYDGHFZVTWX",
+      "ns_id": "FLO"
+    },
+    {
+      "id": "CXTJPKWHZLND",
+      "ns_id": "FTC"
+    },
+    {
+      "id": "CVKDPYQLNGJX",
+      "ns_id": "FUN"
+    },
+    {
+      "id": "CQWTGNVYXLJK",
+      "ns_id": "GAM"
+    },
+    {
+      "id": "CPGQKDWTVXZN",
+      "ns_id": "GAME"
+    },
+    {
+      "id": "CNWYLJTKXVHQ",
+      "ns_id": "GBG"
+    },
+    {
+      "id": "CTFJPVXKGLDZ",
+      "ns_id": "GBYTE"
+    },
+    {
+      "id": "CVJHPYWLGDXQ",
+      "ns_id": "GCR"
+    },
+    {
+      "id": "CTVPDGXZWNHQ",
+      "ns_id": "GEO"
+    },
+    {
+      "id": "CXZQDYNJHTLG",
+      "ns_id": "GLD"
+    },
+    {
+      "id": "CXHKLJZWDTGQ",
+      "ns_id": "GNO"
+    },
+    {
+      "id": "CQNWYPFVZHGT",
+      "ns_id": "GNT"
+    },
+    {
+      "id": "CQPWTFLGDZXH",
+      "ns_id": "GO"
+    },
+    {
+      "id": "CNJGLKWQPHVY",
+      "ns_id": "GOLOS"
+    },
+    {
+      "id": "CYWNJLTXFPVZ",
+      "ns_id": "GRC"
+    },
+    {
+      "id": "CPFHDWVLJTNG",
+      "ns_id": "GRS"
+    },
+    {
+      "id": "CXVWJGQTPZLH",
+      "ns_id": "GTO"
+    },
+    {
+      "id": "CXTKGLDFWPJH",
+      "ns_id": "GUP"
+    },
+    {
+      "id": "CTPLZJKNQWFG",
+      "ns_id": "HMQ"
+    },
+    {
+      "id": "CKJGXYFTWNHL",
+      "ns_id": "HYDRO"
+    },
+    {
+      "id": "CJFXGLWNPKHQ",
+      "ns_id": "IGNIS"
+    },
+    {
+      "id": "CLWDFYTNJHVZ",
+      "ns_id": "INCNT"
+    },
+    {
+      "id": "CHXJTFGYQWZV",
+      "ns_id": "INFX"
+    },
+    {
+      "id": "CQKYJNFVTXZP",
+      "ns_id": "IOC"
+    },
+    {
+      "id": "CZDVTNQXPGLY",
+      "ns_id": "ION"
+    },
+    {
+      "id": "CXPDGZTJQHVF",
+      "ns_id": "IOP"
+    },
+    {
+      "id": "CWLTKZHNFXPY",
+      "ns_id": "KMD"
+    },
+    {
+      "id": "CNGWVFHXTPKY",
+      "ns_id": "KORE"
+    },
+    {
+      "id": "CYGHXFLVKTZQ",
+      "ns_id": "LBC"
+    },
+    {
+      "id": "CJDYXGQFWPHL",
+      "ns_id": "LGD",
+      "to": "2018-06-20T22:00:00Z"
+    },
+    {
+      "id": "CKFHXLTGJDWV",
+      "ns_id": "LMC"
+    },
+    {
+      "id": "CVZJQNXTYHKG",
+      "ns_id": "LOOM"
+    },
+    {
+      "id": "CNYGPDHXKZVL",
+      "ns_id": "LRC"
+    },
+    {
+      "id": "CXJQLTYVFGZK",
+      "ns_id": "LSK"
+    },
+    {
+      "id": "CJNXVGZQLDFY",
+      "ns_id": "LTC"
+    },
+    {
+      "id": "CWTGZJQLVYNP",
+      "ns_id": "LUN"
+    },
+    {
+      "id": "CZNVYGKTLHWP",
+      "ns_id": "MAID"
+    },
+    {
+      "id": "CHTPLJNVGDWQ",
+      "ns_id": "MANA"
+    },
+    {
+      "id": "CVJDFXPHQWGK",
+      "ns_id": "MCO"
+    },
+    {
+      "id": "CXZVFHYGQTWN",
+      "ns_id": "MEME"
+    },
+    {
+      "id": "CYZWKLNPVHQF",
+      "ns_id": "MER"
+    },
+    {
+      "id": "CQJNGVKHZFXY",
+      "ns_id": "MFT"
+    },
+    {
+      "id": "CVTJPKWFHGLZ",
+      "ns_id": "MLN"
+    },
+    {
+      "id": "CGDTFKZHWYPQ",
+      "ns_id": "MONA"
+    },
+    {
+      "from": "2018-06-20T22:00:00Z",
+      "id": "CPHXQGTJKVWD",
+      "ns_id": "MORE"
+    },
+    {
+      "id": "CKQVTJGFDWYP",
+      "ns_id": "MTL"
+    },
+    {
+      "id": "CKLZWXTYDQNH",
+      "ns_id": "MUE"
+    },
+    {
+      "id": "CLDYKVFGXTPQ",
+      "ns_id": "MUSIC"
+    },
+    {
+      "id": "CKNVJFLQGYTD",
+      "ns_id": "MYST"
+    },
+    {
+      "id": "CDXHNJZKLFWT",
+      "ns_id": "NAV"
+    },
+    {
+      "id": "CXZQTFYPJGKD",
+      "ns_id": "NBT"
+    },
+    {
+      "id": "CDLPFYJTZNXW",
+      "ns_id": "NEO"
+    },
+    {
+      "id": "CNFQKLVTDGWY",
+      "ns_id": "NEOS"
+    },
+    {
+      "id": "CDYXLKWPGQJF",
+      "ns_id": "NGC"
+    },
+    {
+      "id": "CDXQYNZVWLKT",
+      "ns_id": "NLC2"
+    },
+    {
+      "id": "CNVHWZPTGFXK",
+      "ns_id": "NLG"
+    },
+    {
+      "id": "CKZPNFTLJHWV",
+      "ns_id": "NMR"
+    },
+    {
+      "id": "CYXNHPFGDVQL",
+      "ns_id": "NXC"
+    },
+    {
+      "id": "CJFXYHGLKDQP",
+      "ns_id": "NXS"
+    },
+    {
+      "id": "CPYVJGKQFTXW",
+      "ns_id": "NXT"
+    },
+    {
+      "id": "CHTNPZFWLDQX",
+      "ns_id": "OCN"
+    },
+    {
+      "id": "CGYFVQZHJXTP",
+      "ns_id": "OK"
+    },
+    {
+      "id": "CNQYVDZWFPHJ",
+      "ns_id": "OMG"
+    },
+    {
+      "id": "CJWFYLHKDXGV",
+      "ns_id": "OMNI"
+    },
+    {
+      "id": "CKZNDVQFJTHG",
+      "ns_id": "PART"
+    },
+    {
+      "id": "CPVZQGLJKDXW",
+      "ns_id": "PAY"
+    },
+    {
+      "id": "CYTKZLFJVQGD",
+      "ns_id": "PDC"
+    },
+    {
+      "id": "CHJWLNQFYDGK",
+      "ns_id": "PINK"
+    },
+    {
+      "id": "CWPZNHQXYLDK",
+      "ns_id": "PIVX"
+    },
+    {
+      "id": "CXDVLKTPWYNZ",
+      "ns_id": "PKB"
+    },
+    {
+      "id": "CDPYZWLKTFNH",
+      "ns_id": "POLY"
+    },
+    {
+      "id": "CKJYDFZVNWXQ",
+      "ns_id": "POT"
+    },
+    {
+      "id": "CHQVKGTXYNFJ",
+      "ns_id": "POWR"
+    },
+    {
+      "id": "CKJHGTXQPZWV",
+      "ns_id": "PPC"
+    },
+    {
+      "id": "CVDQPFYJLGWN",
+      "ns_id": "PRO"
+    },
+    {
+      "id": "CNWYTKFLVXDZ",
+      "ns_id": "PTC"
+    },
+    {
+      "id": "CWGPDHJKTZYL",
+      "ns_id": "PTOY"
+    },
+    {
+      "id": "CYPQXNLFJTZD",
+      "ns_id": "QRL"
+    },
+    {
+      "id": "CQFHKZYLGWNV",
+      "ns_id": "QTUM"
+    },
+    {
+      "id": "CYJZKNHGLWTD",
+      "ns_id": "QWARK"
+    },
+    {
+      "id": "CJDFKZHYLXGV",
+      "ns_id": "RADS"
+    },
+    {
+      "id": "CVJDYHZNLGPW",
+      "ns_id": "RBY"
+    },
+    {
+      "id": "CJLDFWGKHNQX",
+      "ns_id": "RCN"
+    },
+    {
+      "id": "CPKHWNZYDQJF",
+      "ns_id": "RDD"
+    },
+    {
+      "id": "CFLYXPHZKTNV",
+      "ns_id": "REP"
+    },
+    {
+      "id": "CHWJKVGLZPQX",
+      "ns_id": "RFR"
+    },
+    {
+      "id": "CDQLZTGWXKVJ",
+      "ns_id": "RISE"
+    },
+    {
+      "id": "CVKGNDZPQTFY",
+      "ns_id": "RLC"
+    },
+    {
+      "id": "CZFXWJHGYLVQ",
+      "ns_id": "RVN"
+    },
+    {
+      "id": "CYVJHPZXKDQL",
+      "ns_id": "SALT"
+    },
+    {
+      "id": "CLGDZKWQTYXJ",
+      "ns_id": "SBD"
+    },
+    {
+      "id": "CJQTHKFPGVWX",
+      "ns_id": "SC"
+    },
+    {
+      "id": "CVXZFWHYPKTQ",
+      "ns_id": "SEQ"
+    },
+    {
+      "id": "CFPDHKQLGWXJ",
+      "ns_id": "SHIFT"
+    },
+    {
+      "id": "CXKNWZQPJGVY",
+      "ns_id": "SIB"
+    },
+    {
+      "id": "CHQVJFXGNPDZ",
+      "ns_id": "SLR"
+    },
+    {
+      "id": "CGVPDKHYXLTW",
+      "ns_id": "SLS"
+    },
+    {
+      "id": "CLQGTNDFPVXK",
+      "ns_id": "SNRG"
+    },
+    {
+      "id": "CGXWZQFVPKJH",
+      "ns_id": "SNT"
+    },
+    {
+      "id": "CPDNTXYHWVKZ",
+      "ns_id": "SPHR"
+    },
+    {
+      "id": "CJHTLFYDVXGK",
+      "ns_id": "SPR"
+    },
+    {
+      "id": "CFPNKWDHVZGL",
+      "ns_id": "SRN"
+    },
+    {
+      "id": "CYTKJWHLGXNP",
+      "ns_id": "START"
+    },
+    {
+      "id": "CXYFNZJKLHQD",
+      "ns_id": "STEEM"
+    },
+    {
+      "id": "CLXHYGWNVPJZ",
+      "ns_id": "STORJ"
+    },
+    {
+      "id": "CFTVDLJNXWYQ",
+      "ns_id": "STORM"
+    },
+    {
+      "id": "CZJVGTWHQYDF",
+      "ns_id": "STRAT"
+    },
+    {
+      "id": "CYXLWHTDVZKQ",
+      "ns_id": "SWIFT",
+      "to": "2018-06-20T22:00:00Z"
+    },
+    {
+      "id": "CZJXWQGVTHFP",
+      "ns_id": "SWT"
+    },
+    {
+      "id": "CJVDXHPWGQYT",
+      "ns_id": "SYNX"
+    },
+    {
+      "id": "CTFJHQWDGPLN",
+      "ns_id": "SYS"
+    },
+    {
+      "id": "CHXVPWTYGDZL",
+      "ns_id": "THC"
+    },
+    {
+      "id": "CXGVPWLTZFDY",
+      "ns_id": "TIX"
+    },
+    {
+      "id": "CGVDPFTYKWJX",
+      "ns_id": "TKS"
+    },
+    {
+      "id": "CQFWHGTJYVZL",
+      "ns_id": "TRIG"
+    },
+    {
+      "id": "CLXGVYWNQHPF",
+      "ns_id": "TRST"
+    },
+    {
+      "id": "CGJNQFWPZYTX",
+      "ns_id": "TRUST"
+    },
+    {
+      "from": "2018-06-24T16:00:00Z",
+      "id": "CDVYLJGFXHZK",
+      "ns_id": "TRX"
+    },
+    {
+      "id": "CKQTLYPVHZND",
+      "ns_id": "TRX",
+      "to": "2018-06-24T16:00:00Z"
+    },
+    {
+      "id": "CVWXTZJNFLYK",
+      "ns_id": "TUBE"
+    },
+    {
+      "id": "CJGPLDFZWXYQ",
+      "ns_id": "TUSD"
+    },
+    {
+      "id": "CQLZTFHJVGKP",
+      "ns_id": "TX"
+    },
+    {
+      "id": "CGJFHKTYZQDX",
+      "ns_id": "UBQ"
+    },
+    {
+      "id": "CPQTHLJGWKYZ",
+      "ns_id": "UKG"
+    },
+    {
+      "id": "CYQNKTHWXDGF",
+      "ns_id": "UNB"
+    },
+    {
+      "id": "CDYZFNTLQVKJ",
+      "ns_id": "UP"
+    },
+    {
+      "id": "CPQNYLHKDWVG",
+      "ns_id": "UPP"
+    },
+    {
+      "id": "CZYHDQPFNXWJ",
+      "ns_id": "USDT"
+    },
+    {
+      "id": "CYQPKDWJZVLT",
+      "ns_id": "VEE"
+    },
+    {
+      "id": "CPWNJQDLHFZK",
+      "ns_id": "VIA"
+    },
+    {
+      "id": "CWNXFTZQPGYD",
+      "ns_id": "VIB"
+    },
+    {
+      "id": "CYPTNDVZXWKG",
+      "ns_id": "VOX"
+    },
+    {
+      "id": "CXDVPZGWTFQH",
+      "ns_id": "VRC"
+    },
+    {
+      "id": "CLQDNJWZVHPX",
+      "ns_id": "VRM"
+    },
+    {
+      "id": "CZWGPHQFYTND",
+      "ns_id": "VTC"
+    },
+    {
+      "id": "CVPLNTXFJQGH",
+      "ns_id": "VTR"
+    },
+    {
+      "id": "CHTNDVKPLZFY",
+      "ns_id": "WAVES"
+    },
+    {
+      "id": "CYFXPHZJTKQN",
+      "ns_id": "WAX"
+    },
+    {
+      "id": "CLJPFWHZNYXV",
+      "ns_id": "WINGS"
+    },
+    {
+      "id": "CQHTZYNGJWVF",
+      "ns_id": "XCP"
+    },
+    {
+      "id": "CKFPNZVQYTWX",
+      "ns_id": "XDN"
+    },
+    {
+      "id": "CJYNVFPLXTDW",
+      "ns_id": "XEL"
+    },
+    {
+      "id": "CFKXTVWLYGPZ",
+      "ns_id": "XEM"
+    },
+    {
+      "id": "CDYZWFQLHTPX",
+      "ns_id": "XLM"
+    },
+    {
+      "id": "CZPVTKWLJXFG",
+      "ns_id": "XMG"
+    },
+    {
+      "id": "CLTJPFYZNVWG",
+      "ns_id": "XMR"
+    },
+    {
+      "id": "CZWYNVHKTGJL",
+      "ns_id": "XMY"
+    },
+    {
+      "id": "CDJXFTVWNLYH",
+      "ns_id": "XRP"
+    },
+    {
+      "id": "CPNKZLDGJWYF",
+      "ns_id": "XST"
+    },
+    {
+      "id": "CXTZNWQLGYDH",
+      "ns_id": "XVC"
+    },
+    {
+      "id": "CKTHPFLVDYJG",
+      "ns_id": "XVG"
+    },
+    {
+      "id": "CWDYZHFLJKTQ",
+      "ns_id": "XWC"
+    },
+    {
+      "id": "CWPXZJVGLKQH",
+      "ns_id": "XZC"
+    },
+    {
+      "id": "CPHZNGXFLJWD",
+      "ns_id": "ZCL"
+    },
+    {
+      "id": "CWKDPXJQHZGF",
+      "ns_id": "ZEC"
+    },
+    {
+      "id": "CJHZFQNVWDGL",
+      "ns_id": "ZEN"
+    },
+    {
+      "id": "CGTNDFPLXYHZ",
+      "ns_id": "ZRX"
+    }
+  ],
+  "namespace": "bittrex"
 }

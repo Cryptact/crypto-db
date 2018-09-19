@@ -1,9 +1,18 @@
 {
-  "namespace": "zaif",
   "description": "ns_id is ticker symbol in zaif's trade history.",
   "map": [
-    { "ns_id": "BITCRYSTALS", "id": "CQVKFGZJTDPX" },
-    { "ns_id": "ERC20.CMS", "id": "CTYFVQJKNDHW" },
-    { "ns_id": "MOSAIC.CMS", "id": "CKYQTDNWFJPH" }
-  ]
+    {
+      "id": "CQVKFGZJTDPX",
+      "ns_id": "BITCRYSTALS"
+    },
+    {
+      "id": "CTYFVQJKNDHW",
+      "ns_id": "ERC20.CMS"
+    },
+    {
+      "id": "CKYQTDNWFJPH",
+      "ns_id": "MOSAIC.CMS"
+    }
+  ],
+  "namespace": "zaif"
 }

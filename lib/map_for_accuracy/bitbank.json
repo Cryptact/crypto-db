@@ -1,9 +1,18 @@
 {
-  "namespace": "bitbank",
   "description": "ns_id is ticker symbol in zaif's trade history.",
   "map": [
-    { "ns_id": "BCC", "id": "CWKHNDXQGFTP" },
-    { "ns_id": "MONA", "id": "CGDTFKZHWYPQ" },
-    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" }
-  ]
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCC"
+    },
+    {
+      "id": "CGDTFKZHWYPQ",
+      "ns_id": "MONA"
+    },
+    {
+      "id": "CDJXFTVWNLYH",
+      "ns_id": "XRP"
+    }
+  ],
+  "namespace": "bitbank"
 }

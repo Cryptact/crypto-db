@@ -1,27 +1,92 @@
 {
-  "namespace": "krakenalt",
   "description": "ns_id is 'altname' in kraken.",
   "map": [
-    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
-    { "ns_id": "DASH", "id": "CQLJDHKWNZXP" },
-    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "2018-06-02T22:00:00Z" },
-    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "2018-06-02T22:00:00Z" },
-    { "ns_id": "GNO", "id": "CXHKLJZWDTGQ" },
-    { "ns_id": "USDT", "id": "CZYHDQPFNXWJ" },
-    { "ns_id": "DAO", "id": "CGTQKHJVXWPN" },
-    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
-    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
-    { "ns_id": "ICN", "id": "CTKLWYQPDFGZ" },
-    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
-    { "ns_id": "MLN", "id": "CVTJPKWFHGLZ" },
-    { "ns_id": "NMC", "id": "CZVNPTGFQWJK" },
-    { "ns_id": "REP", "id": "CFLYXPHZKTNV" },
-    { "ns_id": "XBT", "id": "CJTFPXDVQHNG" },
-    { "ns_id": "XDG", "id": "CLDGTPZFQNVH" },
-    { "ns_id": "XLM", "id": "CDYZWFQLHTPX" },
-    { "ns_id": "XMR", "id": "CLTJPFYZNVWG" },
-    { "ns_id": "XVN", "id": "CHKPNJXQVDFW" },
-    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
-    { "ns_id": "ZEC", "id": "CWKDPXJQHZGF" }
-  ]
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCH"
+    },
+    {
+      "id": "CGTQKHJVXWPN",
+      "ns_id": "DAO"
+    },
+    {
+      "id": "CQLJDHKWNZXP",
+      "ns_id": "DASH"
+    },
+    {
+      "from": "2018-06-02T22:00:00Z",
+      "id": "CPXQGHKTDLYJ",
+      "ns_id": "EOS"
+    },
+    {
+      "id": "CTFLDWZYQKXG",
+      "ns_id": "EOS",
+      "to": "2018-06-02T22:00:00Z"
+    },
+    {
+      "id": "CKPFHDWXZVGQ",
+      "ns_id": "ETC"
+    },
+    {
+      "id": "CPWTGZNVHKJF",
+      "ns_id": "ETH"
+    },
+    {
+      "id": "CXHKLJZWDTGQ",
+      "ns_id": "GNO"
+    },
+    {
+      "id": "CTKLWYQPDFGZ",
+      "ns_id": "ICN"
+    },
+    {
+      "id": "CJNXVGZQLDFY",
+      "ns_id": "LTC"
+    },
+    {
+      "id": "CVTJPKWFHGLZ",
+      "ns_id": "MLN"
+    },
+    {
+      "id": "CZVNPTGFQWJK",
+      "ns_id": "NMC"
+    },
+    {
+      "id": "CFLYXPHZKTNV",
+      "ns_id": "REP"
+    },
+    {
+      "id": "CZYHDQPFNXWJ",
+      "ns_id": "USDT"
+    },
+    {
+      "id": "CJTFPXDVQHNG",
+      "ns_id": "XBT"
+    },
+    {
+      "id": "CLDGTPZFQNVH",
+      "ns_id": "XDG"
+    },
+    {
+      "id": "CDYZWFQLHTPX",
+      "ns_id": "XLM"
+    },
+    {
+      "id": "CLTJPFYZNVWG",
+      "ns_id": "XMR"
+    },
+    {
+      "id": "CDJXFTVWNLYH",
+      "ns_id": "XRP"
+    },
+    {
+      "id": "CHKPNJXQVDFW",
+      "ns_id": "XVN"
+    },
+    {
+      "id": "CWKDPXJQHZGF",
+      "ns_id": "ZEC"
+    }
+  ],
+  "namespace": "krakenalt"
 }

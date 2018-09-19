@@ -1,19 +1,62 @@
 {
-  "namespace": "coincheck",
   "description": "ns_id is ticker symbol in coincheck.",
   "map": [
-    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
-    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
-    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
-    { "ns_id": "LSK", "id": "CXJQLTYVFGZK" },
-    { "ns_id": "FCT", "id": "CWJYPNGZLQFV" },
-    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
-    { "ns_id": "XEM", "id": "CFKXTVWLYGPZ" },
-    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
-    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
-    { "ns_id": "DASH", "id": "CQLJDHKWNZXP", "to": "20180619" },
-    { "ns_id": "ZEC", "id": "CWKDPXJQHZGF", "to": "20180619" },
-    { "ns_id": "XMR", "id": "CLTJPFYZNVWG", "to": "20180619" },
-    { "ns_id": "REP", "id": "CFLYXPHZKTNV", "to": "20180619" }
-  ]
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCH"
+    },
+    {
+      "id": "CJTFPXDVQHNG",
+      "ns_id": "BTC"
+    },
+    {
+      "id": "CQLJDHKWNZXP",
+      "ns_id": "DASH",
+      "to": "20180619"
+    },
+    {
+      "id": "CKPFHDWXZVGQ",
+      "ns_id": "ETC"
+    },
+    {
+      "id": "CPWTGZNVHKJF",
+      "ns_id": "ETH"
+    },
+    {
+      "id": "CWJYPNGZLQFV",
+      "ns_id": "FCT"
+    },
+    {
+      "id": "CXJQLTYVFGZK",
+      "ns_id": "LSK"
+    },
+    {
+      "id": "CJNXVGZQLDFY",
+      "ns_id": "LTC"
+    },
+    {
+      "id": "CFLYXPHZKTNV",
+      "ns_id": "REP",
+      "to": "20180619"
+    },
+    {
+      "id": "CFKXTVWLYGPZ",
+      "ns_id": "XEM"
+    },
+    {
+      "id": "CLTJPFYZNVWG",
+      "ns_id": "XMR",
+      "to": "20180619"
+    },
+    {
+      "id": "CDJXFTVWNLYH",
+      "ns_id": "XRP"
+    },
+    {
+      "id": "CWKDPXJQHZGF",
+      "ns_id": "ZEC",
+      "to": "20180619"
+    }
+  ],
+  "namespace": "coincheck"
 }

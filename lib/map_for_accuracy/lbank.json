@@ -1,5 +1,10 @@
 {
-  "namespace": "lbank",
   "description": "Mapping for lbank.",
-  "map": [{ "ns_id": "PAI", "id": "CPKYVFQJNWZH" }]
+  "map": [
+    {
+      "id": "CPKYVFQJNWZH",
+      "ns_id": "PAI"
+    }
+  ],
+  "namespace": "lbank"
 }

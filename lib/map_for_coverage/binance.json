@@ -1,19 +1,62 @@
 {
-  "namespace": "binance",
   "description": "Mapping for binance trade history.",
   "map": [
-    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
-    { "ns_id": "BCC", "id": "CWKHNDXQGFTP" },
-    { "ns_id": "BLZ", "id": "CWJFNXVGPDTQ" },
-    { "ns_id": "BQX", "id": "CYKGHXLQTPWD" },
-    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "2018-06-02T22:00:00Z" },
-    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "2018-06-02T22:00:00Z" },
-    { "ns_id": "HSR", "id": "CXGZVWNYFDKP" },
-    { "ns_id": "HC", "id": "CPFZKXYQNWGL" },
-    { "ns_id": "TRX", "id": "CKQTLYPVHZND", "to": "2018-06-24T16:00:00Z" },
-    { "ns_id": "TRX", "id": "CDVYLJGFXHZK", "from": "2018-06-24T16:00:00Z" },
-    { "ns_id": "VET", "id": "CQLNJGXFKTHP" },
-    { "ns_id": "XRB", "id": "CDNJLZXVKFTY" },
-    { "ns_id": "YOYO", "id": "CDKVHXFLTGYQ" }
-  ]
+    {
+      "id": "CDLPFYJTZNXW",
+      "ns_id": "ANS"
+    },
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCC"
+    },
+    {
+      "id": "CWJFNXVGPDTQ",
+      "ns_id": "BLZ"
+    },
+    {
+      "id": "CYKGHXLQTPWD",
+      "ns_id": "BQX"
+    },
+    {
+      "from": "2018-06-02T22:00:00Z",
+      "id": "CPXQGHKTDLYJ",
+      "ns_id": "EOS"
+    },
+    {
+      "id": "CTFLDWZYQKXG",
+      "ns_id": "EOS",
+      "to": "2018-06-02T22:00:00Z"
+    },
+    {
+      "id": "CPFZKXYQNWGL",
+      "ns_id": "HC"
+    },
+    {
+      "id": "CXGZVWNYFDKP",
+      "ns_id": "HSR"
+    },
+    {
+      "from": "2018-06-24T16:00:00Z",
+      "id": "CDVYLJGFXHZK",
+      "ns_id": "TRX"
+    },
+    {
+      "id": "CKQTLYPVHZND",
+      "ns_id": "TRX",
+      "to": "2018-06-24T16:00:00Z"
+    },
+    {
+      "id": "CQLNJGXFKTHP",
+      "ns_id": "VET"
+    },
+    {
+      "id": "CDNJLZXVKFTY",
+      "ns_id": "XRB"
+    },
+    {
+      "id": "CDKVHXFLTGYQ",
+      "ns_id": "YOYO"
+    }
+  ],
+  "namespace": "binance"
 }

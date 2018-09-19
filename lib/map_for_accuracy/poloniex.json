@@ -1,81 +1,302 @@
 {
-  "namespace": "poloniex",
   "description": "ns_id is ticker symbol in poloniex.",
   "map": [
-    { "ns_id": "STR", "id": "CDYZWFQLHTPX" },
-
-    { "ns_id": "AMP", "id": "CVLZFQGYDJHX" },
-    { "ns_id": "ARDR", "id": "CWFVXJQDKZLT" },
-    { "ns_id": "BAT", "id": "CHNWYVZTQFJX" },
-    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
-    { "ns_id": "BCN", "id": "CJYQTGDWLZKN" },
-    { "ns_id": "BCY", "id": "CQVKFGZJTDPX" },
-    { "ns_id": "BELA", "id": "CXTWNGKLHPVZ" },
-    { "ns_id": "BLK", "id": "CTGXVPHJLYWD" },
-    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
-    { "ns_id": "BTCD", "id": "CVGJDFXLNQPZ" },
-    { "ns_id": "BTM", "id": "CWXTNZDPFGKV" },
-    { "ns_id": "BTS", "id": "CQXHLZVGTYWP" },
-    { "ns_id": "BURST", "id": "CXNDVJGHKLTQ" },
-    { "ns_id": "CLAM", "id": "CFVLJQTHYKXZ" },
-    { "ns_id": "CVC", "id": "CVFPNXTGWYZJ" },
-    { "ns_id": "DASH", "id": "CQLJDHKWNZXP" },
-    { "ns_id": "DCR", "id": "CJQPKWDFGTZL" },
-    { "ns_id": "DGB", "id": "CYLGHXWDZTNP" },
-    { "ns_id": "DOGE", "id": "CLDGTPZFQNVH" },
-    { "ns_id": "EMC2", "id": "CGDTHWYXQVKP" },
-    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ" },
-    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
-    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
-    { "ns_id": "EXP", "id": "CZNDFWGVQYTK" },
-    { "ns_id": "FCT", "id": "CWJYPNGZLQFV" },
-    { "ns_id": "FLDC", "id": "CDTVLWYXZFNH" },
-    { "ns_id": "FLO", "id": "CNYDGHFZVTWX" },
-    { "ns_id": "GAME", "id": "CPGQKDWTVXZN" },
-    { "ns_id": "GAS", "id": "CQXLHPWZYDTJ" },
-    { "ns_id": "GNO", "id": "CXHKLJZWDTGQ" },
-    { "ns_id": "GNT", "id": "CQNWYPFVZHGT" },
-    { "ns_id": "GRC", "id": "CYWNJLTXFPVZ" },
-    { "ns_id": "HUC", "id": "CFPNXLKWTYQH" },
-    { "ns_id": "KNC", "id": "CLXHPWKVGTDZ" },
-    { "ns_id": "LBC", "id": "CYGHXFLVKTZQ" },
-    { "ns_id": "LOOM", "id": "CVZJQNXTYHKG" },
-    { "ns_id": "LSK", "id": "CXJQLTYVFGZK" },
-    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
-    { "ns_id": "MAID", "id": "CZNVYGKTLHWP" },
-    { "ns_id": "NAV", "id": "CDXHNJZKLFWT" },
-    { "ns_id": "NEOS", "id": "CNFQKLVTDGWY" },
-    { "ns_id": "NMC", "id": "CZVNPTGFQWJK" },
-    { "ns_id": "NXC", "id": "CYXNHPFGDVQL" },
-    { "ns_id": "NXT", "id": "CPYVJGKQFTXW" },
-    { "ns_id": "OMG", "id": "CNQYVDZWFPHJ" },
-    { "ns_id": "OMNI", "id": "CJWFYLHKDXGV" },
-    { "ns_id": "PASC", "id": "CFQHLKWJNTYP" },
-    { "ns_id": "PINK", "id": "CHJWLNQFYDGK" },
-    { "ns_id": "POT", "id": "CKJYDFZVNWXQ" },
-    { "ns_id": "PPC", "id": "CKJHGTXQPZWV" },
-    { "ns_id": "QTUM", "id": "CQFHKZYLGWNV" },
-    { "ns_id": "RADS", "id": "CJDFKZHYLXGV" },
-    { "ns_id": "REP", "id": "CFLYXPHZKTNV" },
-    { "ns_id": "RIC", "id": "CZVHYJFPDWQK" },
-    { "ns_id": "SBD", "id": "CLGDZKWQTYXJ" },
-    { "ns_id": "SC", "id": "CJQTHKFPGVWX" },
-    { "ns_id": "SNT", "id": "CGXWZQFVPKJH" },
-    { "ns_id": "STEEM", "id": "CXYFNZJKLHQD" },
-    { "ns_id": "STORJ", "id": "CLXHYGWNVPJZ" },
-    { "ns_id": "STRAT", "id": "CZJVGTWHQYDF" },
-    { "ns_id": "SYS", "id": "CTFJHQWDGPLN" },
-    { "ns_id": "VIA", "id": "CPWNJQDLHFZK" },
-    { "ns_id": "VRC", "id": "CXDVPZGWTFQH" },
-    { "ns_id": "VTC", "id": "CZWGPHQFYTND" },
-    { "ns_id": "XBC", "id": "CVPGLKWQJNZD" },
-    { "ns_id": "XCP", "id": "CQHTZYNGJWVF" },
-    { "ns_id": "XEM", "id": "CFKXTVWLYGPZ" },
-    { "ns_id": "XMR", "id": "CLTJPFYZNVWG" },
-    { "ns_id": "XPM", "id": "CVPDWNXLJFKH" },
-    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
-    { "ns_id": "XVC", "id": "CXTZNWQLGYDH" },
-    { "ns_id": "ZEC", "id": "CWKDPXJQHZGF" },
-    { "ns_id": "ZRX", "id": "CGTNDFPLXYHZ" }
-  ]
+    {
+      "id": "CVLZFQGYDJHX",
+      "ns_id": "AMP"
+    },
+    {
+      "id": "CWFVXJQDKZLT",
+      "ns_id": "ARDR"
+    },
+    {
+      "id": "CHNWYVZTQFJX",
+      "ns_id": "BAT"
+    },
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCH"
+    },
+    {
+      "id": "CJYQTGDWLZKN",
+      "ns_id": "BCN"
+    },
+    {
+      "id": "CQVKFGZJTDPX",
+      "ns_id": "BCY"
+    },
+    {
+      "id": "CXTWNGKLHPVZ",
+      "ns_id": "BELA"
+    },
+    {
+      "id": "CTGXVPHJLYWD",
+      "ns_id": "BLK"
+    },
+    {
+      "id": "CJTFPXDVQHNG",
+      "ns_id": "BTC"
+    },
+    {
+      "id": "CVGJDFXLNQPZ",
+      "ns_id": "BTCD"
+    },
+    {
+      "id": "CWXTNZDPFGKV",
+      "ns_id": "BTM"
+    },
+    {
+      "id": "CQXHLZVGTYWP",
+      "ns_id": "BTS"
+    },
+    {
+      "id": "CXNDVJGHKLTQ",
+      "ns_id": "BURST"
+    },
+    {
+      "id": "CFVLJQTHYKXZ",
+      "ns_id": "CLAM"
+    },
+    {
+      "id": "CVFPNXTGWYZJ",
+      "ns_id": "CVC"
+    },
+    {
+      "id": "CQLJDHKWNZXP",
+      "ns_id": "DASH"
+    },
+    {
+      "id": "CJQPKWDFGTZL",
+      "ns_id": "DCR"
+    },
+    {
+      "id": "CYLGHXWDZTNP",
+      "ns_id": "DGB"
+    },
+    {
+      "id": "CLDGTPZFQNVH",
+      "ns_id": "DOGE"
+    },
+    {
+      "id": "CGDTHWYXQVKP",
+      "ns_id": "EMC2"
+    },
+    {
+      "id": "CPXQGHKTDLYJ",
+      "ns_id": "EOS"
+    },
+    {
+      "id": "CKPFHDWXZVGQ",
+      "ns_id": "ETC"
+    },
+    {
+      "id": "CPWTGZNVHKJF",
+      "ns_id": "ETH"
+    },
+    {
+      "id": "CZNDFWGVQYTK",
+      "ns_id": "EXP"
+    },
+    {
+      "id": "CWJYPNGZLQFV",
+      "ns_id": "FCT"
+    },
+    {
+      "id": "CDTVLWYXZFNH",
+      "ns_id": "FLDC"
+    },
+    {
+      "id": "CNYDGHFZVTWX",
+      "ns_id": "FLO"
+    },
+    {
+      "id": "CPGQKDWTVXZN",
+      "ns_id": "GAME"
+    },
+    {
+      "id": "CQXLHPWZYDTJ",
+      "ns_id": "GAS"
+    },
+    {
+      "id": "CXHKLJZWDTGQ",
+      "ns_id": "GNO"
+    },
+    {
+      "id": "CQNWYPFVZHGT",
+      "ns_id": "GNT"
+    },
+    {
+      "id": "CYWNJLTXFPVZ",
+      "ns_id": "GRC"
+    },
+    {
+      "id": "CFPNXLKWTYQH",
+      "ns_id": "HUC"
+    },
+    {
+      "id": "CLXHPWKVGTDZ",
+      "ns_id": "KNC"
+    },
+    {
+      "id": "CYGHXFLVKTZQ",
+      "ns_id": "LBC"
+    },
+    {
+      "id": "CVZJQNXTYHKG",
+      "ns_id": "LOOM"
+    },
+    {
+      "id": "CXJQLTYVFGZK",
+      "ns_id": "LSK"
+    },
+    {
+      "id": "CJNXVGZQLDFY",
+      "ns_id": "LTC"
+    },
+    {
+      "id": "CZNVYGKTLHWP",
+      "ns_id": "MAID"
+    },
+    {
+      "id": "CDXHNJZKLFWT",
+      "ns_id": "NAV"
+    },
+    {
+      "id": "CNFQKLVTDGWY",
+      "ns_id": "NEOS"
+    },
+    {
+      "id": "CZVNPTGFQWJK",
+      "ns_id": "NMC"
+    },
+    {
+      "id": "CYXNHPFGDVQL",
+      "ns_id": "NXC"
+    },
+    {
+      "id": "CPYVJGKQFTXW",
+      "ns_id": "NXT"
+    },
+    {
+      "id": "CNQYVDZWFPHJ",
+      "ns_id": "OMG"
+    },
+    {
+      "id": "CJWFYLHKDXGV",
+      "ns_id": "OMNI"
+    },
+    {
+      "id": "CFQHLKWJNTYP",
+      "ns_id": "PASC"
+    },
+    {
+      "id": "CHJWLNQFYDGK",
+      "ns_id": "PINK"
+    },
+    {
+      "id": "CKJYDFZVNWXQ",
+      "ns_id": "POT"
+    },
+    {
+      "id": "CKJHGTXQPZWV",
+      "ns_id": "PPC"
+    },
+    {
+      "id": "CQFHKZYLGWNV",
+      "ns_id": "QTUM"
+    },
+    {
+      "id": "CJDFKZHYLXGV",
+      "ns_id": "RADS"
+    },
+    {
+      "id": "CFLYXPHZKTNV",
+      "ns_id": "REP"
+    },
+    {
+      "id": "CZVHYJFPDWQK",
+      "ns_id": "RIC"
+    },
+    {
+      "id": "CLGDZKWQTYXJ",
+      "ns_id": "SBD"
+    },
+    {
+      "id": "CJQTHKFPGVWX",
+      "ns_id": "SC"
+    },
+    {
+      "id": "CGXWZQFVPKJH",
+      "ns_id": "SNT"
+    },
+    {
+      "id": "CXYFNZJKLHQD",
+      "ns_id": "STEEM"
+    },
+    {
+      "id": "CLXHYGWNVPJZ",
+      "ns_id": "STORJ"
+    },
+    {
+      "id": "CDYZWFQLHTPX",
+      "ns_id": "STR"
+    },
+    {
+      "id": "CZJVGTWHQYDF",
+      "ns_id": "STRAT"
+    },
+    {
+      "id": "CTFJHQWDGPLN",
+      "ns_id": "SYS"
+    },
+    {
+      "id": "CPWNJQDLHFZK",
+      "ns_id": "VIA"
+    },
+    {
+      "id": "CXDVPZGWTFQH",
+      "ns_id": "VRC"
+    },
+    {
+      "id": "CZWGPHQFYTND",
+      "ns_id": "VTC"
+    },
+    {
+      "id": "CVPGLKWQJNZD",
+      "ns_id": "XBC"
+    },
+    {
+      "id": "CQHTZYNGJWVF",
+      "ns_id": "XCP"
+    },
+    {
+      "id": "CFKXTVWLYGPZ",
+      "ns_id": "XEM"
+    },
+    {
+      "id": "CLTJPFYZNVWG",
+      "ns_id": "XMR"
+    },
+    {
+      "id": "CVPDWNXLJFKH",
+      "ns_id": "XPM"
+    },
+    {
+      "id": "CDJXFTVWNLYH",
+      "ns_id": "XRP"
+    },
+    {
+      "id": "CXTZNWQLGYDH",
+      "ns_id": "XVC"
+    },
+    {
+      "id": "CWKDPXJQHZGF",
+      "ns_id": "ZEC"
+    },
+    {
+      "id": "CGTNDFPLXYHZ",
+      "ns_id": "ZRX"
+    }
+  ],
+  "namespace": "poloniex"
 }

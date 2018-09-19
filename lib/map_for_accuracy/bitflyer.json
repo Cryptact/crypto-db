@@ -1,13 +1,34 @@
 {
-  "namespace": "bitflyer",
   "description": "ns_id is ticker symbol in bitflyer.",
   "map": [
-    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
-    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
-    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
-    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
-    { "ns_id": "LSK", "id": "CXJQLTYVFGZK" },
-    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
-    { "ns_id": "MONA", "id": "CGDTFKZHWYPQ" }
-  ]
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCH"
+    },
+    {
+      "id": "CJTFPXDVQHNG",
+      "ns_id": "BTC"
+    },
+    {
+      "id": "CKPFHDWXZVGQ",
+      "ns_id": "ETC"
+    },
+    {
+      "id": "CPWTGZNVHKJF",
+      "ns_id": "ETH"
+    },
+    {
+      "id": "CXJQLTYVFGZK",
+      "ns_id": "LSK"
+    },
+    {
+      "id": "CJNXVGZQLDFY",
+      "ns_id": "LTC"
+    },
+    {
+      "id": "CGDTFKZHWYPQ",
+      "ns_id": "MONA"
+    }
+  ],
+  "namespace": "bitflyer"
 }

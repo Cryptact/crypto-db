@@ -1,10 +1,22 @@
 {
-  "namespace": "liquid",
   "description": "ns_id is ticker symbol in liquid (formaly known as Quoinex).",
   "map": [
-    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
-    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
-    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
-    { "ns_id": "QASH", "id": "CKPHZNTQWLYF" }
-  ]
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCH"
+    },
+    {
+      "id": "CJTFPXDVQHNG",
+      "ns_id": "BTC"
+    },
+    {
+      "id": "CPWTGZNVHKJF",
+      "ns_id": "ETH"
+    },
+    {
+      "id": "CKPHZNTQWLYF",
+      "ns_id": "QASH"
+    }
+  ],
+  "namespace": "liquid"
 }

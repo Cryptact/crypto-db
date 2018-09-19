@@ -1,8 +1,14 @@
 {
-  "namespace": "bitz",
   "description": "ns_id is ticker symbol in Bit-Z.",
   "map": [
-    { "ns_id": "SPX", "id": "CQHXTZNYWGFD" },
-    { "ns_id": "DKKT", "id": "CHNWGPLJQFXV" }
-  ]
+    {
+      "id": "CHNWGPLJQFXV",
+      "ns_id": "DKKT"
+    },
+    {
+      "id": "CQHXTZNYWGFD",
+      "ns_id": "SPX"
+    }
+  ],
+  "namespace": "bitz"
 }

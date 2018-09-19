@@ -1,15 +1,42 @@
 {
-  "namespace": "hitbtc",
   "description": "Mapping for hitbtc trade history.",
   "map": [
-    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
-    { "ns_id": "BCC", "id": "CWKHNDXQGFTP" },
-    { "ns_id": "BQX", "id": "CYKGHXLQTPWD" },
-    { "ns_id": "CAT", "id": "CVLJTHYFZKDW" },
-    { "ns_id": "DOV", "id": "CYPXQKHJGFNW" },
-    { "ns_id": "EBTCNEW", "id": "CXZJTHKYNDLW" },
-    { "ns_id": "EMGO", "id": "CGVPFDHWLQJT" },
-    { "ns_id": "PRS", "id": "CQGLVNFXYTJH" },
-    { "ns_id": "SPD", "id": "CXQPWLGHNFKV" }
-  ]
+    {
+      "id": "CDLPFYJTZNXW",
+      "ns_id": "ANS"
+    },
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCC"
+    },
+    {
+      "id": "CYKGHXLQTPWD",
+      "ns_id": "BQX"
+    },
+    {
+      "id": "CVLJTHYFZKDW",
+      "ns_id": "CAT"
+    },
+    {
+      "id": "CYPXQKHJGFNW",
+      "ns_id": "DOV"
+    },
+    {
+      "id": "CXZJTHKYNDLW",
+      "ns_id": "EBTCNEW"
+    },
+    {
+      "id": "CGVPFDHWLQJT",
+      "ns_id": "EMGO"
+    },
+    {
+      "id": "CQGLVNFXYTJH",
+      "ns_id": "PRS"
+    },
+    {
+      "id": "CXQPWLGHNFKV",
+      "ns_id": "SPD"
+    }
+  ],
+  "namespace": "hitbtc"
 }

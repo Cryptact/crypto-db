@@ -1,19 +1,19 @@
 /**
- * exporting crypto-db
- *
- * Copyright (C) 2018 Cryptact, LTD.
- */
-const crypto_db = require("./lib/ids");
-const crypto_actions = require("./lib/crypto-actions");
+*** crypto-db package
+***
+*** Copyright (C) 2018 Cryptact, LTD.
+**/
 
-const composite = require("./lib/composite");
-const map_for_accuracy = require("./lib/map_for_accuracy");
-const map_for_coverage = require("./lib/map_for_coverage");
+const namespace = [
+  "ids",
+  "composite",
+  "crypto_actions",
+  "map_for_accuracy",
+  "map_for_coverage",
+  "symbols"
+];
 
-module.exports = {
-  crypto_db,
-  crypto_actions,
-  composite,
-  map_for_accuracy,
-  map_for_coverage
-};
+module.exports = namespace.reduce(function (o, key) {
+  o[key] = require(`./lib/${key}`);
+  return o;
+}, {});

@@ -1,5 +1,10 @@
 {
-  "namespace": "bitgrail",
   "description": "Mapping for bitgrail.",
-  "map": [{ "ns_id": "XRB", "id": "CDNJLZXVKFTY" }]
+  "map": [
+    {
+      "id": "CDNJLZXVKFTY",
+      "ns_id": "XRB"
+    }
+  ],
+  "namespace": "bitgrail"
 }

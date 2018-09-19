@@ -1,19 +1,60 @@
 {
-  "namespace": "bitfinex",
   "description": "Mapping for bitfinex trade history file",
   "map": [
-    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
-    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "2018-06-02T22:00:00Z" },
-    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "2018-06-02T22:00:00Z" },
-    { "ns_id": "IOT", "id": "CJPQKYNXZTGL" },
-    { "ns_id": "MNA", "id": "CHTPLJNVGDWQ" },
-    { "ns_id": "MIT", "id": "CYLTXGQFHZWP" },
-    { "ns_id": "PAI", "id": "CPKYVFQJNWZH" },
-    { "ns_id": "QSH", "id": "CKPHZNTQWLYF" },
-    { "ns_id": "SNG", "id": "CPNXFZKTLDWQ" },
-    { "ns_id": "SPK", "id": "CPQNWKHZDVXT" },
-    { "ns_id": "STJ", "id": "CLXHYGWNVPJZ" },
-    { "ns_id": "USD", "id": "CZYHDQPFNXWJ" },
-    { "ns_id": "YYW", "id": "CDKVHXFLTGYQ" }
-  ]
+    {
+      "id": "CDLPFYJTZNXW",
+      "ns_id": "ANS"
+    },
+    {
+      "from": "2018-06-02T22:00:00Z",
+      "id": "CPXQGHKTDLYJ",
+      "ns_id": "EOS"
+    },
+    {
+      "id": "CTFLDWZYQKXG",
+      "ns_id": "EOS",
+      "to": "2018-06-02T22:00:00Z"
+    },
+    {
+      "id": "CJPQKYNXZTGL",
+      "ns_id": "IOT"
+    },
+    {
+      "id": "CYLTXGQFHZWP",
+      "ns_id": "MIT"
+    },
+    {
+      "id": "CHTPLJNVGDWQ",
+      "ns_id": "MNA"
+    },
+    {
+      "id": "CPKYVFQJNWZH",
+      "ns_id": "PAI"
+    },
+    {
+      "id": "CKPHZNTQWLYF",
+      "ns_id": "QSH"
+    },
+    {
+      "id": "CPNXFZKTLDWQ",
+      "ns_id": "SNG"
+    },
+    {
+      "id": "CPQNWKHZDVXT",
+      "ns_id": "SPK"
+    },
+    {
+      "id": "CLXHYGWNVPJZ",
+      "ns_id": "STJ"
+    },
+    {
+      "id": "CZYHDQPFNXWJ",
+      "ns_id": "USD"
+    },
+    {
+      "id": "CDKVHXFLTGYQ",
+      "ns_id": "YYW"
+    }
+  ],
+  "namespace": "bitfinex"
 }

@@ -1,146 +1,558 @@
 {
-  "namespace": "zaif",
   "description": "ns_id is ticker symbol in zaif's trade history.",
   "map": [
-    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
-    { "ns_id": "MONA", "id": "CGDTFKZHWYPQ" },
-    { "ns_id": "ZAIF", "id": "CLYTWVGDXKQP" },
-    { "ns_id": "XEM", "id": "CFKXTVWLYGPZ" },
-    { "ns_id": "PEPECASH", "id": "CGTJWQLZDNXY" },
-    { "ns_id": "JPYZ", "id": "CJQZNYVPTDWX" },
-    { "ns_id": "CICC", "id": "CHZDVQFWKXGT" },
-    { "ns_id": "FSCC", "id": "CVDNWZLPYJXH" },
-    { "ns_id": "NCXC", "id": "CNPQTFVWGDLZ" },
-    { "ns_id": "XCP", "id": "CQHTZYNGJWVF" },
-    { "ns_id": "SJCX", "id": "CJTYKFXHVLZN" },
-    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
-    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
-
-    { "ns_id": "BITCRYSTALS", "id": "CQVKFGZJTDPX" },
-    { "ns_id": "ERC20.CMS", "id": "CTYFVQJKNDHW" },
-    { "ns_id": "MOSAIC.CMS", "id": "CKYQTDNWFJPH" },
-
-    { "ns_id": "BITGIRLSI", "id": "CWPJKHNFTZXG" },
-    { "ns_id": "BITGIRLSII", "id": "CTXJQNGVLYWZ" },
-    { "ns_id": "CHIKARIN", "id": "CDWNQYZFTXLV" },
-    { "ns_id": "CHIKARINBG", "id": "CKZDVXJNWTFL" },
-    { "ns_id": "CHIKARINVIX", "id": "CFNTLDPGVWHK" },
-    { "ns_id": "DJASANYAN", "id": "CQKXVFGNZJYP" },
-    { "ns_id": "DJASANYANBG", "id": "CYZFLDKNPTGJ" },
-    { "ns_id": "DJASANYANVIX", "id": "CZTXJNFYPWDG" },
-    { "ns_id": "HINANOMAI", "id": "CKVYJGLPDNFT" },
-    { "ns_id": "HINANOMAIBG", "id": "CDQTFZLHWNJP" },
-    { "ns_id": "HYOU", "id": "CJNZLQYXKDWP" },
-    { "ns_id": "ICHARLOTTE", "id": "CNKJWGFLQYZV" },
-    { "ns_id": "ICHARLOTTEBG", "id": "CLYNTVGXDZQW" },
-    { "ns_id": "ITSUKI", "id": "CYVZNJPXGKFD" },
-    { "ns_id": "ITSUKIBG", "id": "CVTNPJZKQHXY" },
-    { "ns_id": "KAORI", "id": "CQYZVLKTJGDP" },
-    { "ns_id": "KAORIBG", "id": "CWPVHZQLFYKN" },
-    { "ns_id": "KINOBG", "id": "CWTYFJNGQVHP" },
-    { "ns_id": "KINOKOUSAKA", "id": "CZXKNDVPQWTH" },
-    { "ns_id": "LEENA", "id": "CQNFDGHVYZTX" },
-    { "ns_id": "LEENABG", "id": "CWZDVQGYKFNT" },
-    { "ns_id": "MAGATAMABL", "id": "CGNHLZYJQPVK" },
-    { "ns_id": "MAGATAMABLFR", "id": "CHWXTQFZGJPK" },
-    { "ns_id": "MAGATAMABLFV", "id": "CLYNTJDZHWFQ" },
-    { "ns_id": "MAGATAMABLON", "id": "CLTXWVQGHYZP" },
-    { "ns_id": "MAGATAMABLSV", "id": "CYPTLVXKDQJN" },
-    { "ns_id": "MAGATAMABLSX", "id": "CWKPZNTLJHGQ" },
-    { "ns_id": "MAGATAMABLTH", "id": "CFVNKWHLXYZQ" },
-    { "ns_id": "MAGATAMABLTW", "id": "CKYXQFNZWTPG" },
-    { "ns_id": "MAGATAMABZ", "id": "CQNGXKPFTHLW" },
-    { "ns_id": "MAGATAMAGN", "id": "CPZDXGFJQNHK" },
-    { "ns_id": "MAGATAMAGNFR", "id": "CLPZGNXWHKTQ" },
-    { "ns_id": "MAGATAMAGNFV", "id": "CLNJHWTVPXGK" },
-    { "ns_id": "MAGATAMAGNON", "id": "CWTGNJDHZPXF" },
-    { "ns_id": "MAGATAMAGNSV", "id": "CZHFLWTXGQPJ" },
-    { "ns_id": "MAGATAMAGNSX", "id": "CHPDFNWJXGKL" },
-    { "ns_id": "MAGATAMAGNTH", "id": "CYDGPFQVLXWK" },
-    { "ns_id": "MAGATAMAGNTW", "id": "CKPGDTYNHVXZ" },
-    { "ns_id": "MAGATAMAMIJN", "id": "CHZNLDGXQVPF" },
-    { "ns_id": "MAGATAMARD", "id": "CTGVPYFXJHQZ" },
-    { "ns_id": "MAGATAMARDFR", "id": "CLXFQYVPDHWZ" },
-    { "ns_id": "MAGATAMARDFV", "id": "CYLHNKPXFDZJ" },
-    { "ns_id": "MAGATAMARDON", "id": "CXKNYGWFLQTH" },
-    { "ns_id": "MAGATAMARDSV", "id": "CTNLQJWGZVDX" },
-    { "ns_id": "MAGATAMARDSX", "id": "CVWNKJPLYZHT" },
-    { "ns_id": "MAGATAMARDTH", "id": "CLXHFJGPYZQV" },
-    { "ns_id": "MAGATAMARDTW", "id": "CGQYJTHZPDLN" },
-    { "ns_id": "MAGATAMATQ", "id": "CNDGHPWFTZYJ" },
-    { "ns_id": "MAGATAMATQFR", "id": "CGWVJNTLZQHX" },
-    { "ns_id": "MAGATAMATQFV", "id": "CHNFVDQGKPZX" },
-    { "ns_id": "MAGATAMATQON", "id": "CVLYHTDZPWQN" },
-    { "ns_id": "MAGATAMATQSV", "id": "CWZGJXYKFPDQ" },
-    { "ns_id": "MAGATAMATQSX", "id": "CTYHDLZXFVGQ" },
-    { "ns_id": "MAGATAMATQTH", "id": "CNZTYGFJXQPK" },
-    { "ns_id": "MAGATAMATQTW", "id": "CFLYQPVHJKGW" },
-    { "ns_id": "MAGATAMAVT", "id": "CGDTWYKFVPJL" },
-    { "ns_id": "MAGATAMAVTFR", "id": "CVQYDGFNLHTZ" },
-    { "ns_id": "MAGATAMAVTFV", "id": "CLKVHQYTWNPZ" },
-    { "ns_id": "MAGATAMAVTON", "id": "CHFTQXNVZJDL" },
-    { "ns_id": "MAGATAMAVTSV", "id": "CTJPKWQNHGYF" },
-    { "ns_id": "MAGATAMAVTSX", "id": "CZQPVJHTNDWK" },
-    { "ns_id": "MAGATAMAVTTH", "id": "CVPHXJTYWGKD" },
-    { "ns_id": "MAGATAMAVTTW", "id": "CGZQLTVYHDNW" },
-    { "ns_id": "MAGATAMAWT", "id": "CHPWVZTJLDYX" },
-    { "ns_id": "MAGATAMAWTFR", "id": "CKZDVQHPFYJL" },
-    { "ns_id": "MAGATAMAWTFV", "id": "CTQVJFKPDLGH" },
-    { "ns_id": "MAGATAMAWTON", "id": "CHZQFYPNVTLJ" },
-    { "ns_id": "MAGATAMAWTSV", "id": "CVKGNPDLHYTX" },
-    { "ns_id": "MAGATAMAWTSX", "id": "CDWNTXGKZLHP" },
-    { "ns_id": "MAGATAMAWTTH", "id": "CXHKPYWDNZLV" },
-    { "ns_id": "MAGATAMAWTTW", "id": "CKPYJWGVZTQH" },
-    { "ns_id": "MAGATAMAYL", "id": "CHJDKWNXFPTY" },
-    { "ns_id": "MAGATAMAYLFR", "id": "CFGVTHKJPDXY" },
-    { "ns_id": "MAGATAMAYLFV", "id": "CXZJQVTDLWKP" },
-    { "ns_id": "MAGATAMAYLON", "id": "CDGNVZTJQFLX" },
-    { "ns_id": "MAGATAMAYLSV", "id": "CYQLZXKNHVFJ" },
-    { "ns_id": "MAGATAMAYLSX", "id": "CYQLJHNGPDWK" },
-    { "ns_id": "MAGATAMAYLTH", "id": "CFGKJHXPZTVW" },
-    { "ns_id": "MAGATAMAYLTW", "id": "CWFZGNTQYXPD" },
-    { "ns_id": "MAMICHANBG", "id": "CTYWDGLKPHVN" },
-    { "ns_id": "MAMICHANNEL", "id": "CFLGYJDWXPNQ" },
-    { "ns_id": "MIZUKI", "id": "CTFPZGDLHYKV" },
-    { "ns_id": "MIZUKIBG", "id": "CPTDJXFKNYZG" },
-    { "ns_id": "MIZUKIVIX", "id": "CNDKGQJVZPYF" },
-    { "ns_id": "NEMCARD", "id": "CKWPXZGDTHYV" },
-    { "ns_id": "PACHI", "id": "CTYKFZPDGQJH" },
-    { "ns_id": "RISAVIX", "id": "CXGZQLTYFDNP" },
-    { "ns_id": "RUMIRUMI", "id": "CJPZFQTYHWGN" },
-    { "ns_id": "RUMIRUMIBG", "id": "CFHYTQKJDPZG" },
-    { "ns_id": "RURU", "id": "CWVKHQFJTDLG" },
-    { "ns_id": "RURUBG", "id": "CHYWTZKVPNGX" },
-    { "ns_id": "SANOMAYA", "id": "CFXPHZTWQNDJ" },
-    { "ns_id": "SANOMAYABG", "id": "CXPDGJYQLHZF" },
-    { "ns_id": "SANOMAYAVIX", "id": "CGJLPZFHWVXT" },
-    { "ns_id": "SATOAYAKA", "id": "CZQPVJDXGKYH" },
-    { "ns_id": "SATOAYAKABG", "id": "CYVTJFZWQPHD" },
-    { "ns_id": "SHIMARENA", "id": "CHWZPLJQXNKG" },
-    { "ns_id": "SHIMARENABG", "id": "CYWHTNPLKQVZ" },
-    { "ns_id": "SHIRAHOSHI", "id": "CFQHTJKYGLPN" },
-    { "ns_id": "SHIRAHOSHIBG", "id": "CWKGHXLJVNYZ" },
-    { "ns_id": "SIRAHOSIVIX", "id": "CQYVLFDWPHTG" },
-    { "ns_id": "TOREKABUOPT", "id": "CZWVXKGPDQNH" },
-    { "ns_id": "TSUKASA", "id": "CDJQTPLNZYKW" },
-    { "ns_id": "TSUKASABG", "id": "CZYGWHKPDVXL" },
-    { "ns_id": "TSUKASAVIX", "id": "CDXHPFLZTNGK" },
-    { "ns_id": "XACEIGHT", "id": "CGTNJWLYHZDF" },
-    { "ns_id": "XACFIVE", "id": "CPGQXTVYKNJW" },
-    { "ns_id": "XACFOUR", "id": "CJDHTGFZNXVK" },
-    { "ns_id": "XACNINE", "id": "CPDGJHQZXKNW" },
-    { "ns_id": "XACONE", "id": "CDKVGLYTZHXP" },
-    { "ns_id": "XACSEVEN", "id": "CFYLHNKPZQGX" },
-    { "ns_id": "XACSIX", "id": "CQFWHGJDXTKL" },
-    { "ns_id": "XACTHREE", "id": "CTYFXGLPVWZK" },
-    { "ns_id": "XACTWO", "id": "CZWFQNKTPJDX" },
-    { "ns_id": "YAMAGUCHIA", "id": "CDLPFGWNXVHT" },
-    { "ns_id": "YAMAGUCHIABG", "id": "CJDFVPLHYGKZ" },
-    { "ns_id": "YOGIBOGOCPFR", "id": "CTQVXYZGLNWH" },
-    { "ns_id": "YOGIBOGOCPFV", "id": "CJDFXHKPVWQL" },
-    { "ns_id": "YOGIBOGOCPON", "id": "CKTQJVNXLYPH" },
-    { "ns_id": "YOGIBOGOCPSX", "id": "CPJKVWLDNFGX" },
-    { "ns_id": "YOGIBOGOCPTH", "id": "CTHFLPJVWKGD" },
-    { "ns_id": "YOGIBOGOCPTW", "id": "CVDJZYHNGXFP" }
-  ]
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCH"
+    },
+    {
+      "id": "CQVKFGZJTDPX",
+      "ns_id": "BITCRYSTALS"
+    },
+    {
+      "id": "CWPJKHNFTZXG",
+      "ns_id": "BITGIRLSI"
+    },
+    {
+      "id": "CTXJQNGVLYWZ",
+      "ns_id": "BITGIRLSII"
+    },
+    {
+      "id": "CJTFPXDVQHNG",
+      "ns_id": "BTC"
+    },
+    {
+      "id": "CDWNQYZFTXLV",
+      "ns_id": "CHIKARIN"
+    },
+    {
+      "id": "CKZDVXJNWTFL",
+      "ns_id": "CHIKARINBG"
+    },
+    {
+      "id": "CFNTLDPGVWHK",
+      "ns_id": "CHIKARINVIX"
+    },
+    {
+      "id": "CHZDVQFWKXGT",
+      "ns_id": "CICC"
+    },
+    {
+      "id": "CQKXVFGNZJYP",
+      "ns_id": "DJASANYAN"
+    },
+    {
+      "id": "CYZFLDKNPTGJ",
+      "ns_id": "DJASANYANBG"
+    },
+    {
+      "id": "CZTXJNFYPWDG",
+      "ns_id": "DJASANYANVIX"
+    },
+    {
+      "id": "CTYFVQJKNDHW",
+      "ns_id": "ERC20.CMS"
+    },
+    {
+      "id": "CPWTGZNVHKJF",
+      "ns_id": "ETH"
+    },
+    {
+      "id": "CVDNWZLPYJXH",
+      "ns_id": "FSCC"
+    },
+    {
+      "id": "CKVYJGLPDNFT",
+      "ns_id": "HINANOMAI"
+    },
+    {
+      "id": "CDQTFZLHWNJP",
+      "ns_id": "HINANOMAIBG"
+    },
+    {
+      "id": "CJNZLQYXKDWP",
+      "ns_id": "HYOU"
+    },
+    {
+      "id": "CNKJWGFLQYZV",
+      "ns_id": "ICHARLOTTE"
+    },
+    {
+      "id": "CLYNTVGXDZQW",
+      "ns_id": "ICHARLOTTEBG"
+    },
+    {
+      "id": "CYVZNJPXGKFD",
+      "ns_id": "ITSUKI"
+    },
+    {
+      "id": "CVTNPJZKQHXY",
+      "ns_id": "ITSUKIBG"
+    },
+    {
+      "id": "CJQZNYVPTDWX",
+      "ns_id": "JPYZ"
+    },
+    {
+      "id": "CQYZVLKTJGDP",
+      "ns_id": "KAORI"
+    },
+    {
+      "id": "CWPVHZQLFYKN",
+      "ns_id": "KAORIBG"
+    },
+    {
+      "id": "CWTYFJNGQVHP",
+      "ns_id": "KINOBG"
+    },
+    {
+      "id": "CZXKNDVPQWTH",
+      "ns_id": "KINOKOUSAKA"
+    },
+    {
+      "id": "CQNFDGHVYZTX",
+      "ns_id": "LEENA"
+    },
+    {
+      "id": "CWZDVQGYKFNT",
+      "ns_id": "LEENABG"
+    },
+    {
+      "id": "CGNHLZYJQPVK",
+      "ns_id": "MAGATAMABL"
+    },
+    {
+      "id": "CHWXTQFZGJPK",
+      "ns_id": "MAGATAMABLFR"
+    },
+    {
+      "id": "CLYNTJDZHWFQ",
+      "ns_id": "MAGATAMABLFV"
+    },
+    {
+      "id": "CLTXWVQGHYZP",
+      "ns_id": "MAGATAMABLON"
+    },
+    {
+      "id": "CYPTLVXKDQJN",
+      "ns_id": "MAGATAMABLSV"
+    },
+    {
+      "id": "CWKPZNTLJHGQ",
+      "ns_id": "MAGATAMABLSX"
+    },
+    {
+      "id": "CFVNKWHLXYZQ",
+      "ns_id": "MAGATAMABLTH"
+    },
+    {
+      "id": "CKYXQFNZWTPG",
+      "ns_id": "MAGATAMABLTW"
+    },
+    {
+      "id": "CQNGXKPFTHLW",
+      "ns_id": "MAGATAMABZ"
+    },
+    {
+      "id": "CPZDXGFJQNHK",
+      "ns_id": "MAGATAMAGN"
+    },
+    {
+      "id": "CLPZGNXWHKTQ",
+      "ns_id": "MAGATAMAGNFR"
+    },
+    {
+      "id": "CLNJHWTVPXGK",
+      "ns_id": "MAGATAMAGNFV"
+    },
+    {
+      "id": "CWTGNJDHZPXF",
+      "ns_id": "MAGATAMAGNON"
+    },
+    {
+      "id": "CZHFLWTXGQPJ",
+      "ns_id": "MAGATAMAGNSV"
+    },
+    {
+      "id": "CHPDFNWJXGKL",
+      "ns_id": "MAGATAMAGNSX"
+    },
+    {
+      "id": "CYDGPFQVLXWK",
+      "ns_id": "MAGATAMAGNTH"
+    },
+    {
+      "id": "CKPGDTYNHVXZ",
+      "ns_id": "MAGATAMAGNTW"
+    },
+    {
+      "id": "CHZNLDGXQVPF",
+      "ns_id": "MAGATAMAMIJN"
+    },
+    {
+      "id": "CTGVPYFXJHQZ",
+      "ns_id": "MAGATAMARD"
+    },
+    {
+      "id": "CLXFQYVPDHWZ",
+      "ns_id": "MAGATAMARDFR"
+    },
+    {
+      "id": "CYLHNKPXFDZJ",
+      "ns_id": "MAGATAMARDFV"
+    },
+    {
+      "id": "CXKNYGWFLQTH",
+      "ns_id": "MAGATAMARDON"
+    },
+    {
+      "id": "CTNLQJWGZVDX",
+      "ns_id": "MAGATAMARDSV"
+    },
+    {
+      "id": "CVWNKJPLYZHT",
+      "ns_id": "MAGATAMARDSX"
+    },
+    {
+      "id": "CLXHFJGPYZQV",
+      "ns_id": "MAGATAMARDTH"
+    },
+    {
+      "id": "CGQYJTHZPDLN",
+      "ns_id": "MAGATAMARDTW"
+    },
+    {
+      "id": "CNDGHPWFTZYJ",
+      "ns_id": "MAGATAMATQ"
+    },
+    {
+      "id": "CGWVJNTLZQHX",
+      "ns_id": "MAGATAMATQFR"
+    },
+    {
+      "id": "CHNFVDQGKPZX",
+      "ns_id": "MAGATAMATQFV"
+    },
+    {
+      "id": "CVLYHTDZPWQN",
+      "ns_id": "MAGATAMATQON"
+    },
+    {
+      "id": "CWZGJXYKFPDQ",
+      "ns_id": "MAGATAMATQSV"
+    },
+    {
+      "id": "CTYHDLZXFVGQ",
+      "ns_id": "MAGATAMATQSX"
+    },
+    {
+      "id": "CNZTYGFJXQPK",
+      "ns_id": "MAGATAMATQTH"
+    },
+    {
+      "id": "CFLYQPVHJKGW",
+      "ns_id": "MAGATAMATQTW"
+    },
+    {
+      "id": "CGDTWYKFVPJL",
+      "ns_id": "MAGATAMAVT"
+    },
+    {
+      "id": "CVQYDGFNLHTZ",
+      "ns_id": "MAGATAMAVTFR"
+    },
+    {
+      "id": "CLKVHQYTWNPZ",
+      "ns_id": "MAGATAMAVTFV"
+    },
+    {
+      "id": "CHFTQXNVZJDL",
+      "ns_id": "MAGATAMAVTON"
+    },
+    {
+      "id": "CTJPKWQNHGYF",
+      "ns_id": "MAGATAMAVTSV"
+    },
+    {
+      "id": "CZQPVJHTNDWK",
+      "ns_id": "MAGATAMAVTSX"
+    },
+    {
+      "id": "CVPHXJTYWGKD",
+      "ns_id": "MAGATAMAVTTH"
+    },
+    {
+      "id": "CGZQLTVYHDNW",
+      "ns_id": "MAGATAMAVTTW"
+    },
+    {
+      "id": "CHPWVZTJLDYX",
+      "ns_id": "MAGATAMAWT"
+    },
+    {
+      "id": "CKZDVQHPFYJL",
+      "ns_id": "MAGATAMAWTFR"
+    },
+    {
+      "id": "CTQVJFKPDLGH",
+      "ns_id": "MAGATAMAWTFV"
+    },
+    {
+      "id": "CHZQFYPNVTLJ",
+      "ns_id": "MAGATAMAWTON"
+    },
+    {
+      "id": "CVKGNPDLHYTX",
+      "ns_id": "MAGATAMAWTSV"
+    },
+    {
+      "id": "CDWNTXGKZLHP",
+      "ns_id": "MAGATAMAWTSX"
+    },
+    {
+      "id": "CXHKPYWDNZLV",
+      "ns_id": "MAGATAMAWTTH"
+    },
+    {
+      "id": "CKPYJWGVZTQH",
+      "ns_id": "MAGATAMAWTTW"
+    },
+    {
+      "id": "CHJDKWNXFPTY",
+      "ns_id": "MAGATAMAYL"
+    },
+    {
+      "id": "CFGVTHKJPDXY",
+      "ns_id": "MAGATAMAYLFR"
+    },
+    {
+      "id": "CXZJQVTDLWKP",
+      "ns_id": "MAGATAMAYLFV"
+    },
+    {
+      "id": "CDGNVZTJQFLX",
+      "ns_id": "MAGATAMAYLON"
+    },
+    {
+      "id": "CYQLZXKNHVFJ",
+      "ns_id": "MAGATAMAYLSV"
+    },
+    {
+      "id": "CYQLJHNGPDWK",
+      "ns_id": "MAGATAMAYLSX"
+    },
+    {
+      "id": "CFGKJHXPZTVW",
+      "ns_id": "MAGATAMAYLTH"
+    },
+    {
+      "id": "CWFZGNTQYXPD",
+      "ns_id": "MAGATAMAYLTW"
+    },
+    {
+      "id": "CTYWDGLKPHVN",
+      "ns_id": "MAMICHANBG"
+    },
+    {
+      "id": "CFLGYJDWXPNQ",
+      "ns_id": "MAMICHANNEL"
+    },
+    {
+      "id": "CTFPZGDLHYKV",
+      "ns_id": "MIZUKI"
+    },
+    {
+      "id": "CPTDJXFKNYZG",
+      "ns_id": "MIZUKIBG"
+    },
+    {
+      "id": "CNDKGQJVZPYF",
+      "ns_id": "MIZUKIVIX"
+    },
+    {
+      "id": "CGDTFKZHWYPQ",
+      "ns_id": "MONA"
+    },
+    {
+      "id": "CKYQTDNWFJPH",
+      "ns_id": "MOSAIC.CMS"
+    },
+    {
+      "id": "CNPQTFVWGDLZ",
+      "ns_id": "NCXC"
+    },
+    {
+      "id": "CKWPXZGDTHYV",
+      "ns_id": "NEMCARD"
+    },
+    {
+      "id": "CTYKFZPDGQJH",
+      "ns_id": "PACHI"
+    },
+    {
+      "id": "CGTJWQLZDNXY",
+      "ns_id": "PEPECASH"
+    },
+    {
+      "id": "CXGZQLTYFDNP",
+      "ns_id": "RISAVIX"
+    },
+    {
+      "id": "CJPZFQTYHWGN",
+      "ns_id": "RUMIRUMI"
+    },
+    {
+      "id": "CFHYTQKJDPZG",
+      "ns_id": "RUMIRUMIBG"
+    },
+    {
+      "id": "CWVKHQFJTDLG",
+      "ns_id": "RURU"
+    },
+    {
+      "id": "CHYWTZKVPNGX",
+      "ns_id": "RURUBG"
+    },
+    {
+      "id": "CFXPHZTWQNDJ",
+      "ns_id": "SANOMAYA"
+    },
+    {
+      "id": "CXPDGJYQLHZF",
+      "ns_id": "SANOMAYABG"
+    },
+    {
+      "id": "CGJLPZFHWVXT",
+      "ns_id": "SANOMAYAVIX"
+    },
+    {
+      "id": "CZQPVJDXGKYH",
+      "ns_id": "SATOAYAKA"
+    },
+    {
+      "id": "CYVTJFZWQPHD",
+      "ns_id": "SATOAYAKABG"
+    },
+    {
+      "id": "CHWZPLJQXNKG",
+      "ns_id": "SHIMARENA"
+    },
+    {
+      "id": "CYWHTNPLKQVZ",
+      "ns_id": "SHIMARENABG"
+    },
+    {
+      "id": "CFQHTJKYGLPN",
+      "ns_id": "SHIRAHOSHI"
+    },
+    {
+      "id": "CWKGHXLJVNYZ",
+      "ns_id": "SHIRAHOSHIBG"
+    },
+    {
+      "id": "CQYVLFDWPHTG",
+      "ns_id": "SIRAHOSIVIX"
+    },
+    {
+      "id": "CJTYKFXHVLZN",
+      "ns_id": "SJCX"
+    },
+    {
+      "id": "CZWVXKGPDQNH",
+      "ns_id": "TOREKABUOPT"
+    },
+    {
+      "id": "CDJQTPLNZYKW",
+      "ns_id": "TSUKASA"
+    },
+    {
+      "id": "CZYGWHKPDVXL",
+      "ns_id": "TSUKASABG"
+    },
+    {
+      "id": "CDXHPFLZTNGK",
+      "ns_id": "TSUKASAVIX"
+    },
+    {
+      "id": "CGTNJWLYHZDF",
+      "ns_id": "XACEIGHT"
+    },
+    {
+      "id": "CPGQXTVYKNJW",
+      "ns_id": "XACFIVE"
+    },
+    {
+      "id": "CJDHTGFZNXVK",
+      "ns_id": "XACFOUR"
+    },
+    {
+      "id": "CPDGJHQZXKNW",
+      "ns_id": "XACNINE"
+    },
+    {
+      "id": "CDKVGLYTZHXP",
+      "ns_id": "XACONE"
+    },
+    {
+      "id": "CFYLHNKPZQGX",
+      "ns_id": "XACSEVEN"
+    },
+    {
+      "id": "CQFWHGJDXTKL",
+      "ns_id": "XACSIX"
+    },
+    {
+      "id": "CTYFXGLPVWZK",
+      "ns_id": "XACTHREE"
+    },
+    {
+      "id": "CZWFQNKTPJDX",
+      "ns_id": "XACTWO"
+    },
+    {
+      "id": "CQHTZYNGJWVF",
+      "ns_id": "XCP"
+    },
+    {
+      "id": "CFKXTVWLYGPZ",
+      "ns_id": "XEM"
+    },
+    {
+      "id": "CDLPFGWNXVHT",
+      "ns_id": "YAMAGUCHIA"
+    },
+    {
+      "id": "CJDFVPLHYGKZ",
+      "ns_id": "YAMAGUCHIABG"
+    },
+    {
+      "id": "CTQVXYZGLNWH",
+      "ns_id": "YOGIBOGOCPFR"
+    },
+    {
+      "id": "CJDFXHKPVWQL",
+      "ns_id": "YOGIBOGOCPFV"
+    },
+    {
+      "id": "CKTQJVNXLYPH",
+      "ns_id": "YOGIBOGOCPON"
+    },
+    {
+      "id": "CPJKVWLDNFGX",
+      "ns_id": "YOGIBOGOCPSX"
+    },
+    {
+      "id": "CTHFLPJVWKGD",
+      "ns_id": "YOGIBOGOCPTH"
+    },
+    {
+      "id": "CVDJZYHNGXFP",
+      "ns_id": "YOGIBOGOCPTW"
+    },
+    {
+      "id": "CLYTWVGDXKQP",
+      "ns_id": "ZAIF"
+    }
+  ],
+  "namespace": "zaif"
 }

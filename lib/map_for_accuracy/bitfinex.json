@@ -1,62 +1,228 @@
 {
-  "namespace": "bitfinex",
   "description": "Mapping for bitfinex trade history file",
   "map": [
-    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
-    { "ns_id": "NEO", "id": "CDLPFYJTZNXW" },
-    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "2018-06-02T22:00:00Z" },
-    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "2018-06-02T22:00:00Z" },
-    { "ns_id": "IOT", "id": "CJPQKYNXZTGL" },
-    { "ns_id": "MNA", "id": "CHTPLJNVGDWQ" },
-    { "ns_id": "MIT", "id": "CYLTXGQFHZWP" },
-    { "ns_id": "PAI", "id": "CPKYVFQJNWZH" },
-    { "ns_id": "QSH", "id": "CKPHZNTQWLYF" },
-    { "ns_id": "SNG", "id": "CPNXFZKTLDWQ" },
-    { "ns_id": "SPK", "id": "CPQNWKHZDVXT" },
-    { "ns_id": "STJ", "id": "CLXHYGWNVPJZ" },
-    { "ns_id": "USD", "id": "CZYHDQPFNXWJ" },
-    { "ns_id": "YYW", "id": "CDKVHXFLTGYQ" },
-
-    { "ns_id": "AGI", "id": "CDPVXFNLWJKY" },
-    { "ns_id": "AID", "id": "CFXPGNHTVZJW" },
-    { "ns_id": "ANT", "id": "CQTHFLYKGVPN" },
-    { "ns_id": "AVT", "id": "CHFNLYGXWQKZ" },
-    { "ns_id": "BAT", "id": "CHNWYVZTQFJX" },
-    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
-    { "ns_id": "BCI", "id": "CQPGTDNYXKFV" },
-    { "ns_id": "BT1", "id": "CPNZKQVLHTFW" },
-    { "ns_id": "BT2", "id": "CJWKDFVXZYQH" },
-    { "ns_id": "BTC", "id": "CJTFPXDVQHNG" },
-    { "ns_id": "BTG", "id": "CFKZNTXJLVYW" },
-    { "ns_id": "BTU", "id": "CVNPJZFLTKGQ" },
-    { "ns_id": "DASH", "id": "CQLJDHKWNZXP" },
-    { "ns_id": "DATA", "id": "CKNFLPZTJQGH" },
-    { "ns_id": "DTH", "id": "CFNPJXGHKDYQ" },
-    { "ns_id": "EDO", "id": "CQYXFLPJVHWG" },
-    { "ns_id": "ELF", "id": "CHVGXYKFQJWL" },
-    { "ns_id": "ETC", "id": "CKPFHDWXZVGQ" },
-    { "ns_id": "ETH", "id": "CPWTGZNVHKJF" },
-    { "ns_id": "ETP", "id": "CXZVYWFTPQGJ" },
-    { "ns_id": "FUN", "id": "CVKDPYQLNGJX" },
-    { "ns_id": "GNT", "id": "CQNWYPFVZHGT" },
-    { "ns_id": "LTC", "id": "CJNXVGZQLDFY" },
-    { "ns_id": "ODE", "id": "CWLNTJFYZQHX" },
-    { "ns_id": "OMG", "id": "CNQYVDZWFPHJ" },
-    { "ns_id": "QTUM", "id": "CQFHKZYLGWNV" },
-    { "ns_id": "RCN", "id": "CJLDFWGKHNQX" },
-    { "ns_id": "REP", "id": "CFLYXPHZKTNV" },
-    { "ns_id": "RLC", "id": "CVKGNDZPQTFY" },
-    { "ns_id": "SAN", "id": "CLWNDTJGVHQK" },
-    { "ns_id": "SNT", "id": "CGXWZQFVPKJH" },
-    { "ns_id": "TNB", "id": "CQPYKWLNHVFD" },
-    { "ns_id": "TRX", "id": "CDVYLJGFXHZK" },
-    { "ns_id": "USDT", "id": "CZYHDQPFNXWJ" },
-    { "ns_id": "WAX", "id": "CYFXPHZJTKQN" },
-    { "ns_id": "XLM", "id": "CDYZWFQLHTPX" },
-    { "ns_id": "XMR", "id": "CLTJPFYZNVWG" },
-    { "ns_id": "XRP", "id": "CDJXFTVWNLYH" },
-    { "ns_id": "XVG", "id": "CKTHPFLVDYJG" },
-    { "ns_id": "ZEC", "id": "CWKDPXJQHZGF" },
-    { "ns_id": "ZRX", "id": "CGTNDFPLXYHZ" }
-  ]
+    {
+      "id": "CDPVXFNLWJKY",
+      "ns_id": "AGI"
+    },
+    {
+      "id": "CFXPGNHTVZJW",
+      "ns_id": "AID"
+    },
+    {
+      "id": "CDLPFYJTZNXW",
+      "ns_id": "ANS"
+    },
+    {
+      "id": "CQTHFLYKGVPN",
+      "ns_id": "ANT"
+    },
+    {
+      "id": "CHFNLYGXWQKZ",
+      "ns_id": "AVT"
+    },
+    {
+      "id": "CHNWYVZTQFJX",
+      "ns_id": "BAT"
+    },
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCH"
+    },
+    {
+      "id": "CQPGTDNYXKFV",
+      "ns_id": "BCI"
+    },
+    {
+      "id": "CPNZKQVLHTFW",
+      "ns_id": "BT1"
+    },
+    {
+      "id": "CJWKDFVXZYQH",
+      "ns_id": "BT2"
+    },
+    {
+      "id": "CJTFPXDVQHNG",
+      "ns_id": "BTC"
+    },
+    {
+      "id": "CFKZNTXJLVYW",
+      "ns_id": "BTG"
+    },
+    {
+      "id": "CVNPJZFLTKGQ",
+      "ns_id": "BTU"
+    },
+    {
+      "id": "CQLJDHKWNZXP",
+      "ns_id": "DASH"
+    },
+    {
+      "id": "CKNFLPZTJQGH",
+      "ns_id": "DATA"
+    },
+    {
+      "id": "CFNPJXGHKDYQ",
+      "ns_id": "DTH"
+    },
+    {
+      "id": "CQYXFLPJVHWG",
+      "ns_id": "EDO"
+    },
+    {
+      "id": "CHVGXYKFQJWL",
+      "ns_id": "ELF"
+    },
+    {
+      "from": "2018-06-02T22:00:00Z",
+      "id": "CPXQGHKTDLYJ",
+      "ns_id": "EOS"
+    },
+    {
+      "id": "CTFLDWZYQKXG",
+      "ns_id": "EOS",
+      "to": "2018-06-02T22:00:00Z"
+    },
+    {
+      "id": "CKPFHDWXZVGQ",
+      "ns_id": "ETC"
+    },
+    {
+      "id": "CPWTGZNVHKJF",
+      "ns_id": "ETH"
+    },
+    {
+      "id": "CXZVYWFTPQGJ",
+      "ns_id": "ETP"
+    },
+    {
+      "id": "CVKDPYQLNGJX",
+      "ns_id": "FUN"
+    },
+    {
+      "id": "CQNWYPFVZHGT",
+      "ns_id": "GNT"
+    },
+    {
+      "id": "CJPQKYNXZTGL",
+      "ns_id": "IOT"
+    },
+    {
+      "id": "CJNXVGZQLDFY",
+      "ns_id": "LTC"
+    },
+    {
+      "id": "CYLTXGQFHZWP",
+      "ns_id": "MIT"
+    },
+    {
+      "id": "CHTPLJNVGDWQ",
+      "ns_id": "MNA"
+    },
+    {
+      "id": "CDLPFYJTZNXW",
+      "ns_id": "NEO"
+    },
+    {
+      "id": "CWLNTJFYZQHX",
+      "ns_id": "ODE"
+    },
+    {
+      "id": "CNQYVDZWFPHJ",
+      "ns_id": "OMG"
+    },
+    {
+      "id": "CPKYVFQJNWZH",
+      "ns_id": "PAI"
+    },
+    {
+      "id": "CKPHZNTQWLYF",
+      "ns_id": "QSH"
+    },
+    {
+      "id": "CQFHKZYLGWNV",
+      "ns_id": "QTUM"
+    },
+    {
+      "id": "CJLDFWGKHNQX",
+      "ns_id": "RCN"
+    },
+    {
+      "id": "CFLYXPHZKTNV",
+      "ns_id": "REP"
+    },
+    {
+      "id": "CVKGNDZPQTFY",
+      "ns_id": "RLC"
+    },
+    {
+      "id": "CLWNDTJGVHQK",
+      "ns_id": "SAN"
+    },
+    {
+      "id": "CPNXFZKTLDWQ",
+      "ns_id": "SNG"
+    },
+    {
+      "id": "CGXWZQFVPKJH",
+      "ns_id": "SNT"
+    },
+    {
+      "id": "CPQNWKHZDVXT",
+      "ns_id": "SPK"
+    },
+    {
+      "id": "CLXHYGWNVPJZ",
+      "ns_id": "STJ"
+    },
+    {
+      "id": "CQPYKWLNHVFD",
+      "ns_id": "TNB"
+    },
+    {
+      "id": "CDVYLJGFXHZK",
+      "ns_id": "TRX"
+    },
+    {
+      "id": "CZYHDQPFNXWJ",
+      "ns_id": "USD"
+    },
+    {
+      "id": "CZYHDQPFNXWJ",
+      "ns_id": "USDT"
+    },
+    {
+      "id": "CYFXPHZJTKQN",
+      "ns_id": "WAX"
+    },
+    {
+      "id": "CDYZWFQLHTPX",
+      "ns_id": "XLM"
+    },
+    {
+      "id": "CLTJPFYZNVWG",
+      "ns_id": "XMR"
+    },
+    {
+      "id": "CDJXFTVWNLYH",
+      "ns_id": "XRP"
+    },
+    {
+      "id": "CKTHPFLVDYJG",
+      "ns_id": "XVG"
+    },
+    {
+      "id": "CDKVHXFLTGYQ",
+      "ns_id": "YYW"
+    },
+    {
+      "id": "CWKDPXJQHZGF",
+      "ns_id": "ZEC"
+    },
+    {
+      "id": "CGTNDFPLXYHZ",
+      "ns_id": "ZRX"
+    }
+  ],
+  "namespace": "bitfinex"
 }

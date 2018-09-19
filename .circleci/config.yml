@@ -1,11 +1,29 @@
 version: 2
 jobs:
-  Test:
+  Javascript Test:
+    docker:
+      - image: circleci/node:8
+    working_directory: ~/crypto-db
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+          - npm-dependencies-{{ checksum "~/crypto-db/package.json" }}
+      - run:
+          name: Install NPM Dependencies
+          command: npm install
+      - save_cache:
+          paths:
+            - ~/crypto-db/node_modules
+          key: npm-dependencies-{{ checksum "~/crypto-db/package.json" }}
+      - run:
+          name: Run Tests
+          command: npm run test
+
+  Python Test:
     docker:
       - image: circleci/python:3.6.6
-
     working_directory: ~/crypto-db
-
     steps:
       - checkout
       - restore_cache:
@@ -29,8 +47,10 @@ jobs:
           command: |
             . venv/bin/activate
             pytest
+
 workflows:
   version: 2
-  test:
+  Test:
     jobs:
-      - Test
+      - Javascript Test
+      - Python Test

@@ -1,27 +1,92 @@
 {
-  "namespace": "kraken",
   "description": "ns_id is ticker symbol in kraken.",
   "map": [
-    { "ns_id": "BCH", "id": "CWKHNDXQGFTP" },
-    { "ns_id": "DASH", "id": "CQLJDHKWNZXP" },
-    { "ns_id": "EOS", "id": "CTFLDWZYQKXG", "to": "2018-06-02T22:00:00Z" },
-    { "ns_id": "EOS", "id": "CPXQGHKTDLYJ", "from": "2018-06-02T22:00:00Z" },
-    { "ns_id": "GNO", "id": "CXHKLJZWDTGQ" },
-    { "ns_id": "USDT", "id": "CZYHDQPFNXWJ" },
-    { "ns_id": "XDAO", "id": "CGTQKHJVXWPN" },
-    { "ns_id": "XETC", "id": "CKPFHDWXZVGQ" },
-    { "ns_id": "XETH", "id": "CPWTGZNVHKJF" },
-    { "ns_id": "XICN", "id": "CTKLWYQPDFGZ" },
-    { "ns_id": "XLTC", "id": "CJNXVGZQLDFY" },
-    { "ns_id": "XMLN", "id": "CVTJPKWFHGLZ" },
-    { "ns_id": "XNMC", "id": "CZVNPTGFQWJK" },
-    { "ns_id": "XREP", "id": "CFLYXPHZKTNV" },
-    { "ns_id": "XXBT", "id": "CJTFPXDVQHNG" },
-    { "ns_id": "XXDG", "id": "CLDGTPZFQNVH" },
-    { "ns_id": "XXLM", "id": "CDYZWFQLHTPX" },
-    { "ns_id": "XXMR", "id": "CLTJPFYZNVWG" },
-    { "ns_id": "XXVN", "id": "CHKPNJXQVDFW" },
-    { "ns_id": "XXRP", "id": "CDJXFTVWNLYH" },
-    { "ns_id": "XZEC", "id": "CWKDPXJQHZGF" }
-  ]
+    {
+      "id": "CWKHNDXQGFTP",
+      "ns_id": "BCH"
+    },
+    {
+      "id": "CQLJDHKWNZXP",
+      "ns_id": "DASH"
+    },
+    {
+      "from": "2018-06-02T22:00:00Z",
+      "id": "CPXQGHKTDLYJ",
+      "ns_id": "EOS"
+    },
+    {
+      "id": "CTFLDWZYQKXG",
+      "ns_id": "EOS",
+      "to": "2018-06-02T22:00:00Z"
+    },
+    {
+      "id": "CXHKLJZWDTGQ",
+      "ns_id": "GNO"
+    },
+    {
+      "id": "CZYHDQPFNXWJ",
+      "ns_id": "USDT"
+    },
+    {
+      "id": "CGTQKHJVXWPN",
+      "ns_id": "XDAO"
+    },
+    {
+      "id": "CKPFHDWXZVGQ",
+      "ns_id": "XETC"
+    },
+    {
+      "id": "CPWTGZNVHKJF",
+      "ns_id": "XETH"
+    },
+    {
+      "id": "CTKLWYQPDFGZ",
+      "ns_id": "XICN"
+    },
+    {
+      "id": "CJNXVGZQLDFY",
+      "ns_id": "XLTC"
+    },
+    {
+      "id": "CVTJPKWFHGLZ",
+      "ns_id": "XMLN"
+    },
+    {
+      "id": "CZVNPTGFQWJK",
+      "ns_id": "XNMC"
+    },
+    {
+      "id": "CFLYXPHZKTNV",
+      "ns_id": "XREP"
+    },
+    {
+      "id": "CJTFPXDVQHNG",
+      "ns_id": "XXBT"
+    },
+    {
+      "id": "CLDGTPZFQNVH",
+      "ns_id": "XXDG"
+    },
+    {
+      "id": "CDYZWFQLHTPX",
+      "ns_id": "XXLM"
+    },
+    {
+      "id": "CLTJPFYZNVWG",
+      "ns_id": "XXMR"
+    },
+    {
+      "id": "CDJXFTVWNLYH",
+      "ns_id": "XXRP"
+    },
+    {
+      "id": "CHKPNJXQVDFW",
+      "ns_id": "XXVN"
+    },
+    {
+      "id": "CWKDPXJQHZGF",
+      "ns_id": "XZEC"
+    }
+  ],
+  "namespace": "kraken"
 }
