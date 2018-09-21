@@ -1,5 +1,9 @@
 # crypto-db
 
+## v1.2.1 / 2018-09-21
+- Add a crypto-action "LGD" to "MORE".
+- Add keywords to package.json.
+
 ## v1.2.0 / 2018-09-19
 - Add tests using mocha
 - Add `.npmignore` to remove scripts and config from published package
