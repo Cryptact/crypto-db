@@ -1,7 +1,6 @@
 {
   "description": "Mapping for bittrex trade history.",
   "map": [
-<<<<<<< HEAD
     {
       "id": "CDLPFYJTZNXW",
       "ns_id": "ANS"
@@ -33,15 +32,4 @@
     }
   ],
   "namespace": "bittrex"
-=======
-    { "ns_id": "ANS", "id": "CDLPFYJTZNXW" },
-    { "ns_id": "BCC", "id": "CWKHNDXQGFTP", "to": "2018-06-20T22:00:00Z" },
-    { "ns_id": "LGD", "id": "CPHXQGTJKVWD", "to": "2018-06-20T22:00:00Z" },
-
-    { "ns_id": "SWIFT", "id": "CYXLWHTDVZKQ", "to": "2018-06-20T22:00:00Z" },
-    { "ns_id": "BITS", "id": "CYXLWHTDVZKQ", "from": "2018-06-20T22:00:00Z" },
-    { "ns_id": "TRX", "id": "CKQTLYPVHZND", "to": "2018-06-24T16:00:00Z" },
-    { "ns_id": "TRX", "id": "CDVYLJGFXHZK", "from": "2018-06-24T16:00:00Z" }
-  ]
->>>>>>> LGD rebranded as MORE.
 }
