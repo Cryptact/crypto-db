@@ -10761,7 +10761,7 @@
   },
   "CQLNJGXFKTHP": {
     "id": "CQLNJGXFKTHP",
-    "name": "VeChain",
+    "name": "VeChain(ERC20)",
     "symbol": "VEN"
   },
   "CHKPNJXQVDFW": {
@@ -10773,6 +10773,11 @@
     "id": "CYVJDZHPXKQW",
     "name": "Veritaseum",
     "symbol": "VERI"
+  },
+  "CGWNVHKYFDTX": {
+    "id": "CGWNVHKYFDTX",
+    "name": "VeChainThor",
+    "symbol": "VET"
   },
   "CJTGXKHVFPYW": {
     "id": "CJTGXKHVFPYW",

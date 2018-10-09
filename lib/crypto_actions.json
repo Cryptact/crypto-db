@@ -115,5 +115,16 @@
     "sources": ["https://blog.red-pulse.com/phoenix-token-swap-39f2d0f49777"],
     "reported": "2018-07-26T00:00:00Z",
     "executed": "2018-08-15T00:00:00Z"
+  },
+  "CAZQTYLDVHFK": {
+    "action_id": "CAZQTYLDVHFK",
+    "ids": ["CQLNJGXFKTHP", "CGWNVHKYFDTX"],
+    "namespace": "crypto-db",
+    "type": "Mainnet Launch",
+    "description": "VeChain launched mainnet",
+    "sources": [
+      "https://twitter.com/vechainofficial/status/1009799751791886336"
+    ],
+    "reported": "2018-06-21T14:06:00Z"
   }
 }
