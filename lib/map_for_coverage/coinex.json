@@ -18,6 +18,10 @@
       "id": "CTFLDWZYQKXG",
       "ns_id": "EOS",
       "to": "2018-06-02T22:00:00Z"
+    },
+    {
+      "id": "CJTNYQPLZDVX",
+      "ns_id": "HOT"
     }
   ],
   "namespace": "coinex"
