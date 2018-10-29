@@ -1,14 +1,18 @@
 {
   "CAGTXDHPQJKV": {
     "action_id": "CAGTXDHPQJKV",
-    "ids": ["CDLPFYJTZNXW"],
+    "ids": [
+      "CDLPFYJTZNXW"
+    ],
     "namespace": "crypto-db",
     "type": "Symbol Change",
     "description": "AntShares(symbol: ANS) changed its brand to NEO."
   },
   "CAQXHKYNGFDL": {
     "action_id": "CAQXHKYNGFDL",
-    "ids": ["CDNJLZXVKFTY"],
+    "ids": [
+      "CDNJLZXVKFTY"
+    ],
     "namespace": "crypto-db",
     "type": "Symbol Change",
     "description": "XRB(RaiBlocks) was renamed to be NANO.",
@@ -19,18 +23,25 @@
   },
   "CAHZLFNTVWKY": {
     "action_id": "CAHZLFNTVWKY",
-    "ids": ["CGVLJZYFQNTH"],
+    "ids": [
+      "CGVLJZYFQNTH"
+    ],
     "namespace": "crypto-db",
     "type": "Symbol Change",
     "description": "BLAS(BlakeStar) rebranded as ERA.",
-    "sources": ["https://bitcointalk.org/index.php?topic=3120633.0"],
+    "sources": [
+      "https://bitcointalk.org/index.php?topic=3120633.0"
+    ],
     "reported": "2018-03-14T00:00:00Z",
     "executed": "2018-04-11T00:00:00Z"
   },
 
   "CALGZWXDYVTQ": {
     "action_id": "CALGZWXDYVTQ",
-    "ids": ["CJKQGYWVDFPT", "CPZDQTHJGYLX"],
+    "ids": [
+      "CJKQGYWVDFPT",
+      "CPZDQTHJGYLX"
+    ],
     "namespace": "crypto-db",
     "type": "Token Swap",
     "description": "Paccoin became $PAC, with token swap offered with varying ratio."
@@ -38,7 +49,10 @@
 
   "CAXQWKGDVTNZ": {
     "action_id": "CAXQWKGDVTNZ",
-    "ids": ["CTFLDWZYQKXG", "CPXQGHKTDLYJ"],
+    "ids": [
+      "CTFLDWZYQKXG",
+      "CPXQGHKTDLYJ"
+    ],
     "namespace": "crypto-db",
     "type": "Mainnet Launch",
     "description": "EOS to launch its own chain. Existing EOS tokens holders were offered coins on the mainnet if the swap was requested prior to this event.",
@@ -47,7 +61,9 @@
 
   "CAQYLTVPWDXF": {
     "action_id": "CAQYLTVPWDXF",
-    "ids": ["CPHXQGTJKVWD"],
+    "ids": [
+      "CPHXQGTJKVWD"
+    ],
     "namespace": "crypto-db",
     "type": "Symbol Change",
     "description": "LegendsRoom (LGD) rebranded as More Coin (MORE)",
@@ -60,7 +76,11 @@
 
   "CAFDJTWHVYXG": {
     "action_id": "CAFDJTWHVYXG",
-    "ids": ["CWKHNDXQGFTP", "CYXLWHTDVZKQ", "CPHXQGTJKVWD"],
+    "ids": [
+      "CWKHNDXQGFTP",
+      "CYXLWHTDVZKQ",
+      "CPHXQGTJKVWD"
+    ],
     "namespace": "bittrex",
     "type": "Symbol Change",
     "description": "Bittrex announced symbol changes; BCC to BCH, LGD to MORE, SWIFT to BITS ",
@@ -73,7 +93,10 @@
 
   "CAXZHGVPFYWJ": {
     "action_id": "CAXZHGVPFYWJ",
-    "ids": ["CKQTLYPVHZND", "CDVYLJGFXHZK"],
+    "ids": [
+      "CKQTLYPVHZND",
+      "CDVYLJGFXHZK"
+    ],
     "namespace": "crypto-db",
     "type": "Mainnet Launch",
     "description": "TRON(TRX) launched its own chain",
@@ -85,17 +108,27 @@
 
   "CAQZHLTWVPKN": {
     "action_id": "CAQZHLTWVPKN",
-    "ids": ["CQLJDHKWNZXP", "CWKDPXJQHZGF", "CLTJPFYZNVWG", "CFLYXPHZKTNV"],
+    "ids": [
+      "CQLJDHKWNZXP",
+      "CWKDPXJQHZGF",
+      "CLTJPFYZNVWG",
+      "CFLYXPHZKTNV"
+    ],
     "namespace": "coincheck",
     "type": "Delist",
     "description": "Coincheck delisted XMR,REP,DASH and ZEC as one of the counter measures for the administrative action paused by Japanese FSA on March 8th, 2018.",
-    "sources": ["https://corporate.coincheck.com/2018/05/18/56.html"],
+    "sources": [
+      "https://corporate.coincheck.com/2018/05/18/56.html"
+    ],
     "executed": "2018-06-18T00:00:00Z"
   },
 
   "CAJHPGZDVFWT": {
     "action_id": "CAJHPGZDVFWT",
-    "ids": ["CXGZVWNYFDKP", "CPFZKXYQNWGL"],
+    "ids": [
+      "CXGZVWNYFDKP",
+      "CPFZKXYQNWGL"
+    ],
     "namespace": "crypto-db",
     "type": "Mainnet Launch",
     "description": "Hshare mainnet launch as HyperCash",
@@ -108,17 +141,25 @@
 
   "CAJQPNLXWFTG": {
     "action_id": "CAJQPNLXWFTG",
-    "ids": ["CPXLFVGZYWQT", "CQLDGZWVXFPH"],
+    "ids": [
+      "CPXLFVGZYWQT",
+      "CQLDGZWVXFPH"
+    ],
     "namespace": "crypto-db",
     "type": "Token swap",
     "description": "Red pulse to offer token swap with ratio of 1:1",
-    "sources": ["https://blog.red-pulse.com/phoenix-token-swap-39f2d0f49777"],
+    "sources": [
+      "https://blog.red-pulse.com/phoenix-token-swap-39f2d0f49777"
+    ],
     "reported": "2018-07-26T00:00:00Z",
     "executed": "2018-08-15T00:00:00Z"
   },
   "CAZQTYLDVHFK": {
     "action_id": "CAZQTYLDVHFK",
-    "ids": ["CQLNJGXFKTHP", "CGWNVHKYFDTX"],
+    "ids": [
+      "CQLNJGXFKTHP",
+      "CGWNVHKYFDTX"
+    ],
     "namespace": "crypto-db",
     "type": "Mainnet Launch",
     "description": "VeChain launched mainnet",
