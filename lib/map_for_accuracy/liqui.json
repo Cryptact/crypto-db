@@ -1,0 +1,10 @@
+{
+  "description": "ns_id is ticker symbol in liqui.",
+  "map": [
+    {
+      "id": "CJTNYQPLZDVX",
+      "ns_id": "HOT"
+    }
+  ],
+  "namespace": "liqui"
+}
