@@ -1,5 +1,9 @@
 # crypto-db
 
+## v1.2.2 /2018-10-29
+- Add more coins
+- Run formatting
+
 ## v1.2.1 / 2018-09-21
 - Add a crypto-action "LGD" to "MORE".
 - Add keywords to package.json.
