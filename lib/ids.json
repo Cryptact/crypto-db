@@ -1009,6 +1009,11 @@
     "name": "BlockMason Credit Protocol",
     "symbol": "BCPT"
   },
+  "CNTLHVKPQYDF": {
+    "id": "CNTLHVKPQYDF",
+    "name": "Blockchain Store",
+    "symbol": "BCST"
+  },
   "CVDNXYGWHLJZ": {
     "id": "CVDNXYGWHLJZ",
     "name": "BitCapitalVendor",
@@ -6349,6 +6354,11 @@
     "name": "Litecoin Cash",
     "symbol": "LCC"
   },
+  "CQJNYWPVXTFZ": {
+    "id": "CQJNYWPVXTFZ",
+    "name": "Lucyd",
+    "symbol": "LCD"
+  },
   "CYHPDVTXQZLK": {
     "id": "CYHPDVTXQZLK",
     "name": "Litecoin Plus",
@@ -6453,11 +6463,6 @@
     "id": "CQTNHPFLGVYZ",
     "name": "Linfinity",
     "symbol": "LFT"
-  },
-  "CTFDWNZVPKYJ": {
-    "id": "CTFDWNZVPKYJ",
-    "name": "Legends Room",
-    "symbol": "LGD"
   },
   "CHGQVKDYZPXF": {
     "id": "CHGQVKDYZPXF",
@@ -7194,6 +7199,11 @@
     "name": "Measurable Data Token",
     "symbol": "MDT"
   },
+  "CNFTZXKLHGVP": {
+    "id": "CNFTZXKLHGVP",
+    "name": "Midex",
+    "symbol": "MDX"
+  },
   "CVWQNGDFZYKH": {
     "id": "CVWQNGDFZYKH",
     "name": "Megacoin",
@@ -7323,6 +7333,11 @@
     "id": "CTDJXYNVWLPK",
     "name": "MiloCoin",
     "symbol": "MILO"
+  },
+  "CDHQTLKYXNWJ": {
+    "id": "CDHQTLKYXNWJ",
+    "name": "Mindol",
+    "symbol": "MIN"
   },
   "CHJFVDPXWKZG": {
     "id": "CHJFVDPXWKZG",
@@ -7869,6 +7884,11 @@
     "name": "Nexo",
     "symbol": "NEXO"
   },
+  "CFPNXHGJDKTW": {
+    "id": "CFPNXHGJDKTW",
+    "name": "NO FAKE TODAU",
+    "symbol": "NFC"
+  },
   "CDYXLKWPGQJF": {
     "id": "CDYXLKWPGQJF",
     "name": "NAGA",
@@ -8213,6 +8233,11 @@
     "id": "CGYFVQZHJXTP",
     "name": "OKCash",
     "symbol": "OK"
+  },
+  "CPTGYNHZDVKQ": {
+    "id": "CPTGYNHZDVKQ",
+    "name": "OK Blockchain Token",
+    "symbol": "OKB"
   },
   "CFWVHDNJXTGY": {
     "id": "CFWVHDNJXTGY",
@@ -11629,6 +11654,11 @@
     "name": "U Network",
     "symbol": "UUU"
   },
+  "CQTGZDYVHXWF": {
+    "id": "CQTGZDYVHXWF",
+    "name": "Unizon",
+    "symbol": "UZN"
+  },
   "CWZDJFTYXLVP": {
     "id": "CWZDJFTYXLVP",
     "name": "Version",
@@ -11708,6 +11738,11 @@
     "id": "CPWNJQDLHFZK",
     "name": "Viacoin",
     "symbol": "VIA"
+  },
+  "CPYZKVFTLXQG": {
+    "id": "CPYZKVFTLXQG",
+    "name": "ViaBTC Token",
+    "symbol": "VIAT"
   },
   "CWNXFTZQPGYD": {
     "id": "CWNXFTZQPGYD",
@@ -12018,6 +12053,11 @@
     "id": "CNFTVGZJKDXP",
     "name": "Wagerr",
     "symbol": "WGR"
+  },
+  "CLDHJWTVNYQF": {
+    "id": "CLDHJWTVNYQF",
+    "name": "Wormhole",
+    "symbol": "WHC"
   },
   "CHNKJGDQTFWV": {
     "id": "CHNKJGDQTFWV",

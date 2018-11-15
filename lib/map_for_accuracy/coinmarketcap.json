@@ -62,6 +62,10 @@
       "ns_id": "9coin"
     },
     {
+      "id": "CJPQKYNXZTGL",
+      "ns_id": "IOTA"
+    },
+    {
       "id": "CTYGWDKQLJHN",
       "ns_id": "ab-chain-rtb"
     },
@@ -108,10 +112,6 @@
     {
       "id": "CZLDWHJGNXVT",
       "ns_id": "acre"
-    },
-    {
-      "id": "CLZKTDGYNPHQ",
-      "ns_id": "actinium"
     },
     {
       "id": "CDZKVFWXGJPY",
@@ -202,10 +202,6 @@
       "ns_id": "agrolifecoin"
     },
     {
-      "id": "CKYJXHFWPVTQ",
-      "ns_id": "agrolot"
-    },
-    {
       "id": "CJYNVPDLHWKG",
       "ns_id": "aichain"
     },
@@ -226,10 +222,6 @@
       "ns_id": "aigang"
     },
     {
-      "id": "CJHPGVYFKQWX",
-      "ns_id": "ailink-token"
-    },
-    {
       "id": "CPYXNGFQVKDW",
       "ns_id": "aion"
     },
@@ -244,10 +236,6 @@
     {
       "id": "CWZPQNKJYXLT",
       "ns_id": "airtoken"
-    },
-    {
-      "id": "CFLGWPQZYTKV",
-      "ns_id": "airwire"
     },
     {
       "id": "CNTJGPZXWFYD",
@@ -266,20 +254,12 @@
       "ns_id": "alchemint-standards"
     },
     {
-      "id": "CPKDGTNFLVWQ",
-      "ns_id": "alibabacoin"
-    },
-    {
       "id": "CLKWTYGXJHPQ",
       "ns_id": "alis"
     },
     {
       "id": "CTVGZJQPYLXD",
       "ns_id": "all-sports"
-    },
-    {
-      "id": "CTGKQZYDWNVP",
-      "ns_id": "allcoin"
     },
     {
       "id": "CKHZJNXVYLQF",
@@ -334,10 +314,6 @@
       "ns_id": "ammo-rewards"
     },
     {
-      "id": "CXYDKGPFQVZL",
-      "ns_id": "amo-coin"
-    },
-    {
       "id": "CHGZTXVWQPYK",
       "ns_id": "amon"
     },
@@ -356,10 +332,6 @@
     {
       "id": "CFJTWKPXVGYL",
       "ns_id": "animecoin"
-    },
-    {
-      "id": "CLGYDFWTNHJK",
-      "ns_id": "anon"
     },
     {
       "id": "CFWHLJQTDZXK",
@@ -446,10 +418,6 @@
       "ns_id": "arcblock"
     },
     {
-      "id": "CQJTHGNDWLXK",
-      "ns_id": "archetypal-network"
-    },
-    {
       "id": "CGKQTNHFXZJV",
       "ns_id": "arcticcoin"
     },
@@ -518,20 +486,12 @@
       "ns_id": "astro"
     },
     {
-      "id": "CZHDGXNLPWQF",
-      "ns_id": "asura-coin"
-    },
-    {
       "id": "CGZJXVWDNQLT",
       "ns_id": "atbcoin"
     },
     {
       "id": "CDYQHKPFWJNG",
       "ns_id": "atc-coin"
-    },
-    {
-      "id": "CLPWNDTJHGQY",
-      "ns_id": "atheios"
     },
     {
       "id": "CTDKVYWPZJNG",
@@ -602,10 +562,6 @@
       "ns_id": "autonio"
     },
     {
-      "id": "CWPXZVHJQTFY",
-      "ns_id": "auxilium"
-    },
-    {
       "id": "CVQYNJDHXFZW",
       "ns_id": "avatarcoin"
     },
@@ -632,10 +588,6 @@
     {
       "id": "CNGVPFJLHQZT",
       "ns_id": "axpire"
-    },
-    {
-      "id": "CQYTPFHDWJVL",
-      "ns_id": "azart"
     },
     {
       "id": "CKXJDGYHPWQT",
@@ -726,10 +678,6 @@
       "ns_id": "beekan"
     },
     {
-      "id": "CWLNQKPGJYXF",
-      "ns_id": "beetle-coin"
-    },
-    {
       "id": "CXTWNGKLHPVZ",
       "ns_id": "belacoin"
     },
@@ -742,10 +690,6 @@
       "ns_id": "benjirolls"
     },
     {
-      "id": "CVKLJQTGNPFX",
-      "ns_id": "benz"
-    },
-    {
       "id": "CFJNXWYPZQHK",
       "ns_id": "berncash"
     },
@@ -754,16 +698,8 @@
       "ns_id": "bestchain"
     },
     {
-      "id": "CNYHJWQTKXDG",
-      "ns_id": "bethereum"
-    },
-    {
       "id": "CKHZNLDYXFQG",
       "ns_id": "betterbetting"
-    },
-    {
-      "id": "CWXQGYVTZJNF",
-      "ns_id": "bettex-coin"
     },
     {
       "id": "CYPXQHLJZNVK",
@@ -772,10 +708,6 @@
     {
       "id": "CVQXNPZHDYKL",
       "ns_id": "bezop"
-    },
-    {
-      "id": "CYHLXTDKPGFQ",
-      "ns_id": "bffdoom"
     },
     {
       "id": "CZYDKWQTLJVG",
@@ -840,10 +772,6 @@
     {
       "id": "CZHFDQVLJTYX",
       "ns_id": "bipcoin"
-    },
-    {
-      "id": "CZYNJPWLQFGD",
-      "ns_id": "birake"
     },
     {
       "id": "CWTGQKDLPHYN",
@@ -930,20 +858,12 @@
       "ns_id": "bitcoal"
     },
     {
-      "id": "CKGNFZWXQYLJ",
-      "ns_id": "bitcoen"
-    },
-    {
       "id": "CJTFPXDVQHNG",
       "ns_id": "bitcoin"
     },
     {
       "id": "CNKTDYLXHGPQ",
       "ns_id": "bitcoin-21"
-    },
-    {
-      "id": "CNVPLTKZGDWH",
-      "ns_id": "bitcoin-adult"
     },
     {
       "id": "CFKXVHNDQWJP",
@@ -1078,10 +998,6 @@
       "ns_id": "bitdice"
     },
     {
-      "id": "CJHLKQVXNZPT",
-      "ns_id": "bitether"
-    },
-    {
       "id": "CFNTZJLGQWPH",
       "ns_id": "biteur"
     },
@@ -1170,10 +1086,6 @@
       "ns_id": "bitsoar"
     },
     {
-      "id": "CTNPJKVWLGYF",
-      "ns_id": "bitspace"
-    },
-    {
       "id": "CZKJPQXVWGDL",
       "ns_id": "bitstar"
     },
@@ -1196,10 +1108,6 @@
     {
       "id": "CYXNPQJTDZVL",
       "ns_id": "bittwatt"
-    },
-    {
-      "id": "CKTHFQXZNYWG",
-      "ns_id": "bitup-token"
     },
     {
       "id": "CLZVPNXWQJFT",
@@ -1242,10 +1150,6 @@
       "ns_id": "blakestar"
     },
     {
-      "id": "CLZWKFJHXVYT",
-      "ns_id": "blast"
-    },
-    {
       "id": "CDGLXHTYJNPZ",
       "ns_id": "blazecoin"
     },
@@ -1262,16 +1166,8 @@
       "ns_id": "blitzpredict"
     },
     {
-      "id": "CDXGFTNPKJZV",
-      "ns_id": "bloc-money"
-    },
-    {
       "id": "CQTDXWFYLKJP",
       "ns_id": "block-array"
-    },
-    {
-      "id": "CLVZTXJWHGDQ",
-      "ns_id": "block-chain-com"
     },
     {
       "id": "CYVTJHPWZFLG",
@@ -1422,10 +1318,6 @@
       "ns_id": "bowscoin"
     },
     {
-      "id": "CZGVPFHKJLNX",
-      "ns_id": "boxx-token-blockparty"
-    },
-    {
       "id": "CNXGJPVQHZYF",
       "ns_id": "brahmaos"
     },
@@ -1502,10 +1394,6 @@
       "ns_id": "budbo"
     },
     {
-      "id": "CYHLVJGPKNZW",
-      "ns_id": "buggyra-coin-zero"
-    },
-    {
       "id": "CVGNLPQZYXFH",
       "ns_id": "bulwark"
     },
@@ -1514,16 +1402,8 @@
       "ns_id": "bumbacoin"
     },
     {
-      "id": "CFVJYLNQGWTZ",
-      "ns_id": "bumo"
-    },
-    {
       "id": "CNWVZQLTYPHG",
       "ns_id": "bunnycoin"
-    },
-    {
-      "id": "CWJZKQHGLYPV",
-      "ns_id": "bunnytoken"
     },
     {
       "id": "CXNDVJGHKLTQ",
@@ -1626,10 +1506,6 @@
       "ns_id": "capricoin"
     },
     {
-      "id": "CLWPXZVHGQKY",
-      "ns_id": "carat"
-    },
-    {
       "id": "CQFGVDLNPWKY",
       "ns_id": "carblock"
     },
@@ -1638,32 +1514,16 @@
       "ns_id": "carboncoin"
     },
     {
-      "id": "CPHXKLJVDNGT",
-      "ns_id": "carboneum-c8-token"
-    },
-    {
       "id": "CJQLXVZWPNDH",
       "ns_id": "cardano"
-    },
-    {
-      "id": "CTZQGPDHYFKL",
-      "ns_id": "cardbuyers"
     },
     {
       "id": "CXLYNZJQDTKW",
       "ns_id": "cardstack"
     },
     {
-      "id": "CXDKJPVNLFWZ",
-      "ns_id": "carebit"
-    },
-    {
       "id": "CWGYDQXNPLTZ",
       "ns_id": "cargox"
-    },
-    {
-      "id": "CJPVXWLQNTYD",
-      "ns_id": "carinet"
     },
     {
       "id": "CDQGXTWNKYJP",
@@ -1698,10 +1558,6 @@
       "ns_id": "casinocoin"
     },
     {
-      "id": "CDJTFNLHYWXK",
-      "ns_id": "castle"
-    },
-    {
       "id": "CXWVZJYLKHTQ",
       "ns_id": "catocoin"
     },
@@ -1728,10 +1584,6 @@
     {
       "id": "CQJTHGZFWYNV",
       "ns_id": "ceek-vr"
-    },
-    {
-      "id": "CDXPZGFNLVQH",
-      "ns_id": "celsius"
     },
     {
       "id": "CLVNGYTDFPZH",
@@ -1782,10 +1634,6 @@
       "ns_id": "cheapcoin"
     },
     {
-      "id": "CWDYZFNLGVKT",
-      "ns_id": "cheesecoin"
-    },
-    {
       "id": "CYNXWFLDPVHZ",
       "ns_id": "chesscoin"
     },
@@ -1830,14 +1678,6 @@
       "ns_id": "civic"
     },
     {
-      "id": "CNLTPFDXZQKY",
-      "ns_id": "civitas"
-    },
-    {
-      "id": "CVYWGHJXPQLK",
-      "ns_id": "cjs"
-    },
-    {
       "id": "CWQTGXVFHKZL",
       "ns_id": "ckusd"
     },
@@ -1874,16 +1714,8 @@
       "ns_id": "clubcoin"
     },
     {
-      "id": "CZXVHYJDTFPQ",
-      "ns_id": "cmitcoin"
-    },
-    {
       "id": "CJXGVFDTPNYQ",
       "ns_id": "cobinhood"
-    },
-    {
-      "id": "CVJDFQNKYWHL",
-      "ns_id": "cobrabytes"
     },
     {
       "id": "CQDGNWPVHXKF",
@@ -1914,16 +1746,8 @@
       "ns_id": "coin2-1"
     },
     {
-      "id": "CTHYGWLPNXKD",
-      "ns_id": "coin2play"
-    },
-    {
       "id": "CYQDHZGWPFJT",
       "ns_id": "coindash"
-    },
-    {
-      "id": "CKNFQYVZDWJT",
-      "ns_id": "coinex-token"
     },
     {
       "id": "CTZQPYVHDLWX",
@@ -1974,10 +1798,6 @@
       "ns_id": "colu-local-network"
     },
     {
-      "id": "CPLNQFHXGJVZ",
-      "ns_id": "commerce-data-connection"
-    },
-    {
       "id": "CXYGWPDFNKVH",
       "ns_id": "commerceblock"
     },
@@ -2004,10 +1824,6 @@
     {
       "id": "CKYQTDNWFJPH",
       "ns_id": "comsa-xem"
-    },
-    {
-      "id": "CVWNFPTDZHJY",
-      "ns_id": "concierge-coin"
     },
     {
       "id": "CQLVFNTJGHWY",
@@ -2114,10 +1930,6 @@
       "ns_id": "covesting"
     },
     {
-      "id": "CVGQPJXHFNYZ",
-      "ns_id": "cpollo"
-    },
-    {
       "id": "CHYWDKNQPZXJ",
       "ns_id": "crave"
     },
@@ -2186,14 +1998,6 @@
       "ns_id": "crtcoin"
     },
     {
-      "id": "CHZTWQXKVJDY",
-      "ns_id": "cruisebit"
-    },
-    {
-      "id": "CDYTFLWVZQHX",
-      "ns_id": "cryptaldash"
-    },
-    {
       "id": "CFVNHGJPLKWX",
       "ns_id": "cryptaur"
     },
@@ -2214,20 +2018,12 @@
       "ns_id": "crypto"
     },
     {
-      "id": "CTVGZQPWDFLN",
-      "ns_id": "crypto-improvement-fund"
-    },
-    {
       "id": "CGXKLTFNJQDV",
       "ns_id": "cryptocarbon"
     },
     {
       "id": "CZVHKLTWDJXP",
       "ns_id": "cryptoescudo"
-    },
-    {
-      "id": "CJDLFKWPYGTN",
-      "ns_id": "cryptoflow"
     },
     {
       "id": "CDPKLNHYFGVQ",
@@ -2274,10 +2070,6 @@
       "ns_id": "cryptoworldx-token"
     },
     {
-      "id": "CZNTVWQKLXJD",
-      "ns_id": "cryptrust"
-    },
-    {
       "id": "CVNPTGYFWJQH",
       "ns_id": "crystal-clear"
     },
@@ -2322,16 +2114,8 @@
       "ns_id": "cybermiles"
     },
     {
-      "id": "CXWQKYGHTFJV",
-      "ns_id": "cybermusic"
-    },
-    {
       "id": "CHYKWTPFGXQV",
       "ns_id": "cybervein"
-    },
-    {
-      "id": "CKGQYTFDZWHL",
-      "ns_id": "cyclean"
     },
     {
       "id": "CYXPNVLKZFQJ",
@@ -2348,10 +2132,6 @@
     {
       "id": "CQKWLTYVFJNH",
       "ns_id": "dacc"
-    },
-    {
-      "id": "CPYXNGVTDQFK",
-      "ns_id": "dach-coin"
     },
     {
       "id": "CLHQJVDXFNTG",
@@ -2390,20 +2170,8 @@
       "ns_id": "dappster"
     },
     {
-      "id": "CDLPYWTQXZFG",
-      "ns_id": "daps-token"
-    },
-    {
-      "id": "CXPGJLHQVNDT",
-      "ns_id": "darcio-ecosystem-coin"
-    },
-    {
       "id": "CNKQJVZFDPWL",
       "ns_id": "darcrus"
-    },
-    {
-      "id": "CPFNDJKHVTXL",
-      "ns_id": "darextravel"
     },
     {
       "id": "CYPTGKZLHQNF",
@@ -2502,10 +2270,6 @@
       "ns_id": "decentraland"
     },
     {
-      "id": "CDTWKFHPLNJZ",
-      "ns_id": "decentralized-asset-trading-platform"
-    },
-    {
       "id": "CNZQDPYXVKTH",
       "ns_id": "decentralized-machine-learning"
     },
@@ -2528,10 +2292,6 @@
     {
       "id": "CYJZVDLTKHWP",
       "ns_id": "deeponion"
-    },
-    {
-      "id": "CHWXLVTJNDZP",
-      "ns_id": "deex"
     },
     {
       "id": "CNJDHKYVZTLQ",
@@ -2622,14 +2382,6 @@
       "ns_id": "digipulse"
     },
     {
-      "id": "CLFXGZYHVTNP",
-      "ns_id": "digital-asset-exchange-token"
-    },
-    {
-      "id": "CGTZLNJFHDWX",
-      "ns_id": "digital-asset-guarantee-token"
-    },
-    {
       "id": "CVWLZFDKXHNG",
       "ns_id": "digital-bullion-gold"
     },
@@ -2640,10 +2392,6 @@
     {
       "id": "CKWTGQHLFXDP",
       "ns_id": "digital-developers-fund"
-    },
-    {
-      "id": "CFPQTGXYDJVN",
-      "ns_id": "digital-insurance-token"
     },
     {
       "id": "CWJXHYVNLFTQ",
@@ -2668,10 +2416,6 @@
     {
       "id": "CXWQKTZDFNJL",
       "ns_id": "digitex-futures"
-    },
-    {
-      "id": "CLKYQJNFGZTW",
-      "ns_id": "digiwage"
     },
     {
       "id": "CXYGKTLZDVPW",
@@ -2700,10 +2444,6 @@
     {
       "id": "CZQHJFVGLKTN",
       "ns_id": "dinastycoin"
-    },
-    {
-      "id": "CWLNDFHYZXKT",
-      "ns_id": "dinero"
     },
     {
       "id": "CNHLZWGTYJXV",
@@ -2802,10 +2542,6 @@
       "ns_id": "dragon-coins"
     },
     {
-      "id": "CNDKGLVWPTZY",
-      "ns_id": "dragon-token"
-    },
-    {
       "id": "CPNKWHZXVLJG",
       "ns_id": "dragonchain"
     },
@@ -2890,10 +2626,6 @@
       "ns_id": "eaglecoin"
     },
     {
-      "id": "CKLJZWTDFPGN",
-      "ns_id": "eaglex"
-    },
-    {
       "id": "CJXHGNFVDYQK",
       "ns_id": "earth-token"
     },
@@ -2940,14 +2672,6 @@
     {
       "id": "CVHKLJXPGZTQ",
       "ns_id": "ecocoin"
-    },
-    {
-      "id": "CLZWKHJTXNYP",
-      "ns_id": "ecoreal-estate"
-    },
-    {
-      "id": "CGNHFJDKQPVL",
-      "ns_id": "eden"
     },
     {
       "id": "CFHWYTKGZLJP",
@@ -3050,10 +2774,6 @@
       "ns_id": "ellaism"
     },
     {
-      "id": "CDHJFKXNYZGL",
-      "ns_id": "elliot-coin"
-    },
-    {
       "id": "CDHQVXZTGJFW",
       "ns_id": "eltc"
     },
@@ -3068,10 +2788,6 @@
     {
       "id": "CWNKVHTQZGYX",
       "ns_id": "elysium"
-    },
-    {
-      "id": "CTLFZQDJPXYK",
-      "ns_id": "emaratcoin"
     },
     {
       "id": "CHDGJWQNZPYV",
@@ -3104,10 +2820,6 @@
     {
       "id": "CWQJVLKNHFXD",
       "ns_id": "encrypgen"
-    },
-    {
-      "id": "CXVFPLTGJHZQ",
-      "ns_id": "endor-protocol"
     },
     {
       "id": "CYNQHJWPVGLK",
@@ -3158,12 +2870,14 @@
       "ns_id": "environ"
     },
     {
+      "from": "2018-06-02T22:00:00Z",
       "id": "CPXQGHKTDLYJ",
       "ns_id": "eos"
     },
     {
-      "id": "CQHTZYXKDJVW",
-      "ns_id": "eosblack"
+      "id": "CTFLDWZYQKXG",
+      "ns_id": "eos",
+      "to": "2018-06-02T22:00:00Z"
     },
     {
       "id": "CFKXJLHPWQZD",
@@ -3196,10 +2910,6 @@
     {
       "id": "CDLNHKFJWZXT",
       "ns_id": "ergo"
-    },
-    {
-      "id": "CWPZTXKLVDQJ",
-      "ns_id": "eristica"
     },
     {
       "id": "CQXPTLKNFYHV",
@@ -3238,20 +2948,8 @@
       "ns_id": "ethbits"
     },
     {
-      "id": "CQNGZDHJWFLK",
-      "ns_id": "etheera"
-    },
-    {
-      "id": "CKTGVLZPHYFX",
-      "ns_id": "ether-1"
-    },
-    {
       "id": "CPDGTNFHJQLV",
       "ns_id": "ether-for-the-rest-of-the-world"
-    },
-    {
-      "id": "CGHKZDTPNXFL",
-      "ns_id": "ether-kingdoms-token"
     },
     {
       "id": "CLGPHWVYFJZN",
@@ -3346,10 +3044,6 @@
       "ns_id": "euno"
     },
     {
-      "id": "CQTHGVYFXPZJ",
-      "ns_id": "eunomia"
-    },
-    {
       "id": "CPGTQVXYWLDH",
       "ns_id": "eurocoin"
     },
@@ -3380,10 +3074,6 @@
     {
       "id": "CHKDNTJFZYVX",
       "ns_id": "evil-coin"
-    },
-    {
-      "id": "CLJNVYFKQWPT",
-      "ns_id": "evimeria"
     },
     {
       "id": "CVHXWLZPFNKY",
@@ -3550,10 +3240,6 @@
       "ns_id": "fintrux-network"
     },
     {
-      "id": "CPLQGZDVJFTW",
-      "ns_id": "fire-lotto"
-    },
-    {
       "id": "CLJQTHGVKDNZ",
       "ns_id": "firecoin"
     },
@@ -3580,10 +3266,6 @@
     {
       "id": "CTYPZDKWJGXQ",
       "ns_id": "fitrova"
-    },
-    {
-      "id": "CPJYQHVZNXGD",
-      "ns_id": "fivebalance"
     },
     {
       "id": "CJVNPQZWTDGY",
@@ -3632,10 +3314,6 @@
     {
       "id": "CGDTKXZJVYWF",
       "ns_id": "fnkos"
-    },
-    {
-      "id": "CJLTKDWXQHZG",
-      "ns_id": "foin"
     },
     {
       "id": "CDTVLWYXZFNH",
@@ -3696,10 +3374,6 @@
     {
       "id": "CFZKQXDNVYJW",
       "ns_id": "frazcoin"
-    },
-    {
-      "id": "CFQYVNDZWHGL",
-      "ns_id": "free-coin"
     },
     {
       "id": "CHTPDFZLWXQV",
@@ -3766,10 +3440,6 @@
       "ns_id": "future-digital-currency"
     },
     {
-      "id": "CFKZNLGWYDQH",
-      "ns_id": "future1coin"
-    },
-    {
       "id": "CQGLVJWKPXTZ",
       "ns_id": "futurexe"
     },
@@ -3788,10 +3458,6 @@
     {
       "id": "CVLXDKQWFNZY",
       "ns_id": "gaia"
-    },
-    {
-      "id": "CYPVKTGQHDWX",
-      "ns_id": "gainer"
     },
     {
       "id": "CPDHYVKLWQJX",
@@ -3854,10 +3520,6 @@
       "ns_id": "gaycoin"
     },
     {
-      "id": "CDGPNJLXKWQV",
-      "ns_id": "gazecoin"
-    },
-    {
       "id": "CLVNGFQYHXTW",
       "ns_id": "gbcgoldcoin"
     },
@@ -3868,10 +3530,6 @@
     {
       "id": "CVZTYXDFHGJP",
       "ns_id": "geertcoin"
-    },
-    {
-      "id": "CFTKJXPHWQYZ",
-      "ns_id": "gemini-dollar"
     },
     {
       "id": "CXPTHDYGQLZW",
@@ -3888,10 +3546,6 @@
     {
       "id": "CYJZWVXKHPNT",
       "ns_id": "genesis-vision"
-    },
-    {
-      "id": "CPJYQDGFXKTL",
-      "ns_id": "genesisx"
     },
     {
       "id": "CXTKGQWPYLDF",
@@ -3916,10 +3570,6 @@
     {
       "id": "CXVWJGQTPZLH",
       "ns_id": "gifto"
-    },
-    {
-      "id": "CNKJFZXWLYVQ",
-      "ns_id": "giga"
     },
     {
       "id": "CHWJKVYTLQZF",
@@ -3990,10 +3640,6 @@
       "ns_id": "gochain"
     },
     {
-      "id": "CLDFWHJKPVZY",
-      "ns_id": "gohelpfund"
-    },
-    {
       "id": "CKWHZNLGDQTY",
       "ns_id": "gold-poker"
     },
@@ -4056,10 +3702,6 @@
     {
       "id": "CKNYGFTQVHJW",
       "ns_id": "goodomy"
-    },
-    {
-      "id": "CDFYNHJKQPVL",
-      "ns_id": "gossipcoin"
     },
     {
       "id": "CZKJHDPVWLGQ",
@@ -4210,10 +3852,6 @@
       "ns_id": "havven"
     },
     {
-      "id": "CGLVZNPWTXFK",
-      "ns_id": "havy"
-    },
-    {
       "id": "CHYVXKGNDJFZ",
       "ns_id": "hawala-today"
     },
@@ -4242,20 +3880,12 @@
       "ns_id": "helbiz"
     },
     {
-      "id": "CZFTVPYKWLDX",
-      "ns_id": "helium"
-    },
-    {
       "id": "CHXVYKFTLJZG",
       "ns_id": "hellogold"
     },
     {
       "id": "CLNHZGQXFKJW",
       "ns_id": "help-the-homeless-coin"
-    },
-    {
-      "id": "CZXGVFHWQDYT",
-      "ns_id": "helper-search-token"
     },
     {
       "id": "CHXVPWTYGDZL",
@@ -4350,10 +3980,6 @@
       "ns_id": "horuspay"
     },
     {
-      "id": "CPFZKXYQNWGL",
-      "ns_id": "hshare"
-    },
-    {
       "id": "CXGZVWNYFDKP",
       "ns_id": "hshare"
     },
@@ -4388,10 +4014,6 @@
     {
       "id": "CLDGNVZTPJFX",
       "ns_id": "hush"
-    },
-    {
-      "id": "CPLTVHDJQNYW",
-      "ns_id": "huzu"
     },
     {
       "id": "CJDYQLHXPKVW",
@@ -4458,20 +4080,12 @@
       "ns_id": "iconic"
     },
     {
-      "id": "CYLPJWTVHDGK",
-      "ns_id": "iconiq-lab-token"
-    },
-    {
       "id": "CTKLWYQPDFGZ",
       "ns_id": "iconomi"
     },
     {
       "id": "CKTLWYQDNXPG",
       "ns_id": "icos"
-    },
-    {
-      "id": "CGZQHTLFKJVD",
-      "ns_id": "idealcash"
     },
     {
       "id": "CQDHVZLYNXJK",
@@ -4488,10 +4102,6 @@
     {
       "id": "CKJFTHQYZVDG",
       "ns_id": "iethereum"
-    },
-    {
-      "id": "CZFQPVXJDKHY",
-      "ns_id": "ifoods-chain"
     },
     {
       "id": "CJFXGLWNPKHQ",
@@ -4526,10 +4136,6 @@
       "ns_id": "incent"
     },
     {
-      "id": "CYNQWLKZPXTJ",
-      "ns_id": "incodium"
-    },
-    {
       "id": "CWKHJGFTZQNY",
       "ns_id": "indahash"
     },
@@ -4544,10 +4150,6 @@
     {
       "id": "CPNVDXTQKZYL",
       "ns_id": "indicoin"
-    },
-    {
-      "id": "CKPWDFYLZQNG",
-      "ns_id": "indinode"
     },
     {
       "id": "CVTNQZYDPGFW",
@@ -4630,10 +4232,6 @@
       "ns_id": "insurepal"
     },
     {
-      "id": "CWVKDNLTZXGF",
-      "ns_id": "insureum"
-    },
-    {
       "id": "CYWHNPDKFZGJ",
       "ns_id": "intelligent-investment-chain"
     },
@@ -4656,10 +4254,6 @@
     {
       "id": "CXYFTHJPZGVL",
       "ns_id": "internet-node-token"
-    },
-    {
-      "id": "CPLQGVFJWNDY",
-      "ns_id": "internet-of-games"
     },
     {
       "id": "CXPDGZTJQHVF",
@@ -4698,10 +4292,6 @@
       "ns_id": "investfeed"
     },
     {
-      "id": "CHFNGPVLTZWQ",
-      "ns_id": "invictus-hyperion-fund"
-    },
-    {
       "id": "CWLTVHGQXYKJ",
       "ns_id": "invisiblecoin"
     },
@@ -4722,10 +4312,6 @@
       "ns_id": "iot-chain"
     },
     {
-      "id": "CJPQKYNXZTGL",
-      "ns_id": "IOTA"
-    },
-    {
       "id": "CQKWNFPJTHGL",
       "ns_id": "iotex"
     },
@@ -4742,16 +4328,8 @@
       "ns_id": "ipchain"
     },
     {
-      "id": "CFYNTJHZGWDP",
-      "ns_id": "iqeon"
-    },
-    {
       "id": "CTXWZLDYHFJG",
       "ns_id": "iquant"
-    },
-    {
-      "id": "CQNFTXVWJKPD",
-      "ns_id": "iridium"
     },
     {
       "id": "CXWZDQJFGLPT",
@@ -4760,10 +4338,6 @@
     {
       "id": "CYLPVWQJTDNX",
       "ns_id": "islacoin"
-    },
-    {
-      "id": "CNJTFDWZQLKX",
-      "ns_id": "italian-lira"
     },
     {
       "id": "CGVHJNLDFTKW",
@@ -4784,10 +4358,6 @@
     {
       "id": "CXZVWQKDTNFH",
       "ns_id": "ixledger"
-    },
-    {
-      "id": "CXLFJQDHNWKP",
-      "ns_id": "ixtus-edutainment"
     },
     {
       "id": "CVLXTNHJWYDG",
@@ -4842,16 +4412,8 @@
       "ns_id": "joincoin"
     },
     {
-      "id": "CGHYPFJNQWLT",
-      "ns_id": "joint-ventures"
-    },
-    {
       "id": "CJWFKVHYDLNG",
       "ns_id": "joulecoin"
-    },
-    {
-      "id": "CZXKTQYFLJNW",
-      "ns_id": "jsecoin"
     },
     {
       "id": "CNPTYQVWXZLJ",
@@ -4982,10 +4544,6 @@
       "ns_id": "kumacoin"
     },
     {
-      "id": "CGVLTYHFZWDJ",
-      "ns_id": "kun"
-    },
-    {
       "id": "CQJVPDHKXZNT",
       "ns_id": "kurrent"
     },
@@ -5004,10 +4562,6 @@
     {
       "id": "CVYZLKJTQPFN",
       "ns_id": "kzcash"
-    },
-    {
-      "id": "CZNLTJGDYKWQ",
-      "ns_id": "labh-coin"
     },
     {
       "id": "CQHXLPTFWVNJ",
@@ -5066,7 +4620,7 @@
       "ns_id": "leekico"
     },
     {
-      "id": "CTFDWNZVPKYJ",
+      "id": "CPHXQGTJKVWD",
       "ns_id": "legends-room"
     },
     {
@@ -5374,10 +4928,6 @@
       "ns_id": "maker"
     },
     {
-      "id": "CLWGNKFHYQPT",
-      "ns_id": "mallcoin"
-    },
-    {
       "id": "CWLDFGVQTYJH",
       "ns_id": "manna"
     },
@@ -5424,10 +4974,6 @@
     {
       "id": "CJYPKGHFNVWD",
       "ns_id": "master-swiscoin"
-    },
-    {
-      "id": "CWGFQKTHLYZD",
-      "ns_id": "masternet"
     },
     {
       "id": "CVGQYJXWKNHL",
@@ -5526,10 +5072,6 @@
       "ns_id": "mero"
     },
     {
-      "id": "CNVPTYLHWZFJ",
-      "ns_id": "metadium"
-    },
-    {
       "id": "CKQVTJGFDWYP",
       "ns_id": "metal"
     },
@@ -5550,10 +5092,6 @@
       "ns_id": "metaverse"
     },
     {
-      "id": "CHKTGVNPLJXW",
-      "ns_id": "mex"
-    },
-    {
       "id": "CLJZVHYXNWFT",
       "ns_id": "mib-coin"
     },
@@ -5562,20 +5100,12 @@
       "ns_id": "micromoney"
     },
     {
-      "id": "CNZQLVKHFDXT",
-      "ns_id": "midasprotocol"
-    },
-    {
       "id": "CTDJXYNVWLPK",
       "ns_id": "milocoin"
     },
     {
       "id": "CGHKQXDNJTVF",
       "ns_id": "mindcoin"
-    },
-    {
-      "id": "CTQKYZFDHNWG",
-      "ns_id": "mindexcoin"
     },
     {
       "id": "CQYZWFTPXVGH",
@@ -5602,14 +5132,6 @@
       "ns_id": "mintcoin"
     },
     {
-      "id": "CLZFQGHVYDTK",
-      "ns_id": "mir-coin"
-    },
-    {
-      "id": "CWPVGTJLFYZQ",
-      "ns_id": "mirai"
-    },
-    {
       "id": "CPDFLVZJTWQX",
       "ns_id": "mirq"
     },
@@ -5622,16 +5144,8 @@
       "ns_id": "mktcoin"
     },
     {
-      "id": "CJTPHVWQNDZK",
-      "ns_id": "mmocoin"
-    },
-    {
       "id": "CFJZTPGDXHNV",
       "ns_id": "mmxvi"
-    },
-    {
-      "id": "CFZVDLPYXHGT",
-      "ns_id": "mnpcoin"
     },
     {
       "id": "CDQLNZTVYGHP",
@@ -5644,10 +5158,6 @@
     {
       "id": "CGVPFDHWLQJT",
       "ns_id": "mobilego"
-    },
-    {
-      "id": "CZLHTDWFGKPJ",
-      "ns_id": "mobilinktoken"
     },
     {
       "id": "CHVPKLDFNQJX",
@@ -5870,10 +5380,6 @@
       "ns_id": "naviaddress"
     },
     {
-      "id": "CFZXWYDKLPVG",
-      "ns_id": "ndex"
-    },
-    {
       "id": "CZWYNQDLPKGX",
       "ns_id": "neblio"
     },
@@ -5910,10 +5416,6 @@
       "ns_id": "neoscoin"
     },
     {
-      "id": "CNYPXZQDWHFK",
-      "ns_id": "nerves"
-    },
-    {
       "id": "CYGWKTHNLQZD",
       "ns_id": "netbit"
     },
@@ -5928,10 +5430,6 @@
     {
       "id": "CQTDJPHWLGKX",
       "ns_id": "neumark"
-    },
-    {
-      "id": "CXJLHTFWZYDP",
-      "ns_id": "neural-protocol"
     },
     {
       "id": "CQXLHGVWTDNK",
@@ -6134,10 +5632,6 @@
       "ns_id": "obsidian"
     },
     {
-      "id": "CHPDKQNZWXTL",
-      "ns_id": "obxcoin"
-    },
-    {
       "id": "CFHGTZNVDXYW",
       "ns_id": "oceanchain"
     },
@@ -6186,10 +5680,6 @@
       "ns_id": "olive"
     },
     {
-      "id": "CTQWHXZJNYDV",
-      "ns_id": "olympic"
-    },
-    {
       "id": "CPNKVYWDXGTL",
       "ns_id": "olympus-labs"
     },
@@ -6212,10 +5702,6 @@
     {
       "id": "CVZTFHGQKWJX",
       "ns_id": "on-live"
-    },
-    {
-      "id": "CHKNZVTLDGJF",
-      "ns_id": "ondori"
     },
     {
       "id": "CTKLWFZPNYJD",
@@ -6318,10 +5804,6 @@
       "ns_id": "otcbtc-token"
     },
     {
-      "id": "CJZVGKPXQNDY",
-      "ns_id": "ourcoin"
-    },
-    {
       "id": "CGZNJLDHXPVY",
       "ns_id": "owndata"
     },
@@ -6360,10 +5842,6 @@
     {
       "id": "CPGQVWJKNDTX",
       "ns_id": "pandacoin-pnd"
-    },
-    {
-      "id": "CDYQLJGNWPFT",
-      "ns_id": "pandemia"
     },
     {
       "id": "CGVPWXQYFZTD",
@@ -6406,14 +5884,6 @@
       "ns_id": "patron"
     },
     {
-      "id": "CJFZVYPHXKGD",
-      "ns_id": "paxos-standard-token"
-    },
-    {
-      "id": "CNZXFTWQLYHD",
-      "ns_id": "paycent"
-    },
-    {
       "id": "CXKQZGJDVPHL",
       "ns_id": "paycoin2"
     },
@@ -6424,10 +5894,6 @@
     {
       "id": "CXNLHQTGFKJD",
       "ns_id": "payday-coin"
-    },
-    {
-      "id": "CGZTVYHPXWFK",
-      "ns_id": "payex"
     },
     {
       "id": "CHVGZJQLNDWK",
@@ -6478,10 +5944,6 @@
       "ns_id": "peerplays-ppy"
     },
     {
-      "id": "CYPTLKWXZJNF",
-      "ns_id": "penguin-coin"
-    },
-    {
       "id": "CNHPFLXJDYWV",
       "ns_id": "penta"
     },
@@ -6520,10 +5982,6 @@
     {
       "id": "CJWFXPYGTZQD",
       "ns_id": "phoenixcoin"
-    },
-    {
-      "id": "CZFTWJYPXNLH",
-      "ns_id": "phonecoin"
     },
     {
       "id": "CVWQJXPGHZNK",
@@ -6622,16 +6080,8 @@
       "ns_id": "plncoin"
     },
     {
-      "id": "CZGWKFVJDLNH",
-      "ns_id": "pluracoin"
-    },
-    {
       "id": "CPWQNKZGYFTV",
       "ns_id": "pluscoin"
-    },
-    {
-      "id": "CPDHKGVQLFZX",
-      "ns_id": "plusonecoin"
     },
     {
       "id": "CZGWKHPYXQLV",
@@ -6758,10 +6208,6 @@
       "ns_id": "primecoin"
     },
     {
-      "id": "CFLYVNGZXDJT",
-      "ns_id": "primestone"
-    },
-    {
       "id": "CQPFYLGWNVDX",
       "ns_id": "primulon"
     },
@@ -6792,10 +6238,6 @@
     {
       "id": "CWZGJTFDXYLP",
       "ns_id": "procurrency"
-    },
-    {
-      "id": "CWFVJGZXPLYN",
-      "ns_id": "project-coin"
     },
     {
       "id": "CYTKZLFJVQGD",
@@ -6878,10 +6320,6 @@
       "ns_id": "pure"
     },
     {
-      "id": "CGHKZLVWPTND",
-      "ns_id": "puregold-token"
-    },
-    {
       "id": "CTHKNFJDLPYZ",
       "ns_id": "purevidz"
     },
@@ -6904,10 +6342,6 @@
     {
       "id": "CWJYHLVXKGDP",
       "ns_id": "pylon-network"
-    },
-    {
-      "id": "CJWPKHTQYNVZ",
-      "ns_id": "pyrexcoin"
     },
     {
       "id": "CKPHZNTQWLYF",
@@ -6938,14 +6372,6 @@
       "ns_id": "quant"
     },
     {
-      "id": "CQXHGJFWYNDV",
-      "ns_id": "quanta-utility-token"
-    },
-    {
-      "id": "CLHDZFXWGPNK",
-      "ns_id": "quantis-network"
-    },
-    {
       "id": "CJKVYLTHQFNX",
       "ns_id": "quantstamp"
     },
@@ -6964,10 +6390,6 @@
     {
       "id": "CVPWQJXDHYNT",
       "ns_id": "quarkchain"
-    },
-    {
-      "id": "CKQYPZDXHFWL",
-      "ns_id": "quasarcoin"
     },
     {
       "id": "CFDXLZPJYQHW",
@@ -7026,16 +6448,12 @@
       "ns_id": "radium"
     },
     {
-      "id": "CHDLNTQZPXGF",
-      "ns_id": "ragnarok"
+      "id": "CDNJLZXVKFTY",
+      "ns_id": "raiblocks"
     },
     {
       "id": "CDKHJFXLQZNV",
       "ns_id": "raiden-network-token"
-    },
-    {
-      "id": "CZQFGNLPKVDY",
-      "ns_id": "rapids"
     },
     {
       "id": "CJQTGVKHXZDW",
@@ -7080,10 +6498,6 @@
     {
       "id": "CWDPXQGHKZLT",
       "ns_id": "realchain"
-    },
-    {
-      "id": "CGVLXDQZWKYF",
-      "ns_id": "realtract"
     },
     {
       "id": "CGDZHPKNQFWV",
@@ -7148,10 +6562,6 @@
     {
       "id": "CXJLDFZWKQTV",
       "ns_id": "rentledger"
-    },
-    {
-      "id": "CGZJTHVQNKYF",
-      "ns_id": "repme"
     },
     {
       "id": "CWJKXVYLNZFD",
@@ -7234,14 +6644,6 @@
       "ns_id": "rlc"
     },
     {
-      "id": "CTKQXPLVHGYW",
-      "ns_id": "robet"
-    },
-    {
-      "id": "CXZVGLFTYDKJ",
-      "ns_id": "robotina"
-    },
-    {
       "id": "CWHNPQLZVJKD",
       "ns_id": "rock"
     },
@@ -7258,10 +6660,6 @@
       "ns_id": "roofs"
     },
     {
-      "id": "CTKNHPGZJDYQ",
-      "ns_id": "rotharium"
-    },
-    {
       "id": "CLDFGKXJTZWN",
       "ns_id": "roulettetoken"
     },
@@ -7276,10 +6674,6 @@
     {
       "id": "CFYNQKDHJZGT",
       "ns_id": "royalties"
-    },
-    {
-      "id": "CVJPQXDKFLWT",
-      "ns_id": "rpicoin"
     },
     {
       "id": "CZQPYXFHWVKJ",
@@ -7354,10 +6748,6 @@
       "ns_id": "safecoin"
     },
     {
-      "id": "CKPVLDHWGXJZ",
-      "ns_id": "safeinsure"
-    },
-    {
       "id": "CZTVWJYGKQPX",
       "ns_id": "sagacoin"
     },
@@ -7418,20 +6808,12 @@
       "ns_id": "savedroid"
     },
     {
-      "id": "CQKVHTZDFJLN",
-      "ns_id": "savenode"
-    },
-    {
       "id": "CVZXWLJYTDQK",
       "ns_id": "scorecoin"
     },
     {
       "id": "CQNFJPXDWYVG",
       "ns_id": "scorum-coins"
-    },
-    {
-      "id": "CZJNXTWLHPFD",
-      "ns_id": "scriv-network"
     },
     {
       "id": "CNXKQVLHPDTJ",
@@ -7526,20 +6908,12 @@
       "ns_id": "shacoin"
     },
     {
-      "id": "CTLYQFGVDZWJ",
-      "ns_id": "shade-token"
-    },
-    {
       "id": "CPZHLXYNDKWF",
       "ns_id": "shadow-token"
     },
     {
       "id": "CXKTDVQWNYGF",
       "ns_id": "shadowcash"
-    },
-    {
-      "id": "CTKLWFXJPZDY",
-      "ns_id": "shard"
     },
     {
       "id": "CHTJWDPYKLFN",
@@ -7556,10 +6930,6 @@
     {
       "id": "CJDGFQHLZXKN",
       "ns_id": "sharkcoin"
-    },
-    {
-      "id": "CLTZQPHKWNYD",
-      "ns_id": "sharpay"
     },
     {
       "id": "CVNLHQPDTXGZ",
@@ -7586,10 +6956,6 @@
       "ns_id": "shilling"
     },
     {
-      "id": "CTZLPKFHNYWD",
-      "ns_id": "shinechain"
-    },
-    {
       "id": "CFXPLDWQNVGK",
       "ns_id": "shipchain"
     },
@@ -7602,10 +6968,6 @@
       "ns_id": "shopin"
     },
     {
-      "id": "CLVTQZHNFJGP",
-      "ns_id": "shopzcoin"
-    },
-    {
       "id": "CZPQXYFVGWNL",
       "ns_id": "shorty"
     },
@@ -7616,10 +6978,6 @@
     {
       "id": "CVWTDJQLYXZG",
       "ns_id": "showhand"
-    },
-    {
-      "id": "CVJFQNKPHTLZ",
-      "ns_id": "shping"
     },
     {
       "id": "CJQTHKFPGVWX",
@@ -7650,14 +7008,6 @@
       "ns_id": "silent-notary"
     },
     {
-      "id": "CYQDGLVZNPKF",
-      "ns_id": "simdaq"
-    },
-    {
-      "id": "CJYLTZPGDXVH",
-      "ns_id": "simmitri"
-    },
-    {
       "id": "CFWDVHNKTQYJ",
       "ns_id": "simple-token"
     },
@@ -7676,10 +7026,6 @@
     {
       "id": "CKHQFXGTVYZW",
       "ns_id": "sisa"
-    },
-    {
-      "id": "CZGXKDLNTQHY",
-      "ns_id": "six"
     },
     {
       "id": "CJNVHWQKLYXZ",
@@ -7738,20 +7084,12 @@
       "ns_id": "smartcoin"
     },
     {
-      "id": "CKXQPTNJZWVG",
-      "ns_id": "smartfox"
-    },
-    {
       "id": "CKXNTQYLFHJZ",
       "ns_id": "smartlands"
     },
     {
       "id": "CQTDXGWZFJNH",
       "ns_id": "smartmesh"
-    },
-    {
-      "id": "CTGZXWJFQNYL",
-      "ns_id": "smartofgiving"
     },
     {
       "id": "CPZYNJLXQTFD",
@@ -7768,10 +7106,6 @@
     {
       "id": "CTFLHNYVXKQD",
       "ns_id": "snakeeyes"
-    },
-    {
-      "id": "CPGJHQVXNTLK",
-      "ns_id": "snetwork"
     },
     {
       "id": "CHKDPVGXLFJT",
@@ -7810,10 +7144,6 @@
       "ns_id": "sojourn"
     },
     {
-      "id": "CZJNWQYFPTXH",
-      "ns_id": "sola-token"
-    },
-    {
       "id": "CHQVJFXGNPDZ",
       "ns_id": "solarcoin"
     },
@@ -7840,10 +7170,6 @@
     {
       "id": "CNFJDLGQVZWT",
       "ns_id": "sonm"
-    },
-    {
-      "id": "CNFQGHWPLTVK",
-      "ns_id": "soom"
     },
     {
       "id": "CZVGQPJWTYLD",
@@ -7900,10 +7226,6 @@
     {
       "id": "CPJKVYQWXZLT",
       "ns_id": "speedcash"
-    },
-    {
-      "id": "CDLHKNPQXYTJ",
-      "ns_id": "spendcoin"
     },
     {
       "id": "CPDNTXYHWVKZ",
@@ -8008,10 +7330,6 @@
     {
       "id": "CLGDZKWQTYXJ",
       "ns_id": "steem-dollars"
-    },
-    {
-      "id": "CGFJLPXTZNQY",
-      "ns_id": "steepcoin"
     },
     {
       "id": "CDYZWFQLHTPX",
@@ -8146,10 +7464,6 @@
       "ns_id": "suretly"
     },
     {
-      "id": "CLWHQJTNDPKZ",
-      "ns_id": "surety"
-    },
-    {
       "id": "CGKNWVFYTQHZ",
       "ns_id": "swagbucks"
     },
@@ -8266,10 +7580,6 @@
       "ns_id": "tattoocoin-limited"
     },
     {
-      "id": "CWTHYFXPVJNL",
-      "ns_id": "tcoin"
-    },
-    {
       "id": "CFPNVJYTWDXK",
       "ns_id": "te-food"
     },
@@ -8346,10 +7656,6 @@
       "ns_id": "the-cypherfunks"
     },
     {
-      "id": "CYDFKGZLQPNV",
-      "ns_id": "the-midas-touch-gold"
-    },
-    {
       "id": "CDYKXVGPLNTQ",
       "ns_id": "the-vegan-initiative"
     },
@@ -8388,14 +7694,6 @@
     {
       "id": "CQLXFJHPNTZY",
       "ns_id": "thrive-token"
-    },
-    {
-      "id": "CGQKHNFXYDJW",
-      "ns_id": "thunderstake"
-    },
-    {
-      "id": "CFGVTNHKJWLX",
-      "ns_id": "ti-value"
     },
     {
       "id": "CGKNFTZXWQHV",
@@ -8492,10 +7790,6 @@
     {
       "id": "CZKQVNPTFLXY",
       "ns_id": "tokyo"
-    },
-    {
-      "id": "CQJXYHDLNFGW",
-      "ns_id": "tolar"
     },
     {
       "id": "CJWHDTGFNYVP",
@@ -8618,14 +7912,6 @@
       "ns_id": "trollcoin"
     },
     {
-      "id": "CDVYLJGFXHZK",
-      "ns_id": "tron"
-    },
-    {
-      "id": "CTNJFWYVLDGK",
-      "ns_id": "tronclassic"
-    },
-    {
       "id": "CNDVXZYKLPWG",
       "ns_id": "truckcoin"
     },
@@ -8636,10 +7922,6 @@
     {
       "id": "CJGPLDFZWXYQ",
       "ns_id": "true-usd"
-    },
-    {
-      "id": "CLGFTZNXVPJK",
-      "ns_id": "truedeck"
     },
     {
       "id": "CNXFDYZWKLQH",
@@ -8660,6 +7942,16 @@
     {
       "id": "CGJNQFWPZYTX",
       "ns_id": "trustplus"
+    },
+    {
+      "from": "2018-06-24T16:00:00Z",
+      "id": "CDVYLJGFXHZK",
+      "ns_id": "trx"
+    },
+    {
+      "id": "CKQTLYPVHZND",
+      "ns_id": "trx",
+      "to": "2018-06-24T16:00:00Z"
     },
     {
       "id": "CPYVJFXGLZTK",
@@ -8694,10 +7986,6 @@
       "ns_id": "uahpay"
     },
     {
-      "id": "CTZHJKWDLPGY",
-      "ns_id": "ubcoin-market"
-    },
-    {
       "id": "CHQXPTDLJFWN",
       "ns_id": "ubex"
     },
@@ -8712,10 +8000,6 @@
     {
       "id": "CGJFYDXZLKHV",
       "ns_id": "ucash"
-    },
-    {
-      "id": "CJTYGFDXQWVP",
-      "ns_id": "uchain"
     },
     {
       "id": "CKXJLHNVDZGP",
@@ -8740,10 +8024,6 @@
     {
       "id": "CZLHDJXYGFVK",
       "ns_id": "ulatech"
-    },
-    {
-      "id": "CQGNHDPVFXKZ",
-      "ns_id": "ulord"
     },
     {
       "id": "CNGVDTWYZPXQ",
@@ -8846,24 +8126,12 @@
       "ns_id": "ur"
     },
     {
-      "id": "CLHDTZKVWNXG",
-      "ns_id": "uralscoin"
-    },
-    {
       "id": "CTNHLKWJQPXY",
       "ns_id": "uro"
     },
     {
-      "id": "CZFNLTDHVWKP",
-      "ns_id": "usd-coin"
-    },
-    {
       "id": "CZNVFLHDXPTY",
       "ns_id": "usde"
-    },
-    {
-      "id": "CVFPLQDHWXJY",
-      "ns_id": "usechain-token"
     },
     {
       "id": "CWTFDKNXPLVY",
@@ -8910,7 +8178,7 @@
       "ns_id": "vcash"
     },
     {
-      "id": "CGWNVHKYFDTX",
+      "id": "CQLNJGXFKTHP",
       "ns_id": "vechain"
     },
     {
@@ -8964,10 +8232,6 @@
     {
       "id": "CZWGPHQFYTND",
       "ns_id": "vertcoin"
-    },
-    {
-      "id": "CZVNHYFJKTPW",
-      "ns_id": "vestoria"
     },
     {
       "id": "CJXPNVHFDQTG",
@@ -9086,10 +8350,6 @@
       "ns_id": "vslice"
     },
     {
-      "id": "CWDKLPYZHGJX",
-      "ns_id": "vsportcoin"
-    },
-    {
       "id": "CWPVFYTJQNGH",
       "ns_id": "vsync-vsx"
     },
@@ -9178,14 +8438,6 @@
       "ns_id": "webcoin"
     },
     {
-      "id": "CKZPNYHQTDXF",
-      "ns_id": "well"
-    },
-    {
-      "id": "CQHZDXYGLJKV",
-      "ns_id": "welltrado"
-    },
-    {
       "id": "CXJLPKVWGHFN",
       "ns_id": "wepower"
     },
@@ -9242,22 +8494,6 @@
       "ns_id": "wink"
     },
     {
-      "id": "CWDHTQJKFXLG",
-      "ns_id": "wispr"
-    },
-    {
-      "id": "CQPKGLZFVDNY",
-      "ns_id": "witchain"
-    },
-    {
-      "id": "CHWKGLZPFJTX",
-      "ns_id": "wixlar"
-    },
-    {
-      "id": "CPFGXDYLJVZT",
-      "ns_id": "wizbl"
-    },
-    {
       "id": "CGXYPDHVWFQN",
       "ns_id": "wmcoin"
     },
@@ -9286,10 +8522,6 @@
       "ns_id": "wowcoin"
     },
     {
-      "id": "CJPXDQVGFNHY",
-      "ns_id": "wxcoins"
-    },
-    {
       "id": "CGWKPTQYNZVX",
       "ns_id": "wys-token"
     },
@@ -9298,16 +8530,8 @@
       "ns_id": "wyvern"
     },
     {
-      "id": "CPJYTVHGXZKF",
-      "ns_id": "x-cash"
-    },
-    {
       "id": "CDLGPZWHVFQY",
       "ns_id": "x-coin"
-    },
-    {
-      "id": "CKHJPQWXZTFV",
-      "ns_id": "x12-coin"
     },
     {
       "id": "CDZKXNTLJHGV",
@@ -9328,10 +8552,6 @@
     {
       "id": "CWQLXYVTNZDK",
       "ns_id": "xceltoken"
-    },
-    {
-      "id": "CQZFNVYKWHGP",
-      "ns_id": "xchange"
     },
     {
       "id": "CVLZYGHKTFQW",
@@ -9382,10 +8602,6 @@
       "ns_id": "xplay"
     },
     {
-      "id": "CPHZDJWGQVXN",
-      "ns_id": "xrtfoundation"
-    },
-    {
       "id": "CKVHQWPNYFLJ",
       "ns_id": "xtd-coin"
     },
@@ -9418,10 +8634,6 @@
       "ns_id": "yee"
     },
     {
-      "id": "CFVTLGZYNQKW",
-      "ns_id": "yeed"
-    },
-    {
       "id": "CZQDGFXNVJLP",
       "ns_id": "yellow-token"
     },
@@ -9446,10 +8658,6 @@
       "ns_id": "you-coin"
     },
     {
-      "id": "CZFJTYWLQPKG",
-      "ns_id": "youlive-coin"
-    },
-    {
       "id": "CDKVHXFLTGYQ",
       "ns_id": "yoyow"
     },
@@ -9468,10 +8676,6 @@
     {
       "id": "CJVLWYPXKNZT",
       "ns_id": "zayedcoin"
-    },
-    {
-      "id": "CZGKTLVXQFWH",
-      "ns_id": "zb"
     },
     {
       "id": "CWKDPXJQHZGF",
@@ -9526,10 +8730,6 @@
       "ns_id": "zennies"
     },
     {
-      "id": "CNTZJXVYWFDQ",
-      "ns_id": "zenswap-network-token"
-    },
-    {
       "id": "CDTYHQZKVFWP",
       "ns_id": "zephyr"
     },
@@ -9538,20 +8738,12 @@
       "ns_id": "zero"
     },
     {
-      "id": "CVJYTWNLFDZX",
-      "ns_id": "zest"
-    },
-    {
       "id": "CZLDWNTVGFJH",
       "ns_id": "zetacoin"
     },
     {
       "id": "CKWPGHFTLZJD",
       "ns_id": "zetamicron"
-    },
-    {
-      "id": "CFNDYKVLPHZG",
-      "ns_id": "zeuscrowdfunding"
     },
     {
       "id": "CHLJTYNQWVXK",
@@ -9590,10 +8782,6 @@
       "ns_id": "zonecoin"
     },
     {
-      "id": "CKFWPJYNTQDX",
-      "ns_id": "zoomba"
-    },
-    {
       "id": "CTQVXJDHKLYW",
       "ns_id": "zozocoin"
     },
@@ -9608,10 +8796,6 @@
     {
       "id": "CJNVHKFGXLWY",
       "ns_id": "zsecoin"
-    },
-    {
-      "id": "CWJVTNLQKYHG",
-      "ns_id": "ztcoin"
     },
     {
       "id": "CHJYXPFDNTVG",
